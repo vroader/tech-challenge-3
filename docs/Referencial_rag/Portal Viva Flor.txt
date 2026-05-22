@@ -1,0 +1,95 @@
+Portal Viva Flor
+
+
+
+O presente projeto consiste em um trabalho para conclusão de curso do Postech IA para DEV’s, Ministrado pela FIAP (Faculdade de Informática e Administração Paulista). O trabalho consiste em uma aplicação web fullstack com intensivo uso de ferramentas de inteligência artificial.
+
+Com vistas a criar uma ferramenta para uso real e considerando as reais necessidades da Secrearia de Segurança Pública do Distrito Federal pretende-se atender as Demandas do Programa Viva Flor.
+
+Programa Viva Flor
+
+
+O Programa Viva Flor é uma iniciativa da Secretaria de Segurança Pública do Distrito Federal (SSP-DF) que utiliza tecnologia para proteger mulheres em situação de violência doméstica, monitorando vítimas e agressores em tempo real 24/7. A ferramenta principal é um aplicativo com "botão do pânico" para a vítima e monitoramento do agressor por tornozeleira eletrônica, permitindo intervenção rápida da Polícia Militar.Principais Características e Funcionamento:Tecnologia de Monitoramento: O sistema monitora a localização da vítima e do agressor. Se o agressor se aproximar da zona de exclusão, um alerta é acionado na central, e a Polícia Militar é acionada.Botão do Pânico: As mulheres participantes possuem um aplicativo no celular que permite acionar a polícia imediatamente em situações de emergência.Público-Alvo: Mulheres com medidas protetivas de urgência (MPUs) vigentes, que se encontram em alto risco de violência.Como Participar: A inserção no programa ocorre via judicial (determinação de um juiz) ou através das Delegacias Especiais de Atendimento à Mulher (DEAMs), após avaliação de risco.Abrangência: O programa tem sido eficaz, resultando na prisão de diversos agressores que descumpriram as medidas protetivas no DF.O programa, que funciona de forma integrada com a Polícia Civil, Polícia Militar, Ministério Público e Poder Judiciário, é considerado um importante instrumento para salvar vidas e combater o feminicídio.
+
+
+
+Demandas do Programa
+
+Ao ingressarem no programa as mulheres são submetidas a um questionário onde fornecem uma série de informações que ajudam a avaliar o nível de risco ao qual a assistida está submetida.
+
+Acontece que os dados de cadastro e a aplicação do formulário são realizados por servidores da SSP e armazendos em tabelas em excel.
+
+
+Neste contexto vamos criar uma uma aplicação FullStack, com as seguintes tectnologias:
+
+• Banco em SQL Server
+
+• APIs with Django REST framework.
+
+• Custom user models and model managers in Django.
+
+• Token based authentication.
+
+• UUID’s 
+
+• Pytest using factories and fixtures.
+
+• Python Test coverage 
+
+• Django filtering.
+
+• Django signals
+
+• Django admin customization
+
+• Django security.
+
+• Logging in Django.
+
+• Docker and containers with docker-compose.
+
+• shell scripts in Docker
+
+• Asynchronous tasks with Celery and Redis
+
+• Asynchronous tasks monitoring with Flower
+
+• Working with Postgres within a Docker container 
+
+• Setting up Nginx as a web server /reverse proxy.
+
+• Serving static and media files with Nginx
+
+• Utilizing Makefiles to make working with Docker easier.
+
+• React Hooks.
+
+• Redux.
+
+• Using Ant Design with React
+
+A estrutura do projeto tera como referência o seguinte projeto hospedado no github https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnlmamFfeXhQd0ZLbFpsVkxWQ2pYOEhVcUZ6Z3xBQ3Jtc0ttNFNCd1FmOHEweFBLbmwtUlhPZXBIX3pKVjZXLWEwa3lFOG1BQ3dydTFIVWl1bjRLUVJueHJ2TFAwUVdOaFR4aWZuNW5TMWlGR3AzQmp3b3hQTmtHU3Q1RHFQV0hLUTJFT0FlRmVBaVNXTGd3NlFfbw&q=https%3A%2F%2Fgithub.com%2FAPI-Imperfect%2Fdjango-real-estate&v=UsfR34yl9K8
+
+
+Prérequisitos para o trabalho de conclusão 
+
+Para além das demandas mais urgentes do Programa Viva Flor, o projeto deve contemplar ferramentas de inteligência artificial que foram apresentadas no curso, a fim de avaliar o conhecimento dos pós-graduandos.
+
+A cada fase do Programa de Curso é proposto um desafio aos instruendos. Conforme os desafios forem propostos iremos desenvolver soluções que se adequem às ferramentas propostas e a realidade do programa. O projeto final pretende absorver a aplicação e as soluções mais efetivas.
+
+
+
+Planejamento e Execução
+
+Neste sentido iremos primeiro planejar a criação da Aplicação, com seu respectivo banco de dados em SQL-Server, back end e API Django, Dockerização e formulários e front-end com React e demais ferramentas já apresentadas. Após concluída a primeira etapa iremos planejar as ferramntas específicas de IA durante o desenvolvimento do curso conforme as matérias apresentadas sejam úteis para melhorias na aplicação. 
+
+
+Estrutura de dados
+
+
+
+A estrutura de dados será composta primeiramente com duas aplições, uma delas com os dados dos usuários, sejam eles servidores responsáveis pela administração do projeto, sejam eles assistidos. A aplicação para gestão de usuários terá como referência a estrutura do projeto hospedado no github já mencionado, no qual será criados níveis de usuários, sendo eles administrativos ou não, ativos ou não, assistidos e monitorados (indivíduos que são alvo de tornozeleira por decisão judicial). Também será levada em consideração a tabela já utilizada no programa para gestão de assistidos, que deverá ser normalizada para ser implementada em um SGBD SQL-SERVER. A gestão de usuários será feita no Django admin, onde será possível cadastrar, desabilitar, conferir níveis de acesso à  administradores, assistidos e monitorados, conforme critérios a serem estabelecidos.
+
+A estrutura de dados também deverá contemplar uma os dados do Formulário ao qual as assistidas são submetidas o início do acompanhamento. Este formulário deverá ser normalizado e também ser hospedado em um banco SQL-SERVER, mas a inserção de dados deverá ser feita via formulário com visual mais amigável em React, para que possa seu preenchimento possa ser feito em celular ou tablet, pelos servidores da gestão do projeto ou pelas assistidas, em um formulário gerado por servidor a ser encominhado em link, por whatsapp, e-mail, ou outro meio digital fornecido.
+
+As demais regras de negócio serão estabelecidas em momento oportuno, juntamente com os Servidores envolvidos com o programa.

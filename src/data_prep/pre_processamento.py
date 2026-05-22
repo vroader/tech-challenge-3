@@ -9,7 +9,7 @@ df = pd.read_excel("data/Dados_Treinamento/DEAM2026.xlsx")
 df = df[df["Histórico"] != "BLOQUEADO"]
 
 # Eliminar linhas campo Natureza = Em apuração
-df = df[df["Natureza Padronizada"] != "Em apuração"]
+df = df[df["Natureza"] != "EM APURACAO"]
 
 # Manter apenas um registro com mesmo:
 # Ano de Registro, Unidade Policial de Registro, Número e Aditamento
@@ -32,7 +32,7 @@ colunas_para_eliminar = [
     "Flagrante (S/N)?", "Cd.Natureza", "Natureza Padronizada", "Cidade do Endereço do Fato",
     "Cidade com RA", "Área do Endereço do Fato", "Quadra do Endereço do Fato",
     "Complemento do Endereço do Fato", "Latitude GEO", "Longitude GEO",
-    "Latitude UTM", "Longitude UTM", "Cd.Unidade Apuração", "Ano Proced.",
+    "Latitude UTM", "Longitude UTM", "Cd.Unidade Apuração", "Unidade Policial de Apuração", "Ano Proced.",
     "Data Instauração", "Cd. Órgão Proced.", "Órgão Procedimento", "Número Procedimento",
     "Cd.Tipo Proced.", "Tipo Procedimento", "TCNet?(Sim/Não)", "Tipo Instauração",
     "Data relatamento", "Nome Envolvido Proced", "Número do processo",
@@ -43,4 +43,4 @@ colunas_para_eliminar = [
 df = df.drop(columns=colunas_para_eliminar, errors="ignore")
 
 # Salvar o arquivo resultante
-df.to_excel("data/Dados_Treinamento/DEAM2026_preprocessadoII.xlsx", index=False)
+df.to_excel("data/Dados_Treinamento/DEAM2026_preprocessado.xlsx", index=False)

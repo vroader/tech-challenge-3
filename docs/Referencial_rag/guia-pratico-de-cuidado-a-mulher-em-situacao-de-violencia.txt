@@ -1,0 +1,1596 @@
+Versão preliminar
+GUIA PRÁTICO DE CUIDADO  
+À MULHER EM SITUAÇÃO  
+DE VIOLÊNCIA
+MINISTÉRIO DA SAÚDE
+Brasília – DF
+2025
+Versão preliminar
+
+GUIA PRÁTICO DE CUIDADO  
+À MULHER EM SITUAÇÃO 
+DE VIOLÊNCIA
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção Primária à Saúde
+Departamento de Gestão do Cuidado Integral
+Brasília – DF
+2025
+Versão preliminar
+
+Versão preliminar
+2025 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não Comercial – Compartilhamento pela mesma 
+licença 4.0 Internacional. É permitida a reprodução parcial ou total desta obra, desde que citada a fonte.A coleção institucional do 
+Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde: http:/ /bvsms.saude.gov.br. 
+Tiragem: 1ª edição – 2025 – versão eletrônica
+Elaboração, distribuição e informações: 
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção Primária à Saúde
+Departamento de Gestão do Cuidado 
+Integral
+Coordenação-Geral de Atenção à Saúde 
+das Mulheres
+Esplanada dos Ministérios, bloco O, 8º 
+andar
+CEP: 70052-900 — Brasília/DF
+Site: https:/ /aps.saude.gov.br/
+E-mail: saps@saude.gov.br
+Ministro de Estado da Saúde
+Alexandre dos Santos Padilha
+Secretária de Atenção Primária à Saúde
+Ana Luiza Ferreira Rodrigues Caldas 
+Edição Geral:
+Olívia Lucena de Medeiros
+ 
+ 
+Coordenação: 
+Felipe Proenço de Oliveira
+Grace Fátima Souza Rosa
+Renata de Souza Reis
+ 
+Elaboração:
+Ana Flávia Pires Lucas d’Oliveira
+Lilia Blima Schreiber
+Stephanie Pereira
+Colaboração:
+Bruno Arantes Campos
+Cheila Marina de Lima
+Cecília Guida Diane Dada Cohen 
+Diane Dada Cohen
+Eduardo Carvajal
+Fernanda Cassiano de Lima
+Fernanda Lopes Regina
+Heloisa Hanada
+Janaina Marques de Aguiar 
+Julia Baldini
+Júlia Durand
+Laura Chieppe Moura de Medeiros
+Letícia de Oliveira Cardoso
+Ligia Maria Carlos Aguiar
+Ligia Kiss
+Luciana Almeida
+Marcia Thereza Couto
+Mariana Seabra Souza Pereira
+Naíza Nayla Bandeira de Sá
+Rayanne Tavares Araújo
+Ranielle de Paula Silva
+Renata Granusso Bonin
+Ricardo Góes
+Wagner dos Santos Figueiredo
+Edição Científica:
+Ana Flávia Pires Lucas d’Oliveira
+Fernando Pessoa de Albuquerque
+Juliana Vieira Wahl Pereira
+Lilia Blima Schreiber
+Priscilla Caroline de Sousa Brito
+Organização e revisão:
+Fernando Pessoa de Albuquerque
+Grace Fátima Souza Rosa
+Heloisa da Veiga Coelho
+Juliana Vieira Wahl Pereira
+Priscilla Caroline de Sousa Brito
+Renata de Souza Reis
+Apoio editorial – DGCI:
+Nayara Rezende da Silva
+Raiane Fabiula Rodrigues de Azevedo
+Coordenação editorial:
+Júlio César de Carvalho e Silva
+Diagramação:
+Gabriel Dias
+Projeto Gráfico: 
+Gabriel Dias
+Normalização:
+Delano de Aquino Silva – Editora 
+MS/CGDI
+Revisão:
+Khamila Silva – Editora MS/CGDI
+
+Versão preliminar
+SUMÁRIO
+Apresentação ......................................................................................................................................................................................................4
+Introdução ........................................................................................................................................................................................................5
+Por que  abordar violência doméstica nos serviços de Atenção Primária à Saúde?........................................................................7
+Tipos de violência doméstica contra a mulher .........................................................................................................................................8
+Quando suspeitar? Sinais e sintomas relacionados  ................................................................................................................................10
+Obstáculos para a identificação dos casos ..............................................................................................................................................11
+Identificação: como abordar a mulher? ....................................................................................................................................................12
+Perguntando diretamente em qualquer situação de violência  ..................................................................................................................................13
+Perguntando indiretamente diante da suspeita de violência doméstica ou familiar  .................................................................................13
+Acolhimento: como proceder? .....................................................................................................................................................................14
+A escuta livre de julgamentos morais ...........................................................................................................................................................................................15
+A garantia do sigilo .....................................................................................................................................................................................................................................17
+Validando o relato da mulher ..............................................................................................................................................................................................................17
+Não vitimização da mulher ..................................................................................................................................................................................................................18
+Realizando a avaliação de risco e o plano de segurança  .................................................................................................................................................18
+Decisão assistencial compartilhada ..............................................................................................................................................................................................20
+Potencialidades e limites do trabalho ..........................................................................................................................................................................................21
+E se ela não denunciar à polícia? .....................................................................................................................................................................................................23
+Encaminhamentos: articulação interna e com a rede intersetorial  ...................................................................................................24
+Articulações intrassetoriais ..................................................................................................................................................................................................................24
+Articulações com serviços da rede intersetorial  ....................................................................................................................................................................25
+Trabalho em equipe ........................................................................................................................................................................................28
+O que cabe ao agente comunitário de saúde (ACS)  ..........................................................................................................................................................28
+O que cabe aos profissionais de medicina e enfermagem  ...........................................................................................................................................28
+
+Versão preliminar
+O que cabe aos profissionais de psicologia  ..............................................................................................................................................................................29
+O que cabe aos profissionais de assistência social  .............................................................................................................................................................30
+O que cabe aos profissionais da equipes multiprofissionais (eMulti)  ....................................................................................................................30
+Situações de risco: planos de segurança ...................................................................................................................................................31
+No território .....................................................................................................................................................................................................................................................31
+No serviço .........................................................................................................................................................................................................................................................31
+E se o(a) companheiro(a) dela também for meu paciente? ..................................................................................................................33
+Registro em prontuário ..................................................................................................................................................................................34
+Notificação compulsória ...............................................................................................................................................................................34
+Apoio institucionaL .........................................................................................................................................................................................37
+Referências ........................................................................................................................................................................................................39
+Anexo – Orientações para a implementação dos ambientes privativos e individualizados nos serviços de saúde prestados 
+no âmbito do Sistema Único de Saúde (SUS), conhecidos como Sala Lilás  ......................................................................................43
+
+Versão preliminar
+APRESENTAÇÃO
+Esta publicação é uma revisão do Protocolo de Atendimento às Mulheres em Situação de Violência (2019), produzido pelo Grupo 
+de Pesquisa e Intervenção Violência e Gênero nas Práticas de Saúde, do Departamento de Medicina Preventiva da Faculdade de
+Medicina da Universidade de São Paulo. Publicado em 2019, o Protocolo foi uma revisão da cartilha “O que devem saber os 
+profissionais de saúde para promover os direitos e a saúde das mulheres em situação de violência” (2002). As publicações citadas 
+tiveram apoio e financiamento da Fundação Ford (2002) e do grupo de saúde global Healthcare Responding to Violence and 
+Abuse (HERA), sob financiamentos do Medical Research Council e pelo National Institute for Health and Care Research (2019).
+Nessa nova versão do material, o trabalho contou com a revisão técnica do Ministério da Saúde, em especial o Departamento de 
+Gestão do Cuidado Integral (DGCI) da Secretaria de Atenção Primária à Saúde (Saps), onde estão as coordenações dedicadas aos 
+ciclos de vida, incluindo a Coordenação-Geral de Atenção à Saúde das Mulheres; e o Departamento de Análise Epidemiológica 
+e Vigilância de Doenças Não Transmissíveis (Daent) da Secretaria de Vigilância em Saúde e Ambiente (SVSA), onde está a 
+Coordenação-Geral de Vigilância e Prevenção de Violências e Acidentes e Promoção da Cultura de Paz.
+Este Guia é o resultado de anos de pesquisa, de diversos estudos publicados sobre a violência de gênero e sobre o modelo 
+de assistência para os serviços de Atenção Primária à Saúde (APS), protocolado como Atenção a Conflitos Familiares Difíceis 
+(Confad), nome eleito para evitar o termo estigmatizante “violência”. Esse modelo de atendimento acumula cerca de 24 anos 
+de intervenção prática em um serviço de atenção primária, o Centro de Saúde Escola Samuel B. Pessoa, ligado à Faculdade de 
+Medicina da Universidade de São Paulo (FMUSP). Ao trabalho inicialmente desenvolvido pela equipe da FMUSP, acrescentamos 
+as contribuições do Ministério da Saúde, incluindo as orientações para a adequação dos espaços de acolhimento e atendimento 
+nos serviços.
+No conjunto, compilamos aqui as mais recentes recomendações e evidências para que os profissionais de saúde garantam 
+os direitos das mulheres em situação de violência, ofertem cuidado em saúde de forma apropriada e efetiva, tornando mais 
+produtivo, criativo e acolhedor o trabalho cotidiano, além de promover e possibilitar a interrupção do ciclo de violências nesta 
+população. Conscientes dos obstáculos encontrados pelas trabalhadoras e trabalhadores de saúde que atuam no Sistema Único 
+de Saúde (SUS), este guia busca de forma prática, fornecer instrumentos e diretrizes para apoiar o processo de trabalho e gestão 
+do cuidado em casos de violência doméstica contra a mulher na APS.
+4
+
+5
+Versão preliminar
+INTRODUÇÃO
+A Lei Maria da Penha define violência doméstica contra a mulher como “qualquer ação ou omissão baseada no gênero que 
+lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial” dentro do lar, da família e de 
+qualquer relação de afeto na qual o(a) agressor(a) conviva ou tenha convivido com a mulher, independentemente de coabitação 
+(Brasil, 2006a). A violência doméstica contra a mulher é um dos produtos das desigualdades de gênero presentes em nossa 
+sociedade. Seu enfrentamento é um compromisso do Brasil junto à comunidade internacional e está presente nos Objetivos de 
+Desenvolvimento Sustentável (ODS) da Agenda 2030 das Nações Unidas.
+A violência doméstica contra a mulher é um problema muito prevalente, afetando cerca de uma em cada três brasileiras 
+(Instituto DataSenado, 2023). A forma mais comum é a praticada por parceiro íntimo, ou seja, maridos e ex-maridos, namorados 
+e ex-namorados. É importante ressaltar que as relações pessoais independem da orientação sexual e mulheres também podem 
+vivenciar violência por parte de suas parceiras em relacionamentos homoafetivos.
+É fundamental destacar que a violência doméstica contra a mulher pode afetar todas as mulheres. Entretanto, segundo a 
+literatura científica, a violência afeta desproporcionalmente mulheres com um ou mais fatores a seguir: baixa escolaridade, 
+violência física conjugal entre os pais da mulher, abuso sexual na infância, cinco ou mais gestações e problemas com a bebida 
+(Baigorria, 2017; Brasil, 2023a; Costa et al., 2017).
+Além disso, mulheres negras têm sido mais representadas nas estatísticas de feminicídio e de outros tipos de violência no Brasil 
+(Brasil, 2023b; Paz et al., 2019), levantando preocupações sobre obstáculos ainda maiores dessas mulheres para o acesso aos 
+direitos. Por essa razão, o impacto do racismo não pode ser excluído das discussões sobre violência contra as mulheres, inclusive 
+no que diz respeito à qualidade de cuidado que mulheres negras recebem, uma vez que o racismo tem sido descrito como 
+um articulador das desigualdades, com influência nas relações de gênero e na hierarquia de gêneros na sociedade (Carneiro, 
+2017). De forma interseccional, o racismo, associado às desigualdades de gênero e de classe, incide na vida das mulheres negras, 
+tornando-as mais vulneráveis a violência racial e de gênero e impondo barreiras de acesso às políticas públicas de proteção à 
+mulher em situação de violência (Carrijo; Martins, 2020).
+Chamamos atenção para outros marcadores sociais da diferença também capazes de produzir desigualdades no acesso aos 
+direitos das mulheres, entendidas em sua pluralidade: mulheres indígenas, mulheres lésbicas, bissexuais, transexuais, travestis, 
+queer, intersexuais e assexuais (LBTQIA+), mulheres usuárias de drogas, mulheres migrantes/refugiadas/apátridas, mulheres 
+com deficiência, mulheres quilombolas, mulheres ribeirinhas, mulheres ciganas/romani, mulheres em situação de rua, mulheres 
+jovens, mulheres idosas. Esses marcadores sociais da diferença não são fixos, mas sim dinâmicos e relacionais, variando 
+conforme o território e a forma como as desigualdades se manifestam nele. 
+Esse é um tema fundamental, pois tais marcadores estruturam relações de poder e impactam diretamente o acesso a direitos, 
+oportunidades e recursos, além de influenciar na produção de violência contra estes corpos. Não obstante, em 2025 o Supremo 
+Tribunal Federal (STF) estendeu a proteção da Lei Maria da Penha a casais homoafetivos formados por homens e mulheres 
+travestis e transexuais, o que deve ser considerado na atenção à violência e nas ações dispostas neste guia.
+
+6
+Versão preliminar
+Faz parte do cuidado às mulheres em situação de violência, portanto, o reconhecimento dessas desigualdades e de seus efeitos 
+em suas vidas para que seja garantida a equidade preconizada como princípio do SUS.
+Importante ressaltar, ainda, que a violência tem repercussões tanto sobre a saúde de mulheres de todas as idades 
+quanto sobre as crianças, além de gerar consequências socioeconômicas. Reconhecida como uma séria questão 
+de saúde pública pela Organização Mundial da Saúde (OMS), a violência doméstica contra as mulheres está 
+fortemente associada a dores crônicas, problemas de saúde mental e questões relacionadas à saúde sexual e saúde 
+reprodutiva, além da mortalidade por feminicídio (WHO, 2021). Dessa forma, torna-se fundamental e imperativo que 
+profissionais de saúde, especialmente na porta-de-entrada preferencial do SUS, a Atenção Primária, saibam lidar com  
+esse problema.
+Ressaltamos que este Guia é direcionado para o cuidado de mulheres adultas (18 anos ou mais). O cuidado 
+às crianças e adolescentes em situação de violência envolve diferentes abordagens e outros procedimentos 
+legais. Para mais informações sobre o cuidado aos casos de violência contra crianças e adolescentes, acesse os 
+documentos: 
+Vale destacar que o acolhimento aos casos de violência proposto por este Guia, enquanto postura ética 
+transversal às práticas dos profissionais de saúde, pode auxiliar na conduta e no manejo em todos os casos, 
+independente se criança, adolescente, adulto ou pessoa idosa. 
+LINHA DE 
+CUIDADO
+GUIA DA ESCUTA 
+ESPECIALIZADA (MINISTÉRIO 
+DOS DIREITOS HUMANOS)
+PACTO DA  
+ESCUTA 
+PROTEGIDA
+
+7
+Versão preliminar
+POR QUE ABORDAR VIOLÊNCIA DOMÉSTICA NA APS?
+A Atenção Primária à Saúde enquanto ordenadora da Rede de Atenção à Saúde (RAS) e coordenadora do cuidado, é o nível 
+de atenção mais próximo de onde as pessoas (con)vivem nos territórios, consequentemente possui papel fundamental na 
+identificação de situações de violência doméstica. 
+O conhecimento do contexto social das mulheres no território de atuação permite que profissionais de saúde identifiquem 
+necessidades individuais e coletivas e situações de violência muitas vezes silenciadas e invisibilizadas. Além disso, é a partir da 
+APS que se é possível permitir o acesso aos cuidados compartilhados com os demais pontos da RAS, garantindo um cuidado 
+integral e longitudinal para essas mulheres.
+Os profissionais de saúde estão em posição estratégica para identificar casos de violência doméstica, pois as mulheres são as 
+principais usuárias de serviços de saúde, especialmente na Atenção Primária. A frequência das ocorrências de violência entre 
+as usuárias desses serviços é ainda mais alarmante que na população geral, sendo 54,8% para violência física e/ou sexual e 76% 
+para qualquer tipo de violência. Isso significa que a cada duas mulheres atendidas no serviço, uma vive ou viveu uma situação 
+de violência física ou sexual. Ou, ainda, que a cada quatro mulheres que utilizam o serviço, três vivem ou já viveram algum tipo 
+de violência doméstica (Schraiber et al., 2007).
+As mulheres em situação de violência, mesmo que não a revelam, tendem a usar os serviços de saúde com maior frequência do 
+que as que não estão ou nunca estiveram nesta situação. Quando não abordado de forma adequada, o problema da violência 
+costuma ter impacto negativo nos serviços de saúde devido ao uso frequente e à assistência pouco resolutiva: usuárias em 
+situação de violência têm mais queixas e sintomas do que aquelas que não vivenciam estas situações.
+Os serviços da APS, especialmente as Unidades Básicas de Saúde (UBS), apresentam aspectos que os tornam locais estratégicos 
+para identificação dos casos de mulheres em situação de violência: proximidade com o território; perspectiva de integralidade 
+aplicada à assistência; são portas de entrada do sistema de saúde; são serviços que as mulheres procuram mesmo sem queixas 
+ou sintomas e/ou para ações preventivas, como exame preventivo do câncer colo do útero, vacinação, entre outros; produzem 
+atendimento longitudinal e não apenas episódico; e não são espaços de segurança pública e investigação. É dizer, além de 
+estratégicos, podem ser também mais acolhedores.
+Intervir em situações de violência não é tarefa exclusiva das esferas jurídica, policial e da assistência social, mas também da 
+saúde. O caráter crônico da violência doméstica provoca sofrimento, adoecimento e pode levar à negligência do autocuidado 
+e do cuidado de outras pessoas, como adolescentes, crianças e pessoas idosas, pelas quais a mulher, tradicionalmente, é a 
+principal responsável.
+
+8
+Versão preliminar
+TIPOS DE VIOLÊNCIA DOMÉSTICA CONTRA A MULHER
+Segundo a Lei Maria da Penha, configuram tipos de violência contra a mulher: violência física, psicológica, sexual, patrimonial 
+e moral. Além das formas encontradas na Lei, há também os comportamentos controladores, sinais de que os profissionais de 
+saúde podem ficar atentos: não permitir visitas ou conversas com amigas e/ou familiares, impedir acesso ao sistema de saúde, 
+dúvidas constantes quanto à fidelidade, negar acesso a dinheiro necessário, insistência em controlar os lugares que frequenta, 
+privação/restrição da liberdade, impedimento ao trabalho ou estudo.
+São exemplos de violência contra a mulher:
+VIOLÊNCIA 
+ FÍSICA:
+Tapas
+Empurrões
+Chutes
+Bofetadas
+Tentativa de asfixia
+Ameaça com faca ou arma de 
+fogo
+Tentativa de homicídio
+Puxões de cabelo
+Beliscões
+Mordidas
+Queimaduras
+Sacudir o corpo
+Apertar os braços
+VIOLÊNCIA  
+PSICOLÓGICA:
+Humilhações
+Críticas repetitivas, uso de nomes ofensivos como: feia, estúpida, burra, puta, 
+louca, histérica etc
+Ameaças de agressão física
+Danos propositais ou ameaças a objetos pessoais
+Danos ou ameaças a animais de estimação
+Danos ou ameaças a pessoas queridas
+Impedimento de contato com família e amigos
+Ameaças a crianças como forma de atingir a mulher (incluindo solicitar a guarda 
+nos casos de separação e fazer ameaças durante o período em que o(a) autor(a) 
+da violência está com as crianças)
+Bullying e perseguição (stalking)
+Chantagens financeiras
+Ameaça de exposição da intimidade
+
+9
+Versão preliminar
+VIOLÊNCIA PATRIMONIAL 
+Ocultar, roubar ou danificar: 
+Dinheiro
+Bens
+Objetos
+Documentos
+Pertences em geral da mulher
+Criar dívidas em nome da mulher
+VIOLÊNCIA SEXUAL 
+Práticas sexuais não consentidas, que podem se manifestar de diversas maneiras:
+Expressões verbais ou corporais que não são do agrado da pessoa
+Estupro conjugal ou por parceiro(a)
+Forçar sexo sem anticoncepção e sem proteção contra IST
+Retirada do preservativo durante o ato sexual sem o consentimento da mulher
+Toques não desejados
+Pornografia de vingança e outras exposições do corpo ou intimidade contra a vontade da pessoa em redes 
+sociais
+Importunação sexual
+Exibicionismo e voyeurismo sem consentimento
+Exploração sexual
+Participação forçada em pornografia
+Assédio sexual
+VIOLÊNCIA MORAL 
+Qualquer conduta que configure: 
+Calúnia
+Difamação ou injúria
+Conduta com o objetivo de prejudicar a imagem da 
+mulher no espaço público (trabalho, bairro, família, 
+amigos etc.).
+Xingamentos ou atribuição de fatos que não são 
+verdadeiros.
+
+10
+Versão preliminar
+QUANDO SUSPEITAR? SINAIS E SINTOMAS RELACIONADOS
+Mulheres em situação de violência estão mais propensas a alguns problemas de saúde. Alguns sinais e sintomas podem 
+despertar suspeita e facilitar a identificação dos casos em diversos segmentos da vida.
+Quando não são abordados de forma integrada, os processos patológicos que surgem associados à violência e ao sofrimento 
+psicoemocional resultam em casos de difícil manejo, mesmo quando se trata de patologias mais simples e bem conhecidas. 
+Esses casos geram alto custo para o sistema de saúde, estão sujeitos a iatrogenias e tornam-se frustrantes para os profissionais, 
+além de poderem causar sequelas, incapacidades e mortes prematuras.
+SAÚDE MENTAL:
+• Baixa autoestima.
+• Estresse.
+• Ansiedade.
+• Depressão.
+• Ideação e/ou tentativas de suicídio.
+• Autoagressão.
+• Comportamentos autoprejudiciais: abuso de álcool e 
+outras drogas.
+• Insônia.
+• Transtorno de estresse pós-traumático.
+• Síndrome do pânico.
+• Problemas emocionais e comportamentais das 
+crianças como consequência da violência sofrida pelas 
+mulheres.
+• Raiva.
+• Agressividade.
+• Pior autopercepção de saúde.
+• Ganho ou perda de peso repentino e não intencional.
+SAÚDE SEXUAL, SAÚDE REPRODUTIVA E SAÚDE MATERNA E 
+INFANTIL:
+• Lesões na região genital.
+• Infecções sexualmente transmissíveis de repetição e HIV.
+• Dor pélvica, dor durante o ato sexual e demais problemas 
+sexuais.
+• Infecções urinárias de repetição.
+• Gestações não desejadas.
+• Atraso no início, faltas frequentes ou não realização do pré-
+natal.
+• Prematuridade, baixo peso e óbito fetal.
+Queixas gerais:
+• Lesões repetidas e/ou não explicadas.
+• Dores crônicas: gastrointestinais, cefaleias.
+• Consultas repetidas sem diagnóstico claro.
+• Parceiro intrusivo nas consultas.
+• Falta constante à própria consulta e das crianças.
+
+11
+Versão preliminar
+OBSTÁCULOS PARA A IDENTIFICAÇÃO DOS CASOS
+NÃO JULGUE!
+Algumas mulheres podem ter dificuldade para falar o 
+que está acontecendo para os profissionais de saúde!  
+Saiba mais... 
+• Ela se sente envergonhada ou humilhada.
+• Ela se sente culpada pela violência.
+• Tem medo de ser responsabilizada pela 
+violência.
+• Teme pela sua segurança pessoal e pela 
+segurança de seus(suas) filhos(as).
+• Teve suas más experiências no passado 
+quando contou sua situação.
+• Sente que não tem controle sobre o que 
+acontece na sua vida.
+• Espera que o autor da violência mude como 
+ele prometeu.
+• Crê que suas lesões e problemas não são 
+importantes.
+• Quer proteger seu companheiro por razões de 
+dependência econômica ou afetiva.
+• Tem medo de perder seus(suas) filhos(as).
+• O autor da violência a acompanha ao serviço e 
+não a deixa só com os profissionais.
+ATENÇÃO
+Algumas condutas profissionais ou pensamentos que podem ser 
+barreiras na detecção de casos de violência:
+• Acreditam que a violência doméstica é um problema social 
+ou legal, mas não um problema de saúde pública.
+• Não sabem o que fazer se uma mulher lhes contasse sobre 
+suas experiências de violência e por isso têm medo de 
+perguntar.
+• Acreditam que as mulheres merecem o abuso ou gostam de 
+ser agredidas, senão não ficariam com o autor da violência.
+• Acreditam que a violência é um problema pessoal e privado e 
+os profissionais não têm o direito de se intrometer neste tipo 
+de assunto.
+• As mulheres podem se sentir ofendidas ao serem 
+diretamente questionadas sobre violência.
+• A violência doméstica não acontece entre mulheres 
+profissionais ou famílias com maior poder aquisitivo.
+• A pressão para atender muitas pessoas por turno não lhes 
+permite mencionar a violência.
+• Os próprios profissionais estão ou estiveram envolvidos em 
+situação de violência doméstica ou conhecem casos com 
+seus familiares, o que dificulta a ação.
+• Podem conhecer pessoalmente o autor da violência ou 
+membros de sua família e assim se sentirem constrangidos 
+ou com dilemas éticos em abordar o tema.
+• Temem por sua segurança física ao se envolverem  
+na situação.
+
+12
+Versão preliminar
+IDENTIFICAÇÃO:  
+COMO ABORDAR A MULHER?
+• Sempre que você suspeitar que seja uma situação de violência, procure uma forma de abordar o assunto.
+• Garanta privacidade e sigilo: sempre observe o espaço e a companhia antes de abordar o assunto, atentando para 
+atendimento em ambiente privativo e individualizado (conforme estabelecido na Lei nº 14.847/2024) que deve 
+proporcionar atenção acolhedora, resolutiva e humanizada, de preferência na Sala Lilás.
+• Evitar abordar o assunto durante as visitas domiciliares, encontros no território ou em espaços coletivos da unidade de saúde, 
+que podem expor a vítima, priorizando convidá-la, nestes ambientes, a um atendimento individual ou recomendar que agende  
+uma consulta.
+• Nunca pergunte a respeito de violência se a mulher estiver acompanhada, em especial de crianças a partir de 2 anos 
+de idade. A companhia de outra mulher também não é garantia de segurança.
+Nem todas as mulheres nomeiam as ocorrências como violência, podendo referir-se aos atos como “agressividade” ou 
+“ignorância”. Mantenha isso em mente ao iniciar a conversa, já que as usuárias podem negar se questionadas diretamente por 
+violência, uma vez que nem sempre reconhecem sua vivência dessa forma. 
+Atenção! Em casos de violência sexual, tenha cuidado também em usar o termo “estupro” se a mulher não o usou, porque ela 
+pode rejeitar essa abordagem.
+A nomeação do problema como violência não é fundamental para o atendimento à mulher. Ela pode não nomear sua situação 
+como violência e ainda assim compreender que representa um problema para sua vida e tomar ações para a resolução do 
+problema. A questão da nomeação foi bem estudada no artigo “Violência vivida: a dor que não tem nome” (Schraiber et al., 
+2003), incluído nas referências deste documento. Durante a abordagem, você pode usar o mesmo termo que ela usa para se 
+referir ao problema. As mulheres também costumam se identificar bastante com o termo “conflito familiar difícil”.
+A abordagem pode ser feita de maneira direta ou indireta, desde que você não deixe de perguntar e saiba avaliar o que parece 
+mais pertinente no atendimento, prezando pelo respeito e pela intimidade da usuária
+
+13
+Versão preliminar
+Perguntando diretamente em 
+qualquer situação de violência 
+Perguntas possíveis:
+Perguntando indiretamente diante de 
+suspeita de violência doméstica ou familiar 
+Perguntas possíveis:
+“Como você deve saber, hoje em dia não é raro escutarmos 
+sobre pessoas que foram agredidas ou sofreram abusos 
+psicológicos e/ou sexuais ao longo de suas vidas, e sabemos 
+que isso pode afetar a saúde mesmo anos mais tarde. Isso 
+aconteceu alguma vez com você?”
+“Já vi problemas como o seu em pessoas que são fisicamente 
+agredidas. Isso aconteceu com você?”
+“Alguém te agride? Se sim: agride com palavras ou 
+fisicamente?”
+“Você já foi forçada a ter relações sexuais, ainda que tenha sido 
+com alguém próximo?”
+“Alguém insulta ou desrespeita você?”
+“Alguém tenta controlar você, por exemplo, não permitindo 
+que saia de casa, faça ligações telefônicas ou tenha acesso a 
+dinheiro?”
+“Está tudo bem em sua casa, com 
+ seu/sua companheiro(a)?”
+“Você está com problemas no 
+ relacionamento familiar?”
+“Você acha que os problemas em casa estão 
+afetando sua saúde?”
+“Você e seu/sua companheiro(a) (ou filho, ou 
+pai, ou familiar) brigam muito?”
+“Quando vocês discutem, ele(a) fica 
+agressivo(a)?
+Ainda que a mulher se negue a falar a respeito da situação de violência e você mantenha a suspeita, não a pressione. A 
+abordagem inicial já indica à mulher que há abertura do serviço e interesse em acolhê-la, caso ela queira falar de alguma 
+situação posteriormente. 
+O profissional pode agendar um retorno próximo para manter a oportunidade aberta. Inclusive, é incentivado que se 
+mantenha um acompanhamento do caso para um cuidado longitudinal, pode-se contar com a atuação conjunta entre 
+as equipes Multiprofissionais na APS (eMulti) e as equipes de Saúde da Família (eSF) / equipes de Saúde da Família 
+Ribeirinhas (eSFR) / equipes de Atenção Primária (eAP) / equipes de Consultório na Rua (eCR).
+
+14
+Versão preliminar
+ACOLHIMENTO: COMO PROCEDER? 
+Não basta apenas perguntar, esteja preparado para responder. Uma vez iniciada a abordagem, é necessária uma escuta atenta 
+e habilidade para conduzir e encaminhar a situação. Lembre-se de utilizar espaços adequados para realizar o acolhimento, em 
+ambiente privativo e individualizado, garantindo a privacidade e a integridade física da mulher. A OMS preconiza um suporte de 
+primeira linha composto por cinco itens básicos: escutar, perguntar, validar, aprimorar a segurança e fornecer apoio (LIVES, da 
+sigla em inglês).
+Com o tempo e a prática você pode criar seu próprio repertório de abordagens nessas situações, de acordo com as 
+características socioculturais das mulheres de seu território de abrangência. Porém, alguns princípios gerais devem ser seguidos 
+em qualquer abordagem: não julgar moralmente, acreditar na usuária, garantir sigilo, não vitimizar e estimular uma decisão 
+assistencial compartilhada. Informe a mulher que você está seguindo estes princípios, isso ajuda a mulher a se sentir mais 
+segura para falar.
+Você pode dizer: “o atendimento é sigiloso e você pode se sentir segura para dizer o que quiser, sabendo que não estamos 
+em posição para julgar sua vida e que não iremos pressioná-la para tomar atitudes que você não esteja preparada ou não 
+queira. Estamos aqui para te apoiar no que você entender ser melhor nesse momento para você”.
+Podemos também informar à mulher que a situação que ela está vivendo não ocorre só com ela, mas tem origem histórica, no 
+modelo tradicional de relações entre homens e mulheres, e que não há justificativa para a violência. Enfrentar esses modelos 
+de relações associados à violência também é importante para reduzir a presença destes determinantes na vida das crianças, 
+principalmente aquelas que testemunham situações de violência doméstica.
+Escutar (Listen) Escutar a mulher de forma empática e sem julgamento moral.
+Perguntar (Inquire needs 
+and concerns) Indagar as necessidades da usuária.
+Validar (Validate) Mostrar à mulher que você entende e dá crédito ao que ela diz. Assegure-a de que ela 
+não tem culpa da violência sofrida.
+Aprimorar a segurança 
+(Enhance safety)
+Pense com a mulher um plano de segurança para protegê-la em caso de futuros 
+episódios de violência.
+Apoiar (Support)
+Apoie sua iniciativa de falar sobre a violência sofrida, orientando-a sobre o que é 
+possível fazer e que outras pessoas e locais ela pode procurar para obter ajuda no seu 
+projeto de cessar a violência.
+
+15
+Versão preliminar
+Estes princípios gerais incluem a promoção do direito à vida sem violência e à autodeterminação (inclusive sexual e reprodutiva), 
+acesso à informação e ao cuidado em saúde, não discriminação, privacidade e sigilo. A seguir, estão detalhados os exemplos 
+sobre como incluir esses princípios no atendimento aos casos. Além disso, é fundamental realizar a avaliação de risco e a 
+elaboração conjunta de um plano de segurança, parte importante do atendimento.
+Atentar para o racismo estrutural, etarismo, capacitismo e outras formas de reprodução das desigualdades. É 
+importante que os profissionais distingam seus valores éticos e morais dos valores da mulher atendida, evitando 
+perpetuar a violência institucional.
+A ESCUTA LIVRE DE JULGAMENTOS MORAIS 
+A escuta livre de julgamentos morais parte do pressuposto de que NINGUÉM merece viver uma situação de violência e de que os 
+conflitos devem ser resolvidos de formas não violentas. Essa abordagem é válida para todas as pessoas, ainda que muito diferentes 
+entre si – sejam mais ou menos simpáticas, agressivas, apáticas ou dependentes. Não existe vítima ideal. Viver uma situação de 
+violência não santifica as mulheres e o envolvimento em outros conflitos não diminui o seu direito a uma vida sem violência.
+Além disso, ouvir sem julgamento implica no respeito aos valores e opiniões da mulher, ainda que estes sejam muito diferentes dos 
+valores e opiniões dos profissionais. Isso requer uma postura de respeito e uma comunicação interessada em compreender a mulher 
+como sujeito livre e autônomo. O profissional não deve julgar a mulher por suas dúvidas, comportamentos ou valores. Assim como 
+não deve também indicar à mulher um julgamento punitivista sobre o(a) autor(a) da violência, ainda que adote uma postura ética 
+clara de defesa da não violência. Atenção para o direito à autodefesa, que é legítima no ordenamento jurídico brasileiro.
+Os profissionais precisam ficar atentos sobre suas preconcepções pessoais sobre o problema, para distinguir essa interação de um 
+encontro pessoal e conferir-lhe um propósito profissional. Aqui, vão alguns exemplos práticos de como incluir essa perspectiva nos 
+atendimentos realizados na APS:
+• Não critique ou culpabilize a mulher com base em seus valores pessoais. 
+• Não faça comentários depreciativos sobre suas escolhas de vida, por exemplo, religião, formas de criar os filhos, 
+relacionamentos, contexto profissional, entre outros.
+• Deixe a mulher se expressar e não a interrompa, mesmo que você discorde de algo que ela disse.
+• Evite frases como “não é tão ruim assim” ou “você está exagerando” ou “o que você fez para que ele lhe agredisse”, que 
+podem deslegitimar as experiências e os sentimentos da pessoa e causar revitimização.
+
+16
+Versão preliminar
+A ESCUTA LIVRE DE JULGAMENTOS MORAIS 
+A escuta livre de julgamentos morais parte do pressuposto de que NINGUÉM merece viver uma situação de violência e de que os 
+conflitos devem ser resolvidos de formas não violentas. Essa abordagem é válida para todas as pessoas, ainda que muito diferentes 
+entre si – sejam mais ou menos simpáticas, agressivas, apáticas ou dependentes. Não existe vítima ideal. Viver uma situação de 
+violência não santifica as mulheres e o envolvimento em outros conflitos não diminui o seu direito a uma vida sem violência.
+Além disso, ouvir sem julgamento implica no respeito aos valores e opiniões da mulher, ainda que estes sejam muito diferentes 
+dos valores e opiniões dos profissionais. Isso requer uma postura de respeito e uma comunicação interessada em compreender 
+a mulher como sujeito livre e autônomo. O profissional não deve julgar a mulher por suas dúvidas, comportamentos ou 
+valores. Assim como não deve também indicar à mulher um julgamento punitivista sobre o(a) autor(a) da violência, ainda que 
+adote uma postura ética clara de defesa da não violência. Atenção para o direito à autodefesa, que é legítima no ordenamento  
+jurídico brasileiro.
+Os profissionais precisam ficar atentos sobre suas preconcepções pessoais sobre o problema, para distinguir essa interação de um 
+encontro pessoal e conferir-lhe um propósito profissional. Aqui, vão alguns exemplos práticos de como incluir essa perspectiva nos 
+atendimentos realizados na APS:
+• Não critique ou culpabilize a mulher com base em seus valores pessoais. 
+• Não faça comentários depreciativos sobre suas escolhas de vida, por exemplo, religião, formas de criar os filhos, 
+relacionamentos, contexto profissional, entre outros.
+• Deixe a mulher se expressar e não a interrompa, mesmo que você discorde de algo que ela disse.
+• Evite frases como “não é tão ruim assim” ou “você está exagerando” ou “o que você fez para que ele lhe agredisse”, que 
+podem deslegitimar as experiências e os sentimentos da pessoa e causar revitimização.
+• Não tente convencer a mulher a adotar os seus valores pessoais.
+• Não se posicione como alguém que tem autoridade para definir o que é certo ou errado fora do âmbito da saúde, 
+especialmente no contexto moral e religioso.
+• Não dê conselhos de ordem moral, religiosa ou punitiva.
+• Não se alie à mulher para retaliar o(a) autor(a) da violência. Se ela pedir que tome uma posição contra o(a) parceiro(a), 
+você pode dizer que esse atendimento é direcionado a ela e ao que ela quer, mudando o foco da conversa. Não 
+podemos falar de quem não está na consulta.
+
+17
+Versão preliminar
+A GARANTIA DO SIGILO
+Deixe claro desde o princípio que o que é conversado com profissional de saúde é sigiloso e que os registros são confidenciais 
+entre profissionais do serviço de saúde e pertencem a ela. Os casos de violência não são distintos dos demais casos clínicos. O 
+sigilo é protegido pela justiça e você não pode compartilhar as informações que obteve em atendimentos às autoridades.
+Há situações específicas em que a ética profissional ou a legislação nos obriga a quebrar o sigilo, como nos casos de ideação 
+suicida consistente, ideação homicida com plano, risco iminente à vida da usuária, violência contra crianças e adolescentes 
+menores de 18 anos ou por determinação judicial. O profissional deve ter em mente que o sigilo é a regra, e estes casos 
+representam exceções. Em caso de processo judicial, é possível que a autoridade solicite o prontuário para ser analisado por um 
+perito. Enquanto responsáveis pelo cuidado prestado à mulher, devemos nos limitar a fornecer os documentos requisitados por 
+vias oficiais, sem compartilhar informações adicionais no âmbito do processo.
+Nesses casos, a pessoa deve ser informada por nós que este sigilo terá que ser quebrado e devemos comunicar o porquê e  
+para quem. 
+ATENÇÃO! Você não precisa e nem deve verificar se os fatos relatados ocorreram como foi falado. Isso é 
+responsabilidade da justiça.
+Muitos profissionais relatam medo de que o cuidado aos casos de violência implique nas questões legais, 
+especialmente sobre a necessidade de prestar depoimento e/ou serem testemunhas em caso de judicialização. 
+Lembre-se de que é obrigação o registro adequado no prontuário: segundo o art. 207 do Código de Processo Penal, 
+certos profissionais, devido à natureza de sua atividade, não podem testemunhar sobre informações que adquiriram 
+em função de seu trabalho, declarando impedimento. O sigilo sobre informações dos pacientes obtidas durante o 
+atendimento tem caráter absoluto, isso protege a confidencialidade e a confiança essenciais às relações. A exceção 
+é somente se a pessoa a quem as informações se referem autorizar a revelação, permitindo que o profissional preste 
+depoimento se desejar.
+VALIDANDO O RELATO DA MULHER 
+Não é necessário que a mulher prove a situação de violência vivida. Apenas a pessoa que revela os fatos é responsável por 
+responder por eles em juízo. Dar crédito ao que é dito permite realizar o acolhimento e explorar as demandas da assistência. 
+Aos profissionais cabe ouvir a mulher, considerar o seu relato e não reforçar os estereótipos de culpabilização e de vitimização.
+
+18
+Versão preliminar
+NÃO VITIMIZAÇÃO DA MULHER 
+Durante a escuta, deixe a mulher falar livremente sobre o ocorrido, nos termos dela e nos detalhes que são importantes para 
+ela. Não se preocupe em fazer um registro imediato, principalmente se isso for desviar sua atenção da escuta do relato. É mais 
+importante compreender bem o que ela fala, explorar pontos da narrativa e avaliar o risco imediato. Não há necessidade de 
+interrompê-la frequentemente. Respeite o seu tempo para contar, já que o relato é uma revivência difícil. Ela pode chorar, se 
+emocionar e mesmo permanecer em silêncio alguns instantes. Assegure que ela se sinta confortável quanto ao que falar. Você 
+pode oferecer um copo-d’água ou um lencinho de papel, isso vai reassegurá-la de que está tudo bem com a forma com a 
+qual ela se expressa. Não se preocupe em obter detalhes explícitos do que aconteceu e de que forma, uma vez que isso não 
+necessariamente altera as medidas terapêuticas. É útil esclarecer também que ela não será obrigada a tomar nenhuma atitude 
+e que as decisões serão exclusivamente dela.
+Apenas verifique a necessidade de mais detalhes em casos de urgência na intervenção, tal qual ocorre na violência 
+sexual recente (menos de 72 horas). Se a mulher relatar violência sexual, nossa primeira pergunta deve ser “quando?”, 
+para avaliar a janela de oportunidade e seguir os protocolos de atendimento em caso de violência sexual conforme 
+norma técnica, sobretudo para realizar profilaxia pós-exposição (PEP) e ofertar contracepção de emergência em 
+até 120 horas (cinco dias). Nesse caso, é importante também saber se ela teve contato com material biológico do 
+agressor, especialmente esperma (Brasil, 2015). É fundamental saber o fluxo do seu município para o encaminhamento  
+desses casos.
+Lembre-se de atentar para o que é sua curiosidade pessoal (que não deve ser perguntado) e as informações que 
+precisam ser aprofundadas para o cuidado do caso (que devem ser perguntadas).
+REALIZANDO A AVALIAÇÃO DE RISCO E O PLANO DE SEGURANÇA
+No momento da detecção, após o acolhimento inicial e conhecimento do tipo de violência sofrida pela mulher, é necessário 
+avaliar o risco a que está submetida, para saber se o caso é de urgência e precisa de assistência imediata ou se é possível 
+à mulher aguardar um atendimento agendado. Avaliamos quatro tipos de riscos, por vezes interligados: suicídio, feminicídio, 
+homicídio ou violência contra crianças.
+Por vezes, mulheres em situação de violência pensam em matar o(a) companheiro(a), questão frequentemente relacionada 
+à falta de perspectiva sobre outras possibilidades para dar um fim à violência vivida. Quando a mulher relatar o desejo ou o 
+planejamento de atentar contra a vida do(a) autor(a) de violência, devemos manter a nossa postura de não violência e NUNCA 
+incentivar a vingança ou revide. Nesses casos, devemos lembrar que essa ação pode ter consequências graves para ela e oferecer 
+alternativas para sair do contexto de violência (capítulo Encaminhamentos).
+
+19
+Versão preliminar
+Para avaliar o risco de suicídio, podemos perguntar: “Você pensa em acabar com a própria vida?”. Caso ela diga que sim, 
+devemos aprofundar sobre o planejamento e as tentativas anteriores. Como citado anteriormente, a ideação suicida pode 
+também estar relacionada ao entendimento da mulher como sendo a única saída para o problema e, nesses casos, devemos 
+oferecer alternativas baseadas nas possibilidades dos serviços locais (capítulo Encaminhamentos). É importante avaliar sintomas 
+indicativos de um quadro de depressão e, se diagnosticado, o cuidado deve ser iniciado na própria APS, e articulado com os 
+profissionais e equipamentos do território (UBS, Centro de Atenção Psicossocial - Caps, ambulatórios de especialidades,  
+dentre outros).
+Para avaliar risco de morte por feminicídio e de violência contra crianças, é recomendada a utilização de instrumentos como o 
+Formulário Nacional para Avaliação de Risco (Fonar) e o Formulário de Risco e Proteção à Vida (Frida) que podem ser utilizados a 
+critério da equipe, com três perguntas-chave:
+“Seu(sua) companheiro(a) tem arma ou fácil acesso a uma?”
+“Ele(a) ameaça você e/ou seus filhos de morte?”
+“Você tem medo de voltar para casa?”
+Caso a mulher responda afirmativamente a qualquer dessas perguntas, você deve informá-la sobre a sua percepção de risco 
+e discutir com ela sobre isso. É necessário oferecer encaminhamento imediatamente para atendimento específico em Centro 
+de Referência de Atendimento à Mulher ou Casa da Mulher Brasileira ou o serviço que for mais adequado ao caso e estiver 
+disponível no seu território. São eles que poderão, entre outras ações, elaborar um plano de segurança com a mulher, para 
+que ela saiba como agir em um momento de risco. Também é necessário verificar se ela se encontra em isolamento social, 
+cárcere privado, se tem rede primária de apoio com a qual possa contar/acionar (familiares, amigos(as), vizinhos(as)), se sabe ler 
+e escrever, se tem autonomia para caminhar por espaços públicos e se teria um local para se abrigar em caso de ter que deixar 
+sua casa repentinamente.
+Caso ela não aceite o encaminhamento, informe que o serviço continuará acessível, disposto a prestar a assistência, 
+mas deixe claro que em caso de risco imediato ela deve procurar a polícia, já que os serviços de saúde não possuem 
+recursos para ajuda emergencial nesses casos.
+ Existem instrumentos para avaliação de risco como o Formulário Nacional para Avaliação de Risco (Fonar) e o Formulário de 
+Risco e Proteção à Vida (FRIDA) que podem ser utilizados a critério da equipe. 
+
+20
+Versão preliminar
+DECISÃO ASSISTENCIAL COMPARTILHADA 
+Relatada a situação de violência e averiguado os riscos, é hora de conhecer o plano da mulher para sua vida e como podemos 
+apoiá-la nisso. Ajuda na condução do caso conhecermos a rede de apoio da mulher e a quem ela pode recorrer. Para avaliar 
+o nível de suporte que ela pode ter em caso de risco, pergunte se ela compartilhou a situação com familiares, amigos(as), 
+vizinhos(as) ou colegas de trabalho, buscando entender se há alguém que poderia oferecer ajuda em um momento de 
+necessidade. Boas perguntas são:
+“Quem está do seu lado?”
+“Para quem você já contou? O que ela(e) acha?”
+“Se você precisar sair de casa, para onde você iria?”
+Algumas vezes, não há plano nenhum, porque sua saúde mental está abalada, e podem expressar tristeza, desânimo ou 
+esgotamento, acreditando que não há alternativa para resolver a violência sofrida. Podem também ter tido experiências 
+negativas no uso da rede intersetorial anteriormente que despertem receio com relação aos serviços de saúde, segurança e/ou 
+assistência social, e por isso é importante perguntar e compreender se ela já procurou ajuda prévia. Se sim, importante saber 
+quais serviços, como ela se sentiu, quais informações foram apreendidas por ela, o que foi útil e o que não foi.
+No entanto, ao serem perguntadas, geralmente elas contam seus planos e desejos, que podem ser fortalecidos ao conhecerem 
+a rede de serviços existentes e as possibilidades para cada situação. Recomenda-se fazer perguntas como:
+“Como você acha que eu posso te ajudar?”
+“O que você gostaria que acontecesse na sua vida neste momento?”
+“Que tipo de ajuda você gostaria de receber?”
+O objetivo da intervenção com mulheres em situação de violência difere daquele do modelo biomédico tradicional, visto que 
+não há uma resolução predefinida e padronizada. As possibilidades vão depender de cada caso e cabe ao profissional de saúde 
+apoiar o processo de emancipação individual/social de cada mulher. Em alguns casos, o plano imediato da mulher não envolve 
+diretamente o fim da violência, pois ela entende que possui necessidades anteriores para se fortalecer, incluindo sua autoestima, 
+resiliência e confiança, e construir oportunidades para romper com a violência. Por vezes, seus planos envolvem conseguir vaga 
+para as crianças na creche/escola, conseguir um trabalho/fonte de renda, acessar direitos de proteção social básica (Programa 
+Bolsa Família, por exemplo), conseguir apoio para cuidar de dependentes (crianças/pessoas idosas), conhecer seus direitos em 
+caso de separação. Devemos respeitar cada etapa de seu planejamento e ajudá-la oferecendo caminhos possíveis.
+Não espere que ela tome decisões imediatamente, mas forneça as informações que ela quer/necessita. Pode ser frustrante para 
+o profissional a percepção de que ela não toma medidas para mudar sua situação, entretanto, ela pode precisar de tempo e fará 
+o que acredita ser certo para ela e sua família. Sempre respeite seus desejos e decisões. Não dê conselhos pessoais, mas ofereça 
+
+21
+Versão preliminar
+Lembrem-se que as consequências das escolhas das mulheres serão vivenciadas por elas. Por isso, os profissionais 
+não devem impor escolhas próprias sobre a vida da mulher, mas tentar chegar, em conjunto, ao que ela quer  
+naquele momento.
+POTENCIALIDADES E LIMITES DO TRABALHO
+Os serviços de Atenção Primária à Saúde possibilitam uma abertura para identificar e acolher os casos de violência contra a 
+mulher, desempenhando um papel fundamental na rede de garantia de direitos. Porém, é necessário também compreender as 
+limitações do trabalho dos profissionais de saúde. Você não deve:
+• Achar que tem a solução para os problemas dela.
+• Convencê-la a sair de um relacionamento violento ou a realizar uma denúncia na polícia.
+• Fazer uma denúncia anônima do caso.
+• Questionar o porquê das atitudes dela, culpabilizando-a pela violência, seja por ações ou por aceitação.
+• Explorar eventos em minúcias.
+• Fornecer seu telefone pessoal.
+• Retê-la a contragosto na unidade de saúde.
+• Chamar a polícia, exceto em casos de risco agudo, que são bem raros.
+• Questionar se há motivos para a violência.
+• Mentir para a paciente, não informar sobre suas suspeitas e tentar obrigá-la a uma revelação utilizando algum pretexto.
+– de forma empática – escuta e espaço para ela contar sua situação. Não é papel do profissional dizer o que a mulher deve fazer 
+e sim ajudá-la a encontrar estratégias de enfrentamento da violência, fornecer os cuidados de saúde e a ajuda que ela definir 
+como necessária. Assim, ter um diálogo com elas pode ser por si um auxílio.
+
+22
+Versão preliminar
+O QUE FAZER O QUE NÃO FAZER                    
+ COMO AGIR
+Seja paciente e calmo. Não pressione a usuária a contar sua história.
+Demonstre que você está ouvindo, preste atenção, mantenha  
+contato visual.
+Não olhe para seu relógio ou fale muito rápido.
+Não atenda ao telefone, nem fique escrevendo ou olhando  
+para o computador.
+SUA ATITUDE
+Reconheça como a usuária está se sentindo. Não julgue o que ela fez ou não fez, ou como ela está se 
+sentindo.
+Deixe-a contar sua história no seu próprio ritmo. Não diga: “você não deveria se sentir assim”, “você deveria se 
+sentir feliz por ter sobrevivido” ou “coitadinha”.
+Não a apresse.
+O QUE DIZER
+Deixe-a dizer o que quer. Não assuma que você sabe o que é melhor para ela.
+Pergunte: “como podemos ajudá-la?” Não a interrompa. Espere-a terminar de falar antes de  
+fazer perguntas.
+Encoraje-a a continuar falando e pergunte:  
+“você gostaria de me falar mais a respeito?”
+Há muitas razões pelas quais as mulheres permanecem em relações violentas. É importante não as julgar e não as 
+pressionar a sair da situação. A decisão é somente da mulher e será tomada em seu próprio tempo.
+Algumas barreiras que dificultam a saída de situações de violência: 
+• Ela depende financeiramente do(a) agressor(a).
+• Ela acredita que as crianças precisam de um pai em casa, ainda que violento.
+• Ela acredita que esses comportamentos abusivos fazem parte de relacionamentos e que todos os homens são assim.
+• Ela teme as consequências de sua partida, inclusive o agravamento da violência, contra si e contra outros.
+• Baixa autoestima, dificuldade de crer em uma situação de vida melhor.
+• Ela sente que não tem para onde ir ou quem a apoie.
+
+23
+Versão preliminar
+E SE ELA NÃO DENUNCIAR À POLÍCIA?
+Mesmo que ela opte por não denunciar à polícia, respeite a decisão dela. Essa não é a única alternativa. Além da polícia, existem 
+outros serviços que são referências no cuidado dessas mulheres. 
+É importante que a mulher entenda o que pode acontecer em caso de processo judicial ou inquérito policial para que esteja 
+certa de sua decisão e ciente das possíveis consequências. Para que se inicie algum tipo de processo contra o(a) autor(a) da 
+violência, ela deve registrar Boletim de Ocorrência em Delegacia de Polícia. Caso contrário, a assistência prestada à mulher 
+permanece no âmbito da saúde e da assistência social, salvo em casos excepcionais já mencionados nos quais o profissional 
+deve quebrar o sigilo e acionar as instituições de segurança pública.
+Entretanto, é possível requerer medida protetiva independentemente de processo que ateste inocência ou culpa do(a) 
+agressor(a) ou mesmo de Boletim de Ocorrência, sendo emitida após avaliação de uma autoridade em até 48 horas. As medidas 
+protetivas podem ser solicitadas ao Ministério Público, por meio de petição, ou diretamente no Juizado de Violência Doméstica 
+e Familiar contra a Mulher do fórum mais próximo. Para requerer essa proteção, não é necessária a presença de advogado(a). 
+Além disso, a concessão das medidas protetivas independe da instauração de inquérito policial ou ação penal. Caso deferidas, 
+o(a) agressor(a) será imediatamente intimado(a) e obrigado(a) a cumpri-las, sob pena de prisão.
+A medida protetiva proíbe a aproximação do acusado, presencial ou on-line, e pode obrigar o trabalho a transferir a mulher, 
+se necessário, também proteger familiares e outros envolvidos. Uma vez concedida a medida, o(a) autor(a) da violência é 
+comunicado para permanecer distante da vítima.
+Cabe informar à mulher que qualquer queixa de violência física com lesão registrada em Boletim de Ocorrência vai resultar 
+em processo contra o(a) agressor(a), sem considerar o seu desejo de processá-lo ou não de seu desejo de processá-lo ou não. 
+No entanto, a lesão corporal leve, que representa a maioria das queixas, dificilmente levará à prisão do(a) autor(a) da violência, 
+porque se trata de um crime com penas menores e que permite a substituição da pena por multa. 
+Muitas pessoas não sabem, mas, se sua renda familiar for menor do que três salários-mínimos, você tem direito a um(a) 
+advogado(a) gratuito(a), por meio da Defensoria Pública. Você pode informá-la sobre isso, sendo útil também ter outras 
+informações sobre a Defensoria Pública do território para auxiliar a usuária, se necessário.
+• Ela ainda quer permanecer com ele(a), acredita que ele(a) pode mudar.
+• Ela se sente responsável por ele(a).
+• Ela não quer ficar só.
+• Ela tem medo de sofrer represálias e julgamentos.
+• Vínculos familiares.
+• Questões religiosas.
+
+24
+Versão preliminar
+ENCAMINHAMENTOS: ARTICULAÇÃO INTRASSETORIAL E COM A REDE 
+INTERSETORIAL
+A violência doméstica contra a mulher é um agravo que necessita de uma articulação intersetorial que pode envolver 
+diversos setores, tais como saúde, educação, segurança pública e assistência social. Em geral, existem nos municípios fluxos 
+internos à saúde e à rede de serviços especializados para auxiliar a mulher na garantia de seus direitos de acordo com a  
+capacidade instalada..
+ARTICULAÇÕES INTRASSETORIAIS
+É importante que o município estabeleça a linha de cuidado em saúde para o atendimento às pessoas em situação de violência doméstica 
+para assim organizar os fluxos e pactuar as responsabilidades de cada nível de atenção para a oferta de cuidado a essas mulheres em  
+toda a RAS.
+Se sua unidade tem profissionais específicos para o atendimento à situação de violência (Núcleo de Prevenção da Violência 
+e Promoção da Saúde, protocolos e fluxos internos, entre outros, conforme Portaria GM/MS nº 936/2004), ofereça o 
+encaminhamento para a mulher. Caso não tenha, é importante identificar na rede qual serviço poderia ser referência para 
+tal atendimento, no entanto, deve-se garantir um encaminhamento seguro que não gere revitimização. A opção de seguir o 
+encaminhamento fica a critério da mulher e é necessário respeitar seu tempo de decisão. Caso esse encaminhamento seja 
+realizado, deve ser registrado. Em nenhuma das situações a equipe de saúde da APS, principalmente o profissional de referência, 
+deve deixar de acompanhar a pessoa atendida.
+A estruturação da Rede Nacional de Prevenção da Violência e Promoção da Saúde e a implementação de Núcleos de Prevenção 
+da Violência nos estados e nos municípios, conforme estabelecido pela Portaria GM/MS nº 936/2004, fortalecem a importância 
+desses serviços como referências para o atendimento qualificado de situações de violência, garantindo ações integradas e 
+seguras para as usuárias (Brasil, 2004).
+A decisão de encaminhar o caso para outros profissionais deve ser cuidadosa a partir da real necessidade da mulher. A oferta de um 
+acompanhamento multidisciplinar pode ser mais estratégica. Encaminhamentos internos comuns são para psicólogo e assistente social. 
+Lembre-se de que a demanda deve ser relacionada ao trabalho desses profissionais. Cuidado para não encaminhar apenas para se  
+“livrar” do problema.
+O cuidado interprofissional na APS ocorre com a integração entre as equipes de Saúde da Família e das eMulti, o que viabiliza 
+a condução dos casos em EQUIPE. Sabemos que nem todos os profissionais de saúde têm treinamento para lidar com estas 
+situações e, portanto, podem utilizar a supervisão e a discussão de casos para construir a melhor abordagem e definir estratégias 
+de encaminhamento.
+
+25
+Versão preliminar
+Caso a mulher concorde em passar por atendimento específico voltado para violência na unidade e faltar à consulta, a 
+equipe deve decidir se é oportuno e seguro realizar busca ativa, considerando os detalhes de cada caso. Esta possibilidade 
+deve ser discutida com ela no primeiro atendimento, para que o serviço tenha condições de avaliar se é possível e seguro 
+convocar para novo atendimento por telefone (e em que horário), e-mail, celular ou mesmo visita domiciliar. 
+Para essa avaliação, há algumas perguntas que podem ajudar:
+“Ele(a) costuma mexer/controlar seu celular?”
+“É seguro ligar para agendar retorno/consulta?”
+“Quais dias e horários são seguros para entrar em contato?”.
+Caso a mulher não queira o atendimento neste momento, mantenha a porta aberta caso futuramente ela tenha interesse.
+Articulações com serviços da rede intersetorial
+A violência doméstica contra a mulher é um problema complexo e multifacetado e dificilmente os profissionais de saúde, de 
+forma isolada, conseguirão dar conta das diversas necessidades deste público e da garantia de seus direitos. É muito importante 
+que os profissionais de saúde identifiquem e conheçam os serviços da rede intersetorial disponíveis em seu município. Sabe-se 
+que em cada território essa rede poderá se configurar de forma diferente, com mais ou menos equipamentos e por tal razão 
+é fundamental visitar estes serviços para reforçar a rede e conhecer detalhes fundamentais para o encaminhamento: dias e 
+horários de funcionamento, condições de atendimento, condições necessárias ao encaminhamento, objetivos e profissionais do 
+serviço, o que fazem e o que não fazem. 
+Algumas vezes, temos receio e demoramos a encaminhar casos graves, o que nos torna um obstáculo na rota das 
+mulheres. É extremamente necessário ofertar alternativas intersetoriais. No entanto, o encaminhamento não deve 
+ser uma tentativa de retirar sua responsabilidade sobre o caso e passá-lo a outra pessoa. As mulheres encaminhadas 
+continuam sendo de responsabilidade sanitária dos serviços da APS e devemos seguir cuidando da saúde delas e de 
+suas famílias.
+
+26
+Versão preliminar
+O conhecimento sobre os serviços é importante pois, seja qual for o encaminhamento, é necessário orientar a mulher sobre a 
+função do equipamento para o qual foi encaminhada, sobre o que é possível conseguir nesta assistência específica e orientá-
+la sobre como acessá-lo. É importante também que os profissionais da saúde conheçam o funcionamento e mantenham 
+comunicação com os outros serviços da rede intersetorial, especialmente nos casos mais complexos. 
+Alguns exemplos dos serviços que podem existir no seu território:
+• Serviços de saúde (UBS, eMulti, Caps, Centro de Testagem e Aconselhamento para IST - CTA, hospitais). 
+• Centro de Referência de Atendimento à Mulher (Cram) ou Casa da Mulher Brasileira.
+• Centro de Referência Especializado em Assistência Social (Creas).
+• Vara de Violência Doméstica e Familiar contra a Mulher (Fórum).
+• Delegacia (comum ou da mulher).
+• Defensoria Pública.
+• Ministério Público.
+• Pontos de economia solidária.
+• Abrigos sigilosos.
+• Casas de Passagem.
+• Patrulha Maria da Penha.
+• Disque 180 - canal nacional de denúncia de violência contra a mulher.
+• Organizações não governamentais (ONGs) feministas ou ligadas à saúde da mulher e aos direitos humanos.
+Em geral, o Centro de Referência de Atendimento à Mulher (Cram) e a Casa da Mulher Brasileira são os equipamentos da rede 
+intersetorial que melhor podem auxiliar os profissionais de saúde no cuidado da mulher, pois contribuem para o fortalecimento 
+e o resgate da cidadania. Nesses serviços, as mulheres têm acesso à orientação psicossocial, grupos terapêuticos e orientação 
+jurídica. As mulheres podem participar de oficinas, o que também lhes permite passar mais tempo fora de situações de risco 
+e a possibilidade de criar vínculos, desenvolvendo uma rede de apoio informal, já que a situação de violência costuma deixar a 
+mulher em situação de isolamento social. Alguns municípios têm nomes diferentes para estes serviços, mas todos eles procuram 
+prestar um atendimento integral às mulheres em situação de violência e são específicos para isso.
+
+27
+Versão preliminar
+Em caso de violência sexual, é importante agir rápido. Além de seguir as orientações estabelecidas na Norma Técnica para a 
+Atenção Humanizada às Pessoas em Situação de Violência Sexual com Registro de Informações e Coleta de Vestígios, é preciso 
+acompanhar a possibilidade de uma gestação não desejada, apresentar as opções disponíveis para lidar com a situação e 
+encaminhar adequadamente ao serviço de referência para interrupção legal da gestação, caso ela opte por esta alternativa. 
+A Portaria Interministerial nº 288/2015 estabelece orientações para a organização e a integração do atendimento às vítimas 
+de violência sexual pelos profissionais de segurança pública e pelos profissionais de saúde do SUS quanto à humanização do 
+atendimento e ao registro de informações e coleta de vestígios.
+É possível ofertar materiais educativos que ajudem a mulher a identificar e acessar os serviços de referência disponíveis, inclusive 
+de forma discreta, com informações que ela possa levar para casa, caso considere seguro e necessário. O estabelecimento 
+de saúde pode disponibilizar materiais sobre violência, bem como afixar informativos, como cartazes, painéis ou avisos, com 
+orientações relevantes sobre o tema e sobre a rede de serviços do estado ou do município, quando estiverem disponíveis. 
+Considere sempre a segurança da mulher, e permita que ela decida se deseja ou não receber esses materiais, uma vez que 
+podem representar um risco.
+Lembre-se de que mulheres em situação de violência muitas vezes têm a mobilidade impedida. O trabalho 
+para conseguir dinheiro, tempo e condições para chegar ao local pode ser oneroso e não devemos fazer 
+encaminhamentos descuidados ou descabidos ao caso. Nos casos em que a condição financeira impede o acesso 
+ou a mulher está em dúvida sobre procurar os serviços, os profissionais de saúde não devem levar a mulher ao local 
+nem mandar em carros oficiais da saúde que desviem a sua finalidade sanitária. Levar a mulher de forma tutelada é 
+considerada uma má conduta, levando a resultados insatisfatórios. Implicar pessoalmente os profissionais ou utilizar 
+os carros da unidade de saúde pode colocar as trabalhadoras e trabalhadores de saúde da Unidade em risco, em 
+territórios nos quais a segurança pública pode apresentar vulnerabilidades.
+
+28
+Versão preliminar
+TRABALHO EM EQUIPE
+A OMS identifica quatro tipos de necessidades das mulheres a serem detectadas no serviço:
+• Necessidades emocionais e psicológicas imediatas.
+• Necessidades de segurança atuais.
+• Necessidades de saúde física atuais.
+• Necessidades de saúde mental e suporte a médio e longo prazo.
+As necessidades elencadas não são de competência exclusiva de uma categoria profissional e o trabalho em equipe 
+interprofissional permite as melhores intervenções. O contato com a situação de violência em que a usuária se encontra e o 
+tipo de assistência prestada podem ser abordados de diferentes formas entre os profissionais, levando em consideração: a) as 
+competências específicas de sua função; e b) o contexto em que a assistência é prestada (na instituição ou no território).
+O que cabe ao agente comunitário de saúde (ACS)
+Os ACS são peças-chave na integração da unidade com o território, podendo ser um excelente comunicador, promotor e 
+educador popular em saúde, conhecendo o território intimamente. Esta intimidade permite ampliar o acesso do sistema de 
+saúde à população, mas requer um cuidado reforçado para garantir sua segurança. Existe uma maior proximidade com os 
+usuários, pois o contato não se encerra no local de trabalho ou quando o expediente acaba. Assim, é muito importante saber 
+diferenciar o que faz sentido em um contexto e no outro. As informações obtidas no espaço de trabalho são confidenciais e só 
+podem ser partilhadas se necessário para o cuidado da usuária, e apenas com outros profissionais também obrigados ao sigilo.
+Como profissional, o ACS deve, no que diz respeito à violência, divulgar na comunidade os serviços disponíveis na UBS e nos 
+demais pontos da RAS do território/município, ressaltando que são abertos, ou seja, não é preciso marcar consulta e a vítima não 
+será forçada a tomar nenhuma decisão. Seu discurso deve ser de promoção da autonomia das mulheres, de não julgamento 
+e de reconhecimento do direito a uma vida digna. Também é importante informar que, caso não se sintam confortáveis, as 
+mulheres podem procurar quaisquer serviços de saúde e não necessariamente sua equipe de referência. Os ACS não devem ser 
+responsabilizados pelo cuidado aprofundado ou por ações de detecção de violência nas casas, o que pode comprometer o sigilo 
+e a segurança da mulher e dos próprios agentes por também residirem no teritório.
+O que cabe aos profissionais de medicina e enfermagem
+Cabe a esses profissionais promover agilidade e eficácia no fluxo de atendimento institucional. Tanto médicos(as) quanto 
+enfermeiros(as) devem registrar em prontuário a descrição das lesões ou achados suspeitos, em caso de violência física/sexual, 
+notificar por meio da Ficha de Notificação de Violência Interpessoal/Autoprovocada da forma correta.
+
+29
+Versão preliminar
+Tanto médicos(as) como enfermeiros(as) devem:
+• Realizar o acolhimento.
+• Identificar condutas imediatas necessárias.
+• Garantir o atendimento à usuária em local adequado (sala de procedimentos ou sala reservada).
+• Registrar em prontuário a descrição das lesões ou achados suspeitos.
+• Preencher ficha de notificação.
+• Acionar demais profissionais da equipe, se necessário.
+• Identificar queixas crônicas e avaliar a gravidade em casos de queixas agudas, encaminhar, se necessário, à 
+emergência/pronto-socorro, realizar profilaxias, indicações de vacinas e prescrições e referenciar à rede secundária, 
+terciária e a rede intersetorial, conforme necessário.
+• Realizar as condutas adequadas à situação, conforme as competências de cada profissão, habilitações e protocolos 
+estabelecidos.
+Cuidado com a medicalização: há evidência, por exemplo, de que a prescrição rotineira de benzodiazepínicos pode estar 
+relacionada ao desenvolvimento de Transtorno de Estresse Pós-traumático (TEP). Lembre-se que, embora por vezes necessário, 
+os antidepressivos não são o “remédio” para violência.
+O que cabe aos profissionais de psicologia
+O(A) psicólogo(a) pode prestar assistência regular de médio ou longo prazo às mulheres que necessitem de acompanhamento 
+psicológico. Dessa forma, é possível incentivar que a mulher construa seu projeto de vida, reflita sobre suas decisões e 
+percepções relacionadas à sua identidade e experiências, considerando sua trajetória e referenciais. O objetivo é fortalecer sua 
+autonomia e auxiliá-la na tomada de decisões.
+O registro em prontuário deve cumprir a função de meio de comunicação e produção do cuidado compartilhado entre 
+os profissionais. Deve ser sucinto na medida entre garantir a segurança do atendimento, o cuidado interprofissional e a 
+preservação do vínculo e confiança entre psicólogo(a) e mulher. Caso o profissional ache pertinente registrar detalhes do caso, é 
+possível fazer um registro extra, arquivado em pasta especial, acessada somente mediante solicitação formal.
+Cabe ao profissional estar preparado para garantir o acesso à informação da mulher e realizar encaminhamentos pertinentes, 
+visando dar suporte e complementar as ações assistenciais.
+Saiba mais sobre estratégias de desmedicalização, consulte o 
+documento do Ministério da Saúde: Uso de Medicamentos e 
+Medicalização da Vida: recomendações e estratégias. 
+
+30
+Versão preliminar
+O que cabe aos profissionais de assistência social
+O profissional de serviço social é responsável pelo acolhimento, orientação e encaminhamento da usuária, visando à 
+garantia de direitos sociais. Dessa forma, contribuirá para o acesso aos direitos fundamentais como alimentação, habitação, 
+educação e renda, entre outros aspectos da vida civil que são direitos resguardados por lei. Esses direitos não se restringem 
+a questões trabalhistas e de família. No âmbito institucional, *o serviço social é responsável para avaliar e levantar as 
+demandas e detectar características do perfil da população por meio de investigação e documentação técnica, podendo 
+trazer informações de relevância para a intervenção das equipes no território, inclusive possibilitando a reorganização 
+dos recursos institucionais. Proceder também a notificação individual de violência interpessoal e autoprovocada  
+da forma correta.
+O que cabe aos profissionais das equipes multiprofissionais (eMulti)
+As equipes multiprofissionais (eMulti) são compostas por profissionais de diversas categorias, comprometidos em atender 
+às necessidades da população e do território de forma integral. Quando disponíveis, podem apoiar as equipes de referência 
+na abordagem e no cuidado dos casos de violência doméstica contra a mulher, atendendo às variadas necessidades que as 
+mulheres podem apresentar e facilitando articulações intersetoriais. Entre suas possibilidades de apoio, destacamos os 
+atendimentos individuais, as consultas compartilhadas, as visitas domiciliares e o apoio matricial. Essa colaboração entre as 
+equipes de referência e as eMulti é fundamental para proporcionar respostas mais integradas e eficazes às demandas das 
+mulheres, assegurando um cuidado que seja abrangente e sensível às particularidades de cada situação. 
+
+31
+Versão preliminar
+SITUAÇÕES DE RISCO: PLANOS DE SEGURANÇA
+No território
+Para esses profissionais, o contexto em que a assistência é prestada apresenta variáveis adicionais a serem consideradas, já que, 
+no território, o ambiente é menos protegido e as ações dos profissionais devem sempre garantir a preservação de sua segurança. 
+Em uma visita domiciliar, é possível presenciar uma cena violenta ou mesmo ouvir um desabafo e querer agir em proteção da 
+mulher ou ser solicitado a manter o caso em segredo. Nestas situações, a orientação é: não tome nenhuma decisão solitária, 
+todas as decisões devem ser tomadas em conjunto com outros profissionais.
+Atenção para não intervir se estiver sozinho: é preferível convocar a usuária à unidade caso seja surpreendido por um relato 
+ou por uma situação de violência. Não adianta tentar apartar uma briga já em andamento, pois não há garantia para a sua 
+segurança e pode colocar a usuária em risco ainda maior.
+Há contextos em que pode haver risco em se chamar a polícia ao local. Não tome essa iniciativa sozinho. Esteja sempre atento 
+a quem pode ouvir o que se fala; como dito anteriormente, ainda que sem consciência do que fazem, crianças com idade igual 
+ou maior que 2 anos podem relatar o que foi conversado. Priorize conversar com a mulher em contexto privado quando possível, 
+ainda que esteja acompanhada de pessoas próximas. A unidade é um ambiente mais protegido e convocar a usuária permitirá 
+que a conversa seja de melhor qualidade e que outros recursos sejam acionados.
+No serviço
+• Não dê conselhos.
+• Não faça acusações.
+• Seja agente ativo ao garantir o sigilo e restringir a circulação de informações do caso (coibir a fofoca).
+• Se possível, não atenda o(a) companheiro(a) (passe para outro profissional).
+• Busque apoio de outros serviços e não tome iniciativas caso se sinta inseguro sobre como agir.
+• Não divulgue seu telefone pessoal ou endereço.
+• Não dê orientações ou realize intervenções no corredor.
+• Caso seja questionado por um usuário sobre a sua conduta no caso, não atribua a tomada de alguma decisão 
+exclusivamente a um colega. Informe que as decisões são tomadas em equipe, de acordo com o combinado com a 
+usuária.
+• Em caso de risco de agressão, procure ficar próximo a uma via de saída.
+
+32
+Versão preliminar
+• Em caso de fala exaltada, deixe claro quais são as normas do local e que a assistência não se dará enquanto elas  
+não forem obedecidas.
+• Em caso de agressão verbal, não insulte ou invista contra o(a) autor(a) da violência, mantenha o diálogo e uma 
+distância segura. Busque apoio dentro do serviço.
+• Em caso de agressão verbal ou física, convoque os demais profissionais e a segurança do local, quando disponível. Isso 
+pode minimizar a violência e permitir que haja testemunhas. As atividades podem ser interrompidas para priorizar o 
+manejo da situação. Em caso de violência física, não permaneça no local e avise os outros profissionais.
+• Se necessário, acione as autoridades policiais, mas considere os possíveis impactos na segurança da equipe e da 
+usuária.
+• A Comunicação de Acidente de Trabalho (CAT) deverá ser emitida em qualquer caso de agressão física ou verbal, 
+acionando o Ministério do Trabalho. A prioridade, porém, é garantir a segurança e a assistência de potenciais vítimas, 
+incluindo a elaboração do relatório médico e o registro das lesões.
+• Não passe informações da usuária (dia e hora de consulta etc.), para outras pessoas, como familiares, filhos, cônjuge 
+etc.
+• É possível pedir medida protetiva para profissionais específicos ou mesmo para todo o serviço.
+• Frente à percepção de risco ou ameaças, não guarde isso para si. Leve a questão para a equipe e a gerência. 
+Códigos podem ser combinados com a administração para que o profissional que se perceba em perigo possa  
+acioná-los discretamente.
+• A administração do serviço deve construir estratégias para minimizar os riscos e atuar pela proteção dos profissionais 
+e das usuárias. Cabe atenção especial às profissionais da saúde, que, pelo enfoque de gênero no tema da violência, 
+podem estar mais suscetíveis ao(à) agressor(a).
+• Caso tenha dúvidas éticas ou quanto a mecanismos de amparo, contate seu sindicato ou conselho regional.
+• É recomendável que o serviço mantenha um registro detalhado de eventuais ocorrências, por exemplo, por meio de 
+uma ouvidoria.
+• Em casos de risco especial para profissionais que atuam no território, os outros membros da equipe podem protocolar 
+um registro sobre local e horário de retorno previsto e acionar a administração em caso de não retorno.
+
+33
+Versão preliminar
+E SE O(A) COMPANHEIRO(A) DELA TAMBÉM FOR MEU PACIENTE?
+É muito difícil coordenar o cuidado de ambos os parceiros quando há violência na relação. Caso ela queira que você converse 
+com o(a) parceiro(a), avise-a que se deve considerar as repercussões e a possibilidade de piora da violência, lembrando que o 
+mais importante é que o desejo de falar com alguém deve partir dele. É necessário estar atento ao princípio de não maleficência, 
+pois não se sabe de que maneira esta ação pode impactar o risco de violência. Assim, não é uma boa ideia que você assuma esse 
+tipo de responsabilidade.
+Não ofereça terapia de casal e nem se voluntarie para falar com o(a) companheiro(a) ou mediar a conversa entre eles. Se os dois 
+quiserem terapia de casal e não houver violência grave, você pode encaminhar para serviço específico que ofereça esse trabalho, 
+caso disponível na sua região. Lembre-se de que, se você usar a sua autoridade para ‘dar uma dura’ ou ‘ouvir o outro lado’, 
+diminuirá a posição de sujeito da mulher e colocando-se como o juiz do caso, o que você não é. Isso também visa a sua própria 
+segurança.
+A melhor prática é que outro profissional assuma o cuidado do(a) parceiro(a), garantindo a confidencialidade e a autonomia 
+de decisão do(a) parceiro(a). Ele(a) deve ser atendido(a) por sua própria demanda e não por exigência da mulher, seguindo os 
+mesmos princípios de atendimento: não julgamento moral, garantia de sigilo e decisão assistencial compartilhada.
+Homens também podem ser vítimas de violência por parceiros(as). Entretanto, em geral, as mulheres vivem mais 
+situações de violência sexual e de violência física mais severa, e estão sujeitas a um maior controle por parceiros 
+homens. Muitos princípios da abordagem para violência contra a mulher são aplicáveis em casos de violência contra 
+homens e meninos.
+
+34
+Versão preliminar
+REGISTRO EM PRONTUÁRIO
+O registro dos casos é importante para fornecer um cuidado longitudinal e garantir a comunicação entre os profissionais 
+responsáveis pela assistência. Além dos atendimentos, os profissionais também devem registrar as discussões de caso entre a 
+equipe de saúde e/ou com serviços da rede intersetorial. 
+Propomos que alguns aspectos sejam contemplados no registro em prontuário, ainda que de forma sucinta: 
+• Tipo de violência vivida e provável autor(a) da violência.
+• Exame físico em casos de violência física e/ou sexual recentes.
+• Com quem mora, se estuda, se trabalha e qual sua fonte de renda.
+• Rede de apoio: com quem pode contar.
+• Instituições já procuradas para lidar com o problema e respostas recebidas.
+• Avaliação de risco.
+• Decisão assistencial compartilhada.
+O registro das agressões relatadas pela usuária e verificadas no exame clínico pode servir como apoio caso, em algum momento, 
+a via jurídica seja acionada. Diga à mulher o que pretende escrever e o porquê, explicando o que ficará registrado.
+Quando for registrar o atendimento, lembre-se de que o prontuário é um documento da mulher e que ela pode 
+solicitar acesso a qualquer momento. Os princípios do atendimento também precisam estar presentes durante o  
+registro em prontuário.
+NOTIFICAÇÃO COMPULSÓRIA
+O local de atendimento das mulheres em situação de violência deve dispor de Fichas de notificação individual compulsória 
+de violência interpessoal/autoprovocada. Qualquer profissional da equipe de saúde que tenha prestado o primeiro cuidado e 
+realizado a escuta qualificada da mulher pode preencher adequadamente este documento. A ficha de notificação contempla 
+informações detalhadas sobre a vítima, o(a) ofensor(a), o tipo de violência, as lesões e o atendimento prestado.
+A notificação compulsória de casos suspeitos ou confirmados de violência contra a mulher está amparada pela Lei n.º 
+10.778/2003, Portaria n.º 104, de 25 de janeiro de 2011, que estabelecem a notificação compulsória no território nacional em 
+serviços de saúde públicos ou privados e consta no Anexo V da Portaria de Consolidação n.° 4, de 28 de setembro de 2017.
+
+35
+Versão preliminar
+A notificação é compulsória para todas as categorias profissionais de saúde, que atuam em serviços públicos ou privados, 
+conforme estabelece o art. 8º da Lei n.º 6.259/1975; logo a não notificação das violências caracteriza infração sanitária e crime 
+contra a saúde pública, conforme art. 268 do Código Penal. Tal obrigatoriedade é referendada por determinados Códigos de 
+Ética profissionais.
+Em alguns estados e municípios esta notificação é intersetorial e obrigatória, por medidas legais (portarias ou decretos), com 
+outros profissionais e setores realizando a notificação, como educação, assistência social, entre outros.
+O ideal é que o profissional que fez o atendimento também faça a notificação. Todavia, a equipe ou o serviço de saúde tem 
+autonomia para definir qual profissional preencherá a ficha de notificação de violência interpessoal e autoprovocada, de acordo 
+com o contexto de cada caso.
+A notificação, em última instância, é uma responsabilidade institucional e não meramente individual. Nesse sentido, os 
+profissionais, em especial os que atuam diretamente no atendimento à população, devem sempre receber apoio, suporte e 
+proteção para que não sofram retaliações ou ameaças de prováveis autores(as) das violências.
+Os gestores no nível local devem definir estratégias para proteção dos trabalhadores de saúde para que estes exerçam sua 
+atividade profissional seguindo os princípios da ética, da humanização e da integralidade.
+A notificação de violências interpessoais e autoprovocadas exige de profissionais e de gestores da saúde uma postura ética e 
+cuidadosa em relação à pessoa que vivencia situação de violência e à sua família. Ela não pode ser feita a partir de uma lógica 
+burocrática. Ao contrário, notificar os casos de violências implica compromisso com a pessoa que está em sofrimento e que 
+necessita de proteção e cuidado.
+Dessa forma, a notificação deve promover novas organizações e estruturas de atendimento que qualifiquem a atenção à mulher em 
+situação de violência. Assim, o próprio processo de preenchimento da ficha deve ser também um momento de cuidado com a pessoa que 
+sofreu ou vive uma situação de violência . Esse processo não deve ocorrer de forma fria e impessoal, mas sim com uma postura ética de  
+cuidado e proteção.
+A notificação tem caráter sigiloso não cumpre função de denúncia, pois não é um documento da segurança pública, 
+mas tem fins epidemiológicos e de cuidados. Serve à produção de dados para conhecer a dimensão deste agravo quanto 
+à visibilidade do problema no País, possibilitando a construção de políticas públicas mais eficazes e seu monitoramento. 
+Além disso, a notificação de violência é um importante instrumento para promover o cuidado uma vez que possibilita a 
+articulação entre os serviços da rede intra e intersetorial visando garantir atenção integral, proteção e direitos de mulheres em  
+situação de violência.
+É objeto de notificação todo caso suspeito ou confirmado de violência doméstica/intrafamiliar, sexual, autoprovocada, tráfico de 
+pessoas, trabalho escravo, trabalho infantil, tortura, intervenção legal e violências homofóbicas contra mulheres e homens em 
+todas as idades ou ciclos de vida. No caso de violência extrafamiliar/comunitária, somente serão notificadas violências contra 
+crianças, adolescentes, mulheres, pessoas idosas, pessoa com deficiência, indígenas e população LGBTIA+.
+
+36
+Versão preliminar
+A Portaria n.º 1.271, de 6 de junho de 2014, determina que os casos suspeitos e confirmados de violência sexual e tentativa 
+de suicídio são de notificação imediata (em até 24 horas) em âmbito municipal, visando ofertar a intervenção oportuna e os 
+cuidados necessários. 
+É importante lembrar que a notificação é compulsória e independe de consentimento da mulher em situação de violência ou 
+responsável e não constitui quebra de sigilo profissional, por se tratar de um documento de saúde. E a notificação não é só 
+para casos confirmados e inclui casos suspeitos de violências.
+Orientamos que a ficha seja preenchida após o atendimento com as informações obtidas durante a conversa, não 
+necessariamente na presença da mulher e que não seja percebido pela mulher como uma forma de interrogatório. 
+Conforme o “Viva: instrutivo notificação de violência interpessoal e autoprovocada” , a ficha de notificação deve ser 
+preenchida em duas vias, sendo a primeira encaminhada para a vigilância epidemiológica do município, seguindo a rotina 
+estabelecida pela Secretaria Municipal de Saúde, enquanto a segunda via deve ser arquivada na unidade de saúde notificante 
+(Brasil, 2016). Todas estas orientações também constam no Aplicativo NotiViva que tem como objetivo orientar profissionais 
+da saúde, da educação e da assistência social para o reconhecimento dos casos de violência, orientar sobre o correto 
+preenchimento da Ficha de Notificação Individual de Violência Interpessoal e Autoprovocada – instrumento utilizado pelo 
+Sistema de Informação de Agravos de Notificação (Sinan) e apoiar os encaminhamentos dos casos suspeitos ou confirmados 
+de violência nos diferentes grupos populacionais, para a Rede de Atenção à Saúde e proteção social. É um aplicativo off-
+line (funciona sem internet), gratuito, disponibilizado para os sistemas operacionais iOS (versão 5) e Android (versão 6) e de 
+desenvolvimento híbrido, garantindo acesso rápido e prático ao seu conteúdo informativo.
+Lembre-se da importância de garantir o sigilo. A ficha de notificação não pode ser encaminhada para nenhum outro 
+serviço, seja ele de saúde ou da rede intersetorial. O compartilhamento de informações por meio da ficha pode trazer 
+prejuízos tanto para a construção de uma rede articulada quanto para o caso em questão. O compartilhamento 
+das fichas entre os serviços pode dificultar a comunicação eficaz entre os diferentes serviços e pode levar a ações 
+de busca ativa que colocam a mulher e o serviço em risco. Quando considerar necessário o compartilhamento 
+de informações com outro serviço de saúde pertinente para o cuidado, e caso essa seja a vontade da mulher, é 
+fundamental discutir o caso diretamente com o outro serviço, evitando ruídos de comunicação, ações indevidas e a 
+quebra de vínculo com a usuária.
+
+37
+Versão preliminar
+A comunicação externa, prevista na Lei n.º 10.778/2003, define a responsabilidade de se comunicar a violência contra a mulher à 
+autoridade policial em até 24 horas, em casos excepcionais. Dessa forma, diferente da notificação compulsória, a comunicação 
+externa com a identificação da mulher em situação de violência fora do âmbito dos serviços de saúde só deve acontecer em 
+caso de risco à comunidade ou à vítima, e com conhecimento prévio da usuária sobre a quebra de sigilo. Recomenda-se que 
+estados e municípios estabeleçam pactuações locais para esse procedimento, e que não sejam encaminhadas cópias da ficha 
+de notificação, uma vez que esta é um instrumento da vigilância epidemiológica.
+APOIO INSTITUCIONAL
+O compromisso institucional é essencial para que usuárias e profissionais se sintam confiantes para falar sobre a violência e 
+para a implantação deste tipo de assistência. Cabe à gestão local apoiar as ações dos profissionais, para que a comunicação seja 
+direta e aberta, permitindo que compartilhem suas percepções e opiniões, bem como experiências, sem custo pessoal.
+A instituição pode desenvolver protocolos e linhas de cuidado, contemplando a integração de parcerias e reorganização dos 
+espaços e de toda a rede para acolher essas mulheres. Limitar o acesso a áreas restritas a profissionais, como vestiários e 
+refeitórios, pode reforçar a segurança. Os consultórios devem ter mobília sem partes afiadas, de preferência fixada ao chão, 
+disposta de modo a não isolar o profissional da saída. Não deve haver obstáculos no trajeto de saída.
+A recepção é também um espaço para exercício do sigilo. Os funcionários não devem passar informações sobre a usuária para 
+outras pessoas (se tem atendimento agendado, qual data, exames etc.). Não podem revelar informações e devem acionar a 
+gestão sobre casos de tentativa e insistência em obter essas informações. 
+A unidade pode se organizar para que o espaço emita sinais claros de que é um lugar aberto e preocupado com esta questão, 
+fazendo uso de cartazes, fôlderes, bottons etc. em locais de fácil acesso às mulheres. No entanto, é importante evitar sinalizar 
+salas utilizadas para o atendimento às vítimas de violência que possam ocasionar a exposição das mulheres e dos profissionais.
+As orientações de organização dos serviços devem estar em conformidade com a Lei n.º 14.847/2024, que prevê salas 
+de acolhimento, atendimento adequado e proteção à integridade física das vítimas em serviços do Sistema Único 
+de Saúde e da rede conveniada. Ao final deste Guia, incluímos em anexo uma síntese da Nota Técnica Conjunta n.º 
+264/2024 do Ministério da Saúde que orienta os serviços sobre a organização desse tipo de espaço de atendimento. 
+
+38
+Versão preliminar
+É importante fortalecer parcerias e fluxos para atender às demandas resultantes, que não são apenas imediatas. Necessidades 
+e condutas podem ser identificadas buscando-se ativamente acessar os medos e as vivências dos profissionais por meio de um 
+movimento de educação permanente, por exemplo, da realização de reuniões e da geração de dados. É possível pensar com os 
+profissionais quais seriam os melhores indicadores e como levantá-los, de forma a traçar um perfil da assistência prestada. Isso 
+pode ajudar a avaliar e desenvolver as estratégias, bem como dar uma devolutiva sobre os casos, por exemplo:
+• Número de casos de violência identificados.
+• Número de pessoas encaminhadas para o atendimento específico da unidade (caso disponível).
+• Número de pessoas encaminhadas para a rede de atendimento a mulheres em situação de violência.
+• Número de pessoas atendidas no atendimento específico da unidade.
+• Encaminhamentos que realmente chegaram aos serviços da rede.
+• Tipos de violência encaminhados (autor da violência, padrão de agressão).
+• Características sociodemográficas das mulheres encaminhadas.
+• Referências anteriores utilizadas pelas mulheres.
+• Avaliação da mulher e dos profissionais sobre o processo e os resultados alcançados.
+A cultura institucional tem parte fundamental na promoção da não violência. A mobilização ativa é crucial, com resposta 
+imediata de não tolerância frente à violência, inclusive entre os profissionais e nas casas. Os usuários devem saber que esta é a 
+postura da unidade – um exemplo é a exposição de cartazes de campanhas de conscientização. É necessário também buscar 
+respaldo das instâncias hierarquicamente superiores, como o órgão interlocutor de violência da área da saúde.
+
+39
+Versão preliminar
+REFERÊNCIAS
+BAIGORRIA, J. et al. Prevalência e fatores associados da violência sexual contra a mulher: revisão sistemática. Revista de Salud 
+Pública, v. 19, n. 6, p. 818-826, 2017. Disponível em: https://doi.org/10.15446/rsap.V19n6.65499. Acesso em: 17 fev. 2025.
+BRASIL. Decreto-Lei n.º 2.848, de 7 de dezembro de 1940. Código Penal. Diário Oficial da União, Rio de Janeiro, n. 303, 31 dez. 1940.
+BRASIL. Lei n.º 11.340, de 7 de agosto de 2006. [Lei Maria da Penha]. Cria mecanismos para coibir a violência doméstica e familiar 
+contra a mulher... Brasília, DF, 2006a. Disponível em: http://www.planalto.gov.br/ccivil_03/ _ato2004-2006/2006/lei/l11340.htm. Acesso 
+em: Acesso em 17 fev. 2025.
+BRASIL. Lei n.º 12.845, de 1º de agosto de 2013. Dispõe sobre o atendimento obrigatório e integral de pessoas em situação de violência 
+sexual. Diário Oficial da União: seção 1, Brasília, DF, n. 150, p. 1.2, 2 ago. 2013.
+BRASIL. Lei n.º 13.431, de 4 de abril de 2017. Estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou 
+testemunha de violência. Brasília, DF, 2017a. Disponível em: www.planalto.gov.br/ccivil_03/ _Ato2015-2018/2017/Lei/L13431.htm. Acesso 
+em: 17 fev. 2025.
+BRASIL. Lei n.º 14.847, de 25 de abril de 2024. Altera a Lei n.º 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor 
+sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no 
+âmbito do Sistema Único de Saúde. Brasília, DF, 2024a. Disponível em: www.planalto.gov.br/ccivil_03/ _ato2023-2026/2024/lei/l14847.
+htm. Acesso em: 17 fev. 2025.
+BRASIL. Lei n.º 6.259, de 30 de outubro de 1975. Dispõe sobre a organização das ações de Vigilância Epidemiológica, sobre o 
+Programa Nacional de Imunizações, estabelece normas relativas à notificação compulsória de doenças, e dá outras providências. 
+Diário Oficial da União: Seção 1, Brasília, DF, v. 183, p. 1, 31 out. 1975. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l6259.htm. 
+Acesso em: 3 dez. 2024.
+BRASIL. Lei n.º 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, 
+a organização e o funcionamento dos serviços correspondentes e dá outras providências. Brasília, DF, 2015. Disponível em: https://
+bvsms.saude.gov.br/bvs/publicacoes/atencao_humanizada_pessoas_violencia_sexual_norma_tecnica.pdf. Acesso em: 3 dez. 2024.
+BRASIL. Ministério da Saúde. Nota Técnica Conjunta n.º 264/2024 – CGESMU/DGCI, DESCO e DEPPROS/SAPS/MS; CGVIVA/
+DAENT/SVSA/MS; e DAHU/SAES/MS. Brasília, DF: MS, 2024b. Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/
+publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-264-2024-cgesmu-dgci-desco-e-deppros-saps-ms.pdf. Acesso em: 17 fev. 
+2025.
+BRASIL. Ministério da Saúde. Portaria de Consolidação PRC n.º 5, de 28 de setembro de 2017. Capítulo VII: Do Serviço de 
+Atenção às Pessoas em Situação de Violência Sexual. Seção I: Da Organização do Serviço de Atenção às Pessoas em Situação de 
+Violência Sexual. Brasília, DF: MS, 2017b. Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0005_03_10_2017.
+html#TITVCAPVII. Acesso em: 5 nov. 2024. 
+ 
+BRASIL. Ministério da Saúde. Portaria GM/MS n.º 2.198, de 6 de dezembro de 2023. Institui a Estratégia Antirracista para a Saúde no 
+âmbito do Ministério da Saúde. Brasília, DF: MS, 2023a. Disponível em: https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-2.198-de-
+6-de-dezembro-de-2023-528577869. Acesso em 23 dez. 2023.
+
+40
+Versão preliminar
+BRASIL. Ministério da Saúde. Portaria n.º 78, de 18 de janeiro de 2021. Altera a Portaria de Consolidação GM/MS n.º 4, de 28 de 
+setembro de 2017, para dispor sobre as diretrizes para a comunicação externa dos casos de violência contra a mulher às autoridades 
+policiais, no âmbito da Lei n.º 10.778, de 24 de novembro de 2003. Diário Oficial da União: seção 1, Brasília, DF, n. 49, 19 jan. 2021. 
+Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2021/prt0078_19_01_2021.html. Acesso em: 3 dez. 2024.
+BRASIL. Ministério da Saúde. Portaria n.º 936, de 19 de maio de 2004. Dispõe sobre a estruturação da Rede Nacional de Prevenção da 
+Violência e Promoção da Saúde e a implantação e implementação de Núcleos de Prevenção à Violência em Estados e Municípios. 
+Diário Oficial da União: seção 1, Brasília, DF, 20 maio 2004. Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2004/
+prt0936_19_05_2004.html. Acesso em: 17 fev. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Linha de cuidado 
+para a atenção integral à saúde de crianças, adolescentes e suas famílias em situação de violências: orientação para gestores e 
+profissionais de saúde. Brasília, DF: MS, 2010a.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Política Nacional 
+de Humanização: a Humanização como Eixo Norteador das Práticas de Atenção e Gesto em todas as Instâncias do SUS. Brasília, DF: 
+MS, 2006b.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Prevenção e 
+tratamento dos agravos resultantes da violência sexual contra mulheres e adolescentes: norma técnica. 3. ed. Brasília, DF: MS, 
+2012.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Núcleo Técnico da Política Nacional de Humanização. HumanizaSUS: 
+documento base para gestores e trabalhadores do SUS. 4. ed., 4. reimpr. Brasília, DF: MS, 2010b.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Saúde da mulher brasileira: uma perspectiva integrada 
+entre vigilância e atenção à saúde. Boletim Epidemiológico, Brasília, DF, mar. 2023b. Número especial. Disponível em: https://www.
+gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/especiais/2023/saude-da-mulher-brasileira-uma-
+perspectiva-integrada-entre-vigilancia-e-atencao-a-saude-numero-especial-mar.2023/view. Acesso em: 5 nov. 2024.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância de Doenças e Agravos Não 
+Transmissíveis e Promoção da Saúde. Viva: instrutivo notificação de violência interpessoal e autoprovocada. 2. ed. Brasília, DF: MS, 
+2016. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/viva_instrutivo_violencia_interpessoal_autoprovocada_2ed.pdf. 
+Acesso em 17 fev. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Ficha de notificação individual de agravos de notificação 
+compulsória: violência. Brasília, DF: MS, 2015. Disponível em: https://portalsinan.saude.gov.br/images/documentos/Agravos/via/
+violencia_v5.pdf. Acesso em: 5 nov. 2024.
+BRASIL. Ministério da Saúde; Ministério da Justiça; Secretaria de Políticas para as Mulheres. Norma Técnica: Atenção Humanizada 
+às pessoas em situação de violência sexual com registro de informações e coleta de vestígios. Brasília, DF: MS, 2015. Disponível em: 
+https://bvsms.saude.gov.br/bvs/publicacoes/atencao_humanizada_pessoas_violencia_sexual_norma_tecnica.pdf. Acesso em: 17 fev. 
+2025.
+
+41
+Versão preliminar
+BRASIL. Portaria n.º 1.271, de 6 de junho de 2014. Define a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos 
+de saúde pública nos serviços de saúde públicos e privados em todo o território nacional, nos termos do anexo, e dá outras 
+providências. Diário Oficial da União: Seção, Brasília, DF, v. 183, 6 jun. 2014. Disponível em: www2.camara.leg.br/legin/fed/lei/2017/lei-
+13431-4-abril-2017-784569-norma-pl.html. Acesso em: 17 fev. 2025.
+CARNEIRO, S. Mulheres Negras e Violência Doméstica: decodificando os números. São Paulo: Geledés Instituto da Mulher Negra, 
+2017. 360 p Número de ISBN: 978-85-62750-02-1. 
+CARRIJO, C.; MARTINS, P. A. A Violência Doméstica e Racismo Contra Mulheres Negras. Florianópolis. Revista Estudos Feministas, v. 
+28, n. 2, 2020.
+COSTA, M. C. et al. Mulheres rurais e situações de violência: fatores que limitam o acesso e a acessibilidade à rede de atenção à saúde. 
+Revista Gaúcha de Enfermagem, v. 38, n. 2, p. e59553, 2017.
+D’OLIVEIRA, A. F. P. L. et al. Atenção integral à saúde de mulheres em situação de violência de gênero: uma alternativa para a 
+atenção primária em saúde. Ciência & Saúde Coletiva, v. 14, p. 1037-1050, 2009.
+D’OLIVEIRA, A. F. P. L. et al. Atenção primária à saúde: protocolo de atendimento a mulheres em situação de violência. São 
+Paulo: Departamento de Medicina Preventiva da Faculdade de Medicina da Universidade de São Paulo: University of Bristol, 2019. 
+Disponível em: https://sites.usp.br/generoviolenciaesaude/wp-content/uploads/sites/748/2021/05/protocolo_de_atendimento.pdf. 
+Acesso em: 13 fev. 2025.
+D’OLIVEIRA, A. F. P. L.; SCHRAIBER, L. B. Mulheres em situação de violência: entre rotas críticas e redes intersetoriais de atenção. 
+Revista de Medicina, São Paulo, Brasil, v. 92, n. 2, p. 134-140, 2013. DOI: 10.11606/issn.1679-9836.v92i2p134-140. Disponível em: https://
+revistas.usp.br/revistadc/article/view/79953. Acesso em: 5 nov. 2024.
+D’OLIVEIRA, A. F. P. L. et al. Fatores associados à violência por parceiro íntimo em mulheres brasileiras. Revista de Saúde Pública, 
+São Paulo, v. 43, n. 2, p. 299-311, abr. 2009.
+EREIRA, S.; SCHRAIBER, L. B.; D’OLIVEIRA, A. F. P. L. I Am from the Ghetto, I Am Black, I Live in the Slum and They Think: Why Bother 
+with Her? Racism in Seeking Help Experiences for Domestic Violence in Brazil. Journal of Interpersonal Violence, v. 40, n. 5-6, p. 
+1037-1062, 2025. DOI: 10.1177/08862605241256389.
+INSTITUTO DATASENADO. Pesquisa DataSenado: Pesquisa Nacional de Violência contra a Mulher. Brasília, DF: Secretaria de 
+Transparência do Senado Federal, nov. 2023. Disponível em: https://www12.senado.leg.br/institucional/datasenado/arquivos/pesquisa-
+nacional-de-violencia-contra-a-mulher-datasenado-2023.
+ORGANIZAÇÃO DOS ESTADOS AMERICANOS. Comissão Interamericana de Direitos Humanos. Convenção Interamericana para 
+Prevenir, Punir e Erradicar a Violência Contra a Mulher: Convenção de Belém do Pará. 1996. Promulgada pelo Decreto n.º 1973, de 1 
+ago. 1996. Disponível em: http://www.cidh.oas.org/basicos/portugues/m.Belem.do.Para.htm. 3 dez. 2024.
+PASCHE, D. F. Política Nacional de Humanização como aposta na produção coletiva de mudanças nos modos de gerir e cuidar. 
+Revista Interface, v. 13, p. 71-86, 2009. Supl. 1.
+PAZ, P. O. et al. Vulnerability of Women in Situation of Violence in Specialized Service. Aquichan, Bogotá, v. 19, n. 2, e1922, Jun. 
+2019. DOU: https://doi.org/10.5294/aqui.2019.19.2.2. Disponível em: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-
+
+42
+Versão preliminar
+59972019000200002&lng=en&nrm=iso. Acesso em: 17 fev. 2025. 
+PEDUZZI, M.; AGRELI, H. F. Teamwork and collaborative practice in Primary Health Care Interface (Botucatu), v. 22, p. 1525-1534, 2018. 
+Supl. 2.
+SAFFIOTI, H. Violência contra a mulher e violência doméstica. In: BRUSCHINI, C.; UNBERHAUM, S. G. (ed.). Gênero, democracia e 
+sociedade brasileira. São Paulo: Fundação Carlos Chagas: Editora 34, 2002. p. 321-338.
+SARDINHA, L. et al. Global, regional, and national prevalence estimates of physical or sexual, or both, intimate partner violence 
+against women in 2018. Lancet, v. 399, n. 10327, p. 803-813, 26 Feb. 2022. DOI: 10.1016/S0140-6736(21)02664-7. Epub 16 Feb. 2022. PMID: 
+35182472; PMCID: PMC8885817.
+SCHRAIBER, L. B. et al. Violência contra mulheres entre usuárias de serviços públicos da Grande São Paulo. Revista de Saúde 
+Pública, São Paulo, v. 41, p. 359-367, 2007.
+SCHRAIBER, L. B. et al. Violência dói e não é direito: a violência contra a mulher, a saúde e os direitos humanos. São Paulo: Unesp, 
+2005.
+SCHRAIBER, L. B. et al. Violência vivida: a dor que não tem nome. Interface: Comunicação, Saúde, Educação, v. 7, n. 12, p. 41-54, fev. 
+2003. Disponível em: https://doi.org/10.1590/S1414-32832003000100004. Acesso em: 17 fev. 2025.
+SCHRAIBER, L. B.; BARROS, C. R. S.; CASTILHO, E. A. Violência contra as mulheres por parceiros íntimos: usos de serviços de saúde. 
+Revista Brasileira de Epidemiologia, v. 13, p. 237-245, 2010.
+SCHRAIBER, L. B.; D’OLIVEIRA, A. F. P. L. O que devem saber os profissionais de saúde para promover os direitos e a saúde das 
+mulheres em situação de violência doméstica: Projeto Gênero, Violência e Direitos Humanos: Novas Questões para o Campo da 
+Saúde. 2. ed. [S. l.: s. n.], 2003.
+SOARES, B. Enfrentando a Violência contra a Mulher. Brasília, DF: Secretaria Especial de Políticas para as Mulheres, 2005. 
+Disponível em: https://www.ucamcesec.com.br/textodownload/enfrentando-a-violencia-contra-a-mulher-orientacoes-praticas-para-
+profissionais-e-voluntariosas/. Acesso em: 17 fev. 2025.
+WAISELFISZ, J. J. Mapa da Violência 2015: homicídio de mulheres no Brasil. Brasília, DF: FLACSO, 2015. Disponível em: https://www.
+onumulheres.org.br/wpcontent/uploads/2016/04/MapaViolencia_2015_mulheres.pdf. Acesso em: 17 fev. 2025.
+WORLD HEALTH ORGANIZATION. Health care for women subjected to intimate partner violence or sexual violence: a clinical 
+handbook. Geneva: WHO, 2014.
+WORLD HEALTH ORGANIZATION. Responding to intimate partner violence and sexual violence against women: WHO clinical 
+and policy guidelines. Geneva: WHO, 2013.
+WORLD HEALTH ORGANIZATION. Violence against women prevalence estimates, 2018: global, regional and national prevalence 
+estimates for intimate partner violence against women and global and regional prevalence estimates for non-partner sexual 
+violence against women. Geneva: WHO, 2021. Disponível em: https://apps.who.int/iris/handle/10665/341337. Acesso em: 17 fev. 2025.
+
+43
+Versão preliminar
+ANEXO - ORIENTAÇÕES PARA A IMPLEMENTAÇÃO DOS AMBIENTES PRIVATIVOS E 
+INDIVIDUALIZADOS NOS SERVIÇOS DE SAÚDE PRESTADOS NO ÂMBITO DO SISTEMA ÚNICO  
+DE SAÚDE – SUS, CONHECIDOS COMO SALA LILÁ 
+Considerando que este Guia busca oferecer instrumentos e diretrizes para profissionais de saúde garantirem os direitos das 
+mulheres em situação de violência e oferecer cuidado apropriado, incluímos aqui as orientações da Nota Técnica Conjunta n.º 
+264/2024 – Cgesmu/DGCI, Desco e Deppros/Saps/MS; CGVIVA/Daent/SVSA/MS; e Dahu/Saes/MS, publicada no final de 2024 pelo 
+Ministério da Saúde. A Nota tem como objetivo apoiar os serviços de saúde no cumprimento da Lei n.º 14.847/2024, que dispõe 
+sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços do SUS. A versão 
+original da nota está disponível no site do Ministério da Saúde e aqui editamos algumas partes para evitar redundâncias. 
+Como explicitado ao longo deste Guia, a atenção às mulheres em situação de violência demanda uma abordagem atenta aos 
+direitos humanos e à integralidade do cuidado. 
+Orientações Gerais
+É importante reconhecer que o ambiente onde o cuidado ocorre impacta diretamente na qualidade da assistência nesse 
+contexto, esta Nota Técnica tem como objetivo apresentar orientações para a implementação e o funcionamento do que 
+conhecemos como Sala Lilás nos serviços de saúde, em todos os níveis de complexidade da atenção.
+A Lei n.º 14.847, de 25 de abril de 2024, alterou o artigo 7º da Lei n.º 8.080/1990 (Lei Orgânica da Saúde) para dispor sobre o 
+atendimento de mulheres vítimas de violência. Segundo o novo texto da legislação, esse atendimento deve ocorrer em ambiente 
+privativo e individualizado nos serviços de saúde prestados no âmbito do SUS. Além da Lei n.º 14.847/2024, consideramos as 
+diretrizes da legislação brasileira, os protocolos internacionais e as boas práticas de saúde voltadas à humanização do cuidado, 
+com ênfase nas mulheres, nas crianças e nos adolescentes – vítimas ou testemunhas. No caso de crianças e adolescentes, 
+destacamos a importância de considerar as diretrizes da Lei n.º 13.431/2017, para os espaços de atendimento às crianças e 
+adolescentes vítimas ou testemunhas de violência.
+Lei n.º 14.847, de 25 de abril de 2024. 
+Altera a Lei n.º 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre o atendimento de 
+mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no âmbito 
+do Sistema Único de Saúde.
+Art. 1º O art. 7º da Lei n.º 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), passa a vigorar acrescido 
+do seguinte parágrafo único: “Art. 7º ............................................................................................................................ . ................................................
+.................................................................................................... Parágrafo único. Para os efeitos do inciso XIV do caput deste artigo, 
+as mulheres vítimas de qualquer tipo de violência têm o direito de serem acolhidas e atendidas nos serviços 
+de saúde prestados no âmbito do SUS, na rede própria ou conveniada, em local e ambiente que garantam sua 
+privacidade e restrição do acesso de terceiros não autorizados pela paciente, em especial o do agressor.” (NR)
+
+44
+Versão preliminar
+Do texto da Lei, depreende-se que o espaço físico dos serviços de saúde deve ser projetado ou adaptado para acolher e atender 
+mulheres em situação de violência de forma humanizada, segura e sigilosa, de forma integral e equitativa, alinhada com os 
+princípios do SUS.
+O Ministério da Saúde destaca que os projetos de arquitetura e infraestrutura de Unidades Básicas de Saúde e maternidades 
+do novo Programa de Aceleração do Crescimento (PAC) trazem a Sala Lilás como ambiente obrigatório. Nos demais, é preciso 
+adaptar os serviços para o cumprimento da Lei.
+Esse espaço pode ser entendido como mais do que uma estrutura física: é um compromisso dos serviços de saúde com a 
+transformação da qualidade do atendimento prestado às mulheres e com o fortalecimento de sua confiança. Aqui nos 
+referiremos a este espaço como Sala Lilás, como é amplamente conhecido. 
+Destaca-se que a falta de um espaço individualizado para mulheres em situação de violência não é justificativa para a não 
+realização do acolhimento ou atendimento dos casos de violência. Conforme a atual redação da Lei n.° 8.080, de 19 de setembro 
+de 1990, é responsabilidade de todos os serviços de saúde, sejam eles públicos ou privados, o atendimento imediato e prioritário, 
+assim como a notificação compulsória. Portanto, nenhum serviço de saúde está isento da responsabilidade de atender, 
+informar e encaminhar para o atendimento necessário. Cabe à gestão local proceder com as adaptações necessárias para  
+a adequação à Lei.
+Cientes de que o aprimoramento dos serviços de atenção a mulheres em situação de violência constitui um desafio contínuo, o Ministério 
+da Saúde enfatiza a necessidade de integração entre toda a gestão da saúde e as demais áreas do Estado, bem como a corresponsabilidade 
+de todos na garantia de espaços físicos adequados para acolhimento e atendimento, transcendendo a atuação exclusiva de serviços 
+especializados. Para tanto, a qualificação do cuidado exige planejamento estratégico e criterioso, considerando as particularidades  
+de cada contexto.
+A importância da ambiência nos serviços de saúde na atenção às situações de violência 
+A ambiência nos serviços de saúde refere-nos ao tratamento dado ao espaço físico entendido como espaço social, profissional e 
+de relações interpessoais que deve proporcionar atenção acolhedora, resolutiva e humana. 
+A Sala Lilás enquanto ambiente deve qualificar a inclusão do atendimento na rede e afirma o cuidado com o espaço físico 
+onde se realiza a atenção à saúde, organizado para que favoreça as atividades ali desenvolvidas, com privacidade, tranquilidade, 
+segurança, acolhimento e conforto, tanto para as pessoas atendidas quanto para o trabalho das equipes. Esse cuidado inclui: 
+o projeto dos espaços; elementos de decoração, iluminação, disposição dos móveis e outros detalhes; a implementação 
+de abordagens qualificadas para a atenção prestada pelos(as) profissionais; a disponibilidade de insumos e ferramentas 
+apropriadas para a resolutividade dos atendimentos; e a organização cotidiana da atenção de forma integrada a outros serviços. 
+ 
+
+45
+Versão preliminar
+As reformas e as adaptações físicas nos serviços de saúde devem priorizar a criação de um ambiente acolhedor e seguro, para garantir 
+a privacidade das mulheres atendidas, para que não haja nenhuma forma de discriminação e para que seja efetivado o papel dos 
+serviços de saúde na rede de atenção às vítimas de violência. Já a partir da atualização dos projetos de arquitetura e infraestrutura 
+previstas no PAC para as Unidades Básicas de Saúde da Atenção Primária e para as maternidades, a população terá acesso a novos 
+ambientes, inclusive a Sala Lilás. Os novos projetos já estão adequados às disposições desta Nota e estão em conformidade com as  
+normas sanitárias. 
+Vale ressaltar que, a depender da organização da rede de atenção e das necessidades identificadas pela gestão, a estruturação 
+proposta nesta Nota Técnica pode ser adaptada à arquitetura dos serviços de saúde para funcionar em salas multifuncionais ou 
+outros espaços disponíveis, desde que sejam mantidas as condições de humanização, sigilo e privacidade. 
+Por fim, sobre a ambiência, ressalta-se que o funcionamento desses espaços depende de estarem asseguradas as condições 
+adequadas de trabalho, apoio interno e segurança para os profissionais de saúde.
+Características a serem observadas na organização da Sala Lilás
+1. Ambiente reservado, entrada preferencialmente individualizada e sinalização adequada 
+Os espaços para atendimento às mulheres devem ser identificados de forma discreta (evitando nomes como “Sala Lilás” ou “Sala 
+de Violência”, que podem expor o motivo do atendimento) para garantir a privacidade e o sigilo das mulheres. É possível usar 
+um símbolo que oriente a equipe sobre o que está acontecendo ali, de forma discreta. É fundamental que todos os profissionais 
+conheçam e referenciem corretamente este espaço, inclusive profissionais atuantes nos serviços que não sejam profissionais 
+de saúde – como agentes de portaria, de limpeza ou de segurança. O local pode, ainda, ser identificado apenas por símbolos 
+ou siglas. Sugere-se que a entrada da sala seja localizada em área com menor fluxo de pessoas e ter acesso preferencialmente 
+individualizada, assegurando um espaço de acolhimento privativo e sem interrupções; e ser acessíveis a pessoas com mobilidade 
+reduzida e pessoas com deficiência, além de possuir telefone ou outro sistema de comunicação interna para solicitar apoio da 
+equipe, se necessário. A entrada independente para a sala de acolhimento evita a circulação da pessoa em situação de violência 
+por outros setores do serviço, minimizando o risco de constrangimento ou exposição. Trata-se de uma adaptação ainda mais 
+relevante para as mulheres em situação de violência sexual e que precisam ter acesso ao atendimento e a procedimentos que 
+podem evidenciar a razão pela qual estão recebendo cuidado.
+2. Cuidado às crianças que acompanham as mulheres
+Sugere-se, ainda, a adaptação ou criação de um espaço de acolhimento infantil no serviço e destinado às crianças atendidas 
+ou que acompanham as mulheres. Nos projetos de arquitetura e infraestrutura previstas no PAC para as Unidades Básicas de 
+Saúde da Atenção Primária, o espaço está previsto próximo à recepção. Ele pode ser equipado com brinquedos pedagógicos 
+adequados para diferentes faixas etárias, materiais para desenho e atividades lúdicas. A utilização de pisos antiderrapantes 
+e materiais seguros é importante para garantir a proteção física das crianças. Isso não apenas alivia a carga emocional das 
+mulheres atendidas, permitindo que elas se concentrem em suas consultas, mas também contribui para um melhor 
+atendimento das famílias e comunidades, alinhado com os princípios do SUS de integralidade e de humanização.
+
+46
+Versão preliminar
+3. Sobre os equipamentos e materiais necessários
+Para o efetivo acolhimento e atendimento às mulheres em situação de violência, é necessário que os serviços de saúde tenham 
+à disposição tenha à disposição: 
+Testes rápidos para IST: a oferta de testes rápidos para Infecções Sexualmente Transmissíveis (IST), que permita o diagnóstico 
+precoce e o tratamento em tempo oportuno, reduzindo o risco de agravos e de transmissão. Os Protocolos Clínicos e Diretrizes 
+Terapêuticas do Ministério da Saúde vigentes e atualizados devem ser adotados na oferta da testagem rápida, preconizando o 
+devido aconselhamento antes e depois da testagem, com orientações para o seguimento do rastreamento de acordo com a 
+janela imunológica. A oferta dos testes rápidos para IST aplica-se tanto ao atendimento de violências sexuais agudas (até 72h) 
+quanto crônicas (mais de 72h). 
+Medicamentos para profilaxia: situações de violência sexual demandam a profilaxia contra IST quando ocorridas em até 
+72h (violência sexual aguda). A Lei do Minuto Seguinte (Lei n.º 12.845/2013) dispõe como atendimento obrigatório a oferta das 
+profilaxias contra IST em tempo oportuno, de forma gratuita e sigilosa, em todos os serviços de saúde. 
+Contracepção de emergência: a Lei do Minuto Seguinte também dispõe sobre a oferta de contracepção de emergência nas 
+situações de violência sexual aguda. O serviço público de saúde dispõe de duas modalidades de contracepção de emergência: 
+a pílula de levonorgestrel (“Pílula do Dia Seguinte”) e o DIU de cobre. Ambos podem ser ofertados em até 120h (cinco dias) após 
+a ocorrência da violência sexual, mediante orientação adequada para escolha autônoma da sobrevivente de violência e para o 
+seguimento do cuidado. 
+Kits para coleta de vestígios da violência sexual: nos serviços cadastrados como referência para atenção integral às pessoas 
+em situação de violência sexual, de acordo com as portarias vigentes, devem estar disponíveis os kits para coleta de vestígios 
+da violência sexual. Quando o serviço for designado como referência para o atendimento a mulheres em situação de violência, 
+é essencial que esteja equipado com materiais adequados para a coleta de vestígios, caso essa seja a vontade da vítima, e para 
+facilitar o acesso à justiça. É fundamental que esses kits sejam utilizados por profissionais devidamente capacitados, e que estes 
+sigam os protocolos estabelecidos, garantindo a integridade das evidências e a dignidade da pessoa atendida durante todo o 
+processo. Para mais detalhes sobre esta etapa, consultar a Nota Técnica de Atenção Humanizada às Pessoas em Situação de 
+Violência Sexual com Registro de Informações e Coleta de Vestígios (2015). 
+Materiais, insumos e serviços de apoio para cuidado às lesões físicas: o atendimento humanizado às mulheres vítimas 
+de violência física exige a disponibilidade de insumos básicos para o tratamento de lesões leves, o acesso rápido a serviços 
+especializados e à documentação detalhada do atendimento inicial. Nos casos de lesões mais graves, que exigem exames 
+complementares para apoio diagnóstico e terapêutico, bem como outros procedimentos relacionados ao cuidado, devem ser 
+ofertados de maneira oportuna, célere e respeitosa. A condução a outros setores da unidade de saúde para a prestação de 
+cuidados mais complexos precisa evitar, o quanto possível, a exposição da vítima de violência, assim como a situação precisa ser 
+descrita cuidadosamente em prontuário pelo profissional que prestou o primeiro cuidado e teve o primeiro contato com a vítima 
+– evitando que a pessoa precise repetir o relato e ser, assim, revitimizada. 
+
+47
+Versão preliminar
+Sistemas de informação integrados: estados, municípios ou o Distrito Federal que, eventualmente, não disponham de sistemas 
+de informação integrados para registro em prontuário, devem preconizar a orientação aos seus profissionais para a redação de 
+relatório de saúde pelo profissional de primeiro contato, que possa ser apresentado pela paciente nos demais serviços visitados 
+para a prestação dos cuidados, com a mesma finalidade de prevenção da revitimização.
+Mobiliário adequado: preconiza-se a disposição de mobiliário adequado para garantir o conforto da mulher e do(da) 
+acompanhante durante o atendimento: disponibilidade de cadeiras confortáveis para espera; macas e leitos adequados, quando 
+necessários. Os serviços devem dispor de maca e/ou mesa ginecológica para avaliação de eventuais lesões decorrentes de 
+violência sexual, assim como o foco de luz clínico para exame ginecológico. 
+Materiais informativos e de apoio: disponibilização de cartilhas, fôlderes e outros materiais informativos sobre os diferentes 
+tipos de violência, direitos, serviços da rede de atendimento e formas de denúncia devem estar disponíveis em linguagem clara, 
+objetiva e acessível, inclusive em formatos adequados para pessoas com deficiência (versões em Braille, audiolivros, textos em 
+linguagem de sinais e formatos digitais compatíveis com leitores de tela, por exemplo).
+Ficha de notificação compulsória: ver as demais disposições deste Guia. 
+Demais disposições da Nota Técnica
+Além disso, conforme os demais itens da presente publicação, é fundamental garantir a qualificação de todos os profissionais 
+que atuam nos serviços de saúde, de acordo com suas atribuições, para que todos possam oferecer atenção humanizada, escuta 
+qualificada e identificação de sinais de violência. É parte da atenção às pessoas em situação de violência a organização de rede 
+de serviços, articulação com a rede intersetorial, além de processos de monitoramento, conforme itens a seguir.
+Na Nota Técnica original, há algumas disposições sobre o fluxo de atendimento e acolhimento, além da integração entre 
+os serviços. Reafirmamos que apenas  o acolhimento inicial deve ser feito em qualquer serviço de saúde. Após avaliação do 
+risco e da identificação das necessidades de atendimento, ela pode seguir no próprio serviço ou nos serviços de referência. 
+Em caso de dúvidas sobre as orientações atualizadas para o acolhimento das pessoas em situação de violência nos serviços 
+de saúde, consulte o Ministério da Saúde. A Atenção Primária à Saúde (APS) deve coordenar o cuidado, assegurando que as 
+mulheres sejam vinculadas às suas equipes de referência para um seguimento qualificado. O encaminhamento responsável, 
+com compartilhamento ético de informações para prevenção da revitimização, e a articulação da rede são essenciais.
+Sobre a notificação compulsória, destacamos que a garantia de um ambiente privativo para o atendimento pode facilitar a 
+coleta de informações para a notificação, respeitando a privacidade da mulher. É fundamental, no entanto, que se garanta 
+a qualificação dos profissionais que atuam nos serviços de saúde, de acordo com suas atribuições, para que todos possam 
+oferecer atenção humanizada, escuta qualificada e identificação de sinais de violência.
+
+48
+Versão preliminar
+Em relação à qualificação dos profissionais, destacamos que a prática assistencial deve prezar pelo direito à vida livre de 
+violência e à autodeterminação, o que inclui o respeito aos direitos sexuais e direitos reprodutivos. A qualificação é continuada e 
+deve ser parte da rotina dos serviços, oportunidades em que se sugere abordar:
+• A diversidade das mulheres
+• O reconhecimento dos sinais de violência
+• O acolhimento e a escuta qualificada
+• A aplicação dos instrumentos de avaliação de risco
+• O conhecimento da legislação
+• O manejo clínico
+• As estratégias de comunicação
+• A notificação compulsória
+• A comunicação externa
+• O encaminhamento para os diferentes pontos de atenção da rede de serviços
+• O monitoramento dos casos
+• A segurança no trabalho
+Sobre a avaliação das necessidades dos serviços para a atenção às vítimas de violência pela gestão, a Nota Técnica sugere 
+atenção para:
+• Avaliação das necessidades de adaptação dos serviços de saúde: cabe aos gestores/gestoras de saúde locais avaliar 
+as necessidades de adaptação dos serviços de saúde para o acolhimento e atendimento adequado a todas as pessoas 
+em situação de violência. Esta avaliação deve ser criteriosa e levar em conta as especificidades de cada serviço de 
+saúde, os recursos e as equipes disponíveis.
+• Dispositivos da Lei n.º 8.080/1990: a avaliação deve considerar os dispositivos da Lei n.º 8080/1990, em especial a 
+disponibilidade das salas reservadas e da capacidade de resolução dos serviços em todos os níveis de assistência; da 
+necessidade de evitar duplicidade de meios para fins idênticos; e da organização da rede para garantir o acolhimento 
+em todos os serviços de saúde e referenciar as pessoas em situação de violência aos serviços especializados.
+• Monitoramento e avaliação das ações de atenção: o Ministério da Saúde sugere a elaboração de métricas de 
+monitoramento das ações de atenção às pessoas em situação de violência. Não são dados obrigatórios, mas auxiliam a 
+
+49
+Versão preliminar
+gestão e os serviços a planejarem as ações e avaliarem que mudanças e adaptações são necessárias. O monitoramento 
+e a avaliação contínua das mudanças implementadas são essenciais para identificar o impacto das ações, corrigir 
+fragilidades e aperfeiçoar o fluxo de atendimento.
+Por fim, a Nota Técnica destaca que a garantia de um ambiente acolhedor, seguro e que promova a privacidade é fundamental 
+para o atendimento humanizado e eficaz a pessoas em situação de violência nos serviços de saúde. A implementação das ações 
+descritas nesta Nota Técnica ‒ considerando a Lei n.º 14.847, de 25 de abril de 2024, e as demais leis em vigor, os protocolos 
+nacionais e internacionais e as melhores práticas em saúde ‒ contribui para a construção de serviços de saúde mais justos, 
+equitativos e resolutivos, que promovam a saúde integral e o bem-estar de todas.
+
+50
+Versão preliminar
+CONTE-NOS O QUE PENSA SOBRE ESTA PUBLICAÇÃO.   
+CLIQUE AQUI E RESPONDA A PESQUISA.
+
+Biblioteca Virtual em Saúde do Ministério da Saúde
+bvsms.saude.gov.br

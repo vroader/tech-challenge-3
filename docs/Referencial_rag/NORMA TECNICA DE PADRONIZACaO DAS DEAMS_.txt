@@ -1,0 +1,1666 @@
+Luiz Inácio Lula da Silva
+Presidente da República
+Nilcéa Freire
+Ministra Chefe da Secretaria de Políticas para 
+as Mulheres da Presidência da República
+Aparecida Gonçalves
+Secretária de Enfrentamento à Violência 
+contra as Mulheres
+Luiz Paulo Teles Ferreira Barreto
+Ministro da Justiça
+Ricardo Balestreri
+Secretário Nacional de Segurança Pública
+
+NORMA TÉCNICA DE PADRONIZAÇÃO DAS 
+DELEGACIAS ESPECIALIZADAS DE ATENDIMENTO 
+ÀS MULHERES - DEAM s
+EDIÇÃO ATUALIZADA – 2010
+Secretaria de Política S Para a S Mulhere S/Pre Sidência da r ePública
+Secretaria n acional de Segurança Pública/Mini Stério da Ju Stiça
+unodc  - eS critório da S n açõe S u nida S Sobre d roga S e c ri Me
+Brasília 2010
+
+Elaboração, distribuição:
+Ministério da Justiça
+Central de Atendimento à Mulher – Ligue 180
+Projeto Editorial:
+Ministério da Justiça
+Consultoria:
+Carmen Hein de Campos
+Edição:
+Aparecida Gonçalves
+Ane Cruz
+Cristina Gross Villanova
+Kelly Cristina Tavares
+Cíntia Freitas
+Nívio Caixeta 
+Capa
+i-Comunicação
+Revisão
+i-Comunicação
+
+Apresentação 04
+Introdução 09
+Capítulo 1 - LEI MARIA DA PENHA: UM NOVO MARCO NORMATIVO
+1.1 A violência é um ato de discriminação contra as mulheres 21
+1.2 Configuração jurídica da violência doméstica 23
+1.3 Formas de violência contra a mulher 24
+1.4 A Política Integrada e as Medidas de Prevenção e Assistência 25
+Capítulo 2 - DIRETRIZES DAS DEAMs
+2.1 Introdução 31
+2.2 A Polícia Civil Brasileira 32
+2.2.1 Diretrizes e Atribuições das Deams no âmbito da Polícia Civil 32
+2.2.2 Da especialização do serviço 34
+2.2.3 Natureza do Serviço 35
+2.2.3 Das beneficiárias diretas do Serviço 35
+2.2.5 Escuta ativa 36
+2.2.6 Natureza Complementar do Serviço 36
+2.2.7 Formação dos Profissionais 37
+2.2.8 Integração do Serviço ao Sistema de Segurança Pública 37
+Capítulo 3. PRINCÍPIOS E NOVAS ATRIBUIÇÕES DAS DEAMs EM CONFORMIDADE COM A LEI MARIA DA PENHA
+3.1 Introdução 38
+3.2 Atribuições das DEAMs 40
+3.3 Crimes de atribuição investigativa das DEAMs 41
+3.4 Procedimentos das DEAMs 42
+3.5 Princípios e diretrizes gerais de atendimento e acolhimento à mulher em situação de 
+      violência doméstica e familiar 42
+3.5.1 Acolhimento e atendimento 42
+
+3.5.2 Procedimentos penais e processuais penais 44
+3.6 Medidas Protetivas 45
+3.6.1 Da prisão preventiva 47
+3.7 Boletim de Ocorrência 47
+3.8 Termo Circunstanciado 48
+3.9 Inquérito Policial 48
+3.10 Monitoramento das ocorrências 49
+Capítulo 4. REDE DE SERVIÇOS DE ATENDIMENTO A MULHERES EM SITUAÇÃO DE VIOLÊNCIA
+4.1 Introdução 52
+4.2 Medidas concretas de articulação da Rede 54
+4.3 Fluxo de Atendimento da Rede 55
+CAPÍTULO 5 - ESTRUTURA DAS DEAMs 
+5.1 Coordenação das Delegacias Especializadas de Atendimento à Mulher - DEAMs 56
+5.2 Recursos Humanos 60
+5.3 Horário de Expediente 60
+5.4 Formação de Recursos Humanos 63
+5.5 Infraestrutura para o funcionamento 65
+5.5.1 Equipamentos 65
+5.6 Localização e espaço físico 66
+5.7 Mobiliário 68
+CONSIDERAÇÕES FINAIS 69
+RECOMENDAÇÕES 72
+ANEXO (Lei 11. 340, de 07/08/2006) 75
+
+7
+dea MS 25 anos enfrentando a violencia contra a mulher
+a Pre Sentaç Ão
+a 
+criação das Delegacias Especializadas de Atendimento à Mulher (DEAMs) foi a primeira experiência de 
+implementação de uma  política pública de combate à violência contra as mulheres no Brasil. Desde a 
+instalação da primeira DEAM, em 1985, na cidade de São Paulo
+1, se passaram 25 anos e as delegacias 
+das mulheres não só permanecem como têm renovado a cada dia seu papel e sua importância, servindo inclusive 
+como modelo para países da América Latina e África.
+A política de criação das DEAMs teve como motivação primária responder à demanda  dos movimentos feministas e 
+de mulheres por uma ação mais vigorosa por parte do Estado em relação à violência contra as mulheres. Os movimen-
+tos sociais de mulheres criticavam o descaso e/ou a tolerância com que o sistema de justiça criminal lidava com os cri-
+mes cometidos contra as mulheres, particularmente os homicídios ditos “passionais” e a violência doméstica e sexual.
+Com a atribuição de investigar os vários crimes cometidos contra as mulheres pelo simples fato de serem 
+mulheres, as DEAMs foram conquistando seu espaço, crescendo em número e em importância na política de en-
+frentamento à violência de gênero. 
+A importância das Delegacias Especializadas reside, em especial, em suas atribuições judiciárias, já que  as 
+mesmas foram concebidas com a função de investigação, e como um lugar privilegiado e diferenciado de aten -
+dimento às mulheres. No imaginário feminino as delegacias, simbolicamente, são ainda o espaço da garantia de 
+direitos e do acesso à justiça.  É lá que se busca em primeiro lugar o acolhimento para suas queixas e denúncias. 
+Compreender essa função simbólica é fundamental para lidar com a complexidade da violência contra as mulheres.
+ 1 No Estado de São Paulo as delegacias especializadas no atendimento à mulher são denominadas ‘Delegacias de Defesa da Mulher’ – DDM. 
+
+8
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+É justamente esta natureza complexa da violência contra as mulheres que deve orientar e dimensionar o papel 
+das DEAMs e da investigação criminal, já que os crimes contra as mulheres, sobretudo no campo da violência do-
+méstica e intra-familiar, por suas características de habitualidade, relação de conjugalidade e hierarquia de gênero, 
+diferem, estruturalmente dos crimes comuns. Por isso, os e as profissionais que atuam nas DEAMs devem  receber 
+uma qualificação para o entendimento dessa violência, além da qualificação geral para a investigação criminal. 
+Se desde sua criação as DEAMs já exerciam um papel de destaque no enfrentamento à violência contra as mu-
+lheres  a Lei Maria da Penha (Lei 11.340/2006) veio reforçar este papel, atribuindo-lhes novas funções
+2, o que exige 
+das autoridades no âmbito da segurança pública a adoção de medidas imediatas que viabilizem uma atuação por 
+parte das DEAMs consoante com a  nova legislação.
+A importância estratégica das DEAMs tem sido sistematicamente ratificado pelas políticas públicas de enfren-
+tamento à violência contra as mulheres, como  no II Plano Nacional de Políticas para as Mulheres (2008), no Pacto 
+Nacional pelo Enfrentamento à Violência contra as Mulheres (2007)
+3 (SPM/PR) e no Pronasci (MJ), Programa Na-
+cional de Segurança Pública com Cidadania (2007) que inclui a plena implementação da Lei Maria da Penha entre 
+seus objetivos . 
+Ao longo de sua existência, as Delegacias Especializadas têm contribuído, ainda, para dar visibilidade ao problema da violência 
+contra as mulheres e para o reconhecimento, pela sociedade, da natureza criminosa da violência baseada em diferenças de gênero. 
+2 Art. 11º da lei Maria da Penha: No atendimento à mulher em situação de violência doméstica e familiar, a autoridade policial deverá, entre 
+outras providências: I - garantir proteção policial, quando necessário, comunicando de imediato ao Ministério Público e ao Poder Judiciário; II - 
+encaminhar a ofendida ao hospital ou posto de saúde e ao Instituto Médico Legal; III - fornecer transporte para a ofendida e seus dependentes 
+para abrigo ou local seguro, quando houver risco de vida; IV - se necessário, acompanhar a ofendida para assegurar a retirada de seus 
+pertences do local da ocorrência ou do domicílio familiar; V - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis.
+3 O Pacto Nacional pelo Enfrentamento da Violência contra as Mulheres parte do entendimento de que a violência constitui-se em um fenômeno 
+de caráter multidimensional, que requer a implementação de políticas públicas amplas e articuladas nas mais diferentes esferas da vida social, 
+como na educação, no mundo do trabalho, na saúde, na segurança pública, na assistência social, entre outras.
+
+9
+dea MS 25 anos enfrentando a violencia contra a mulher
+A norma técnica que aqui apresentamos representa o esforço conjunto de diferentes órgãos governamentais, 
+sociedade civil e Unococ para atualizar, segundo a Lei Maria da Penha, a norma lançada em 2006 pela SPM e MJ.  
+Sabemos do enorme desafio que representa a uniformização de estruturas e procedimentos em sistema tão he-
+terogêneo como o de Segurança Pública; no entanto, acreditamos que maior é o compromisso de pôr fim à violência 
+contra as mulheres. Assim,  convidamos todos/as os/as envolvidos/as a se engajarem em um verdadeiro mutirão 
+para fazer com que as diretrizes aqui propostas se convertam efetivamente em rotinas cotidianas dentro das DEAMs.
+Nilcéa Freire
+Ministra
+SPM/PR
+Ricardo Balestreri
+Secretário Nacional
+SENASP/MJ
+Bo Mathiasen
+Representante Regional  
+para o Brasil e Cone Sul
+UNODC
+
+
+
+11
+dea MS 25 anos enfrentando a violencia contra a mulher
+introduç Ão
+e
+m 2006, a Secretaria Especial de Políticas para as Mulheres (SPM), a Secretaria Nacional de Segurança 
+Pública (Senasp) do Ministério da Justiça, as Secretarias de Segurança Pública e as Polícias Civis das 
+Unidades Federadas, bem como especialistas na temática da violência de gênero e de diferentes orga-
+nizações não-governamentais, se juntaram para elaborar, em consonância com a legislação vigente, a Norma 
+Técnica de Padronização das Delegacias Especializadas de Atendimento à Mulher (DEAMs). 
+A Norma Técnica das DEAMs é fruto, também, de uma parceria estabelecida entre a Senasp e a SPM desde o ano 
+de 2003, a qual tem por objetivo implementar políticas públicas de enfrentamento à violência doméstica e de gênero 
+na segurança pública. Nesse sentido, várias ações foram desenvolvidas como a Pesquisa Anual do Perfil Organiza-
+cional das DEAMs, que permite avaliar as condições físicas e de recursos humanos existentes nestas Delegacias 
+Especializadas e orientam projetos a serem apoiados com recursos do Fundo Nacional de Segurança Pública; o 
+desenvolvimento de cursos educativos para os profissionais de segurança pública no atendimento a mulheres víti-
+mas de violência doméstica e de gênero; ações voltadas à prevenção da violência praticada contra mulheres, com a 
+sensibilização de grupos em situação de vulnerabilidade e profissionais de segurança pública, bem como a repressão 
+qualificada a este tipo de crime. Todas estas ações foram norteadas a partir dos debates realizados em encontros 
+nacionais entre as profissionais de segurança pública das DEAMs e os técnicos da Senasp e da SPM.
+Logo após a elaboração da Norma Técnica, foi promulgada a Lei nº 11.340, de 7 de agosto de 2006, mais 
+conhecida como Lei Maria da Penha. Esse novo instrumento tornou necessária a revisão da Norma Técnica de 
+Padronização das DEAMs, pois instituiu uma nova política criminal e procedimentos específicos para lidar com as 
+ocorrências de violência contra as mulheres. Além disso, a Lei estabeleceu uma política integral para o tratamento 
+dessa violência e criou novas atribuições para os poderes públicos e, particularmente, para as DEAMs.
+
+12
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+A aplicação da nova Lei é uma prioridade para o governo federal e reflete políticas públicas elaboradas e imple-
+mentadas pela SPM e pela Senasp. Com essa finalidade foi criado o Pacto Nacional de Enfrentamento à Violência 
+contra a Mulher, estruturado em quatro eixos:
+1. Implementação da Lei Maria da Penha e Fortalecimento dos Serviços Especializados de Atendimento;
+2. Proteção dos Direitos sexuais e Reprodutivos e Enfrentamento da Feminização da Aids;
+3. Combate à Exploração Sexual de Meninas e Adolescentes e ao Tráfico de Mulheres;
+4. Promoção dos direitos humanos das mulheres em situação de prisão.
+O primeiro eixo do Pacto Nacional está ligado diretamente à redefinição do papel das DEAMs, no sentido de 
+desempenharem uma ação mais preventiva e repressiva. Deste modo, implementar a Lei Maria da Penha significa 
+executar o Pacto Nacional, e as DEAMs têm um papel fundamental nesse processo.
+O Ministério da Justiça, por meio do Sistema Único de Segurança Pública (Susp) e do Programa Nacional de 
+Segurança Pública com Cidadania (Pronasci) também está empenhado na implementação da Lei Maria da Penha, 
+sendo que dentre os seus principais eixos de atuação destacam-se o envolvimento da comunidade na prevenção 
+da violência, com um enfoque especial na violência contra as mulheres. Isso ocorre por meio da formação conti-
+nuada dos profissionais de segurança pública, da aquisição de equipamentos para as unidades funcionais, dentre 
+elas as DEAMs, a implementação do Serviço de Educação e Responsabilização a Agressores
+4, dos Juizados e Varas 
+Especializadas, dos Núcleos de Defensorias Públicas e da assistência jurídica a mulheres apenadas, assim como 
+pela capacitação dos operadores do direito.
+Por fim, a parceria com o Escritório das Nações Unidas sobre Drogas e Crime (Unodc) permitiu a ampliação da 
+cooperação com a SPM e a Senasp, para que a Norma Técnica pudesse ser discutida e validada pelas principais 
+interessadas: as delegacias de mulheres.
+4 O Serviço de Educação e Responsabilização de Agressores visa conscientizar agressores sobre a violência de gênero como uma violação dos 
+Direitos Humanos por meio de diversas atividades.
+
+13
+dea MS 25 anos enfrentando a violencia contra a mulher
+A metodologia utilizada para a adequação da Norma Técnica seguiu a estrutura proposta na Norma Técnica 
+anterior, bem como as propostas de adequação elaboradas por algumas DEAMs 5. Muitos pontos foram reformu-
+lados ou adaptados. Outros foram revisados no que se refere a normativas e obrigações internacionais do Estado 
+brasileiro. Mais especificamente a Norma Técnica foi alinhada a tratados internacionais como a Convenção sobre 
+a Eliminação de Todas as Formas de Discriminação contra a Mulher (Convenção CEDAW) e a Convenção Inter-
+Americana para Prevenir, Punir e Erradicar a Violência contra a Mulher (Convenção de Belém do Pará). 
+O trabalho está dividido em cinco capítulos. O primeiro refere-se ao marco normativo estabelecido pela nova 
+legislação, fixando o conteúdo constitucional e internacional dos direitos humanos das mulheres. Mencionam-se 
+os tratados e recomendações internacionais dirigidas ao Estado brasileiro e são estabelecidos os principais con-
+ceitos, diretrizes e princípios introduzidos ou enfatizados pela Lei Maria da Penha.
+O segundo capítulo trata do papel das DEAMs, no âmbito da estrutura do Sistema de Segurança Pública e da 
+Política de modernização da Polícia Civil. Reproduzindo em grande parte a Norma Técnica anterior, esse capítulo 
+apresenta também algumas mudanças relativas às novas necessidades criadas pela Lei Maria da Penha.
+O terceiro capítulo destaca os princípios e novas atribuições das DEAMs, em observância aos princípios e de-
+terminações da Lei Maria da Penha.
+O quarto capítulo traz informações sobre a rede de serviços de atendimento à mulher em situação de violência, 
+destaca o papel dos atores envolvidos e sugere um fluxo de atendimento para a organização da rede.
+Por fim, o quinto capítulo reproduz quase na íntegra o texto anterior sobre as DEAMs, para definir estrutura 
+física, os recursos humanos e materiais necessários à implementação da Lei Maria da Penha e do Pacto Nacional. 
+As considerações finais enfatizam o papel das DEAMs e suas novas atribuições em termos de ações preventivas 
+e fortalecimento da Rede de Assistência à Violência contra as Mulheres.
+5 Projeto de Implementação de Coordenação das DEAM/Bahia e a INSTRUÇÃO NORMATIVA Nº 005/CSPJC/2008, do Estado do Mato Grosso. 
+
+14
+Este pequeno, mas importante passo na implementação da lei Maria da Penha é resultado de uma aliança que 
+envolveu diferentes instituições empenhadas em avançar nas políticas públicas de gênero no País. É importante 
+destacar a prioridade dada ao enfrentamento da violência contra as mulheres pelo governo federal por meio da 
+SPM e da Senasp. Compartilhando essa prioridade em sua agenda internacional, ao Unodc coube colaborar tec-
+nicamente nos encontros e reuniões que culminaram na nova norma técnica e apoiar financeiramente a revisão. 
+Na mesma direção, as secretarias de segurança e as polícias civis de várias unidades da federação tiveram uma 
+participação fundamental nessa construção, ao trazer importantes aportes à elaboração da nova norma técnica. 
+
+15
+dea MS 25 anos enfrentando a violencia contra a mulher
+c a Pítulo 1
+lei  Maria  da  P enha : 
+u M no Vo  Marco  
+nor Mati Vo
+a 
+promulgação da Lei 11.340, em 07 de agosto de 2006 - Lei Maria da Penha6 -, que referendou uma política 
+integral para o enfrentamento da violência contra as mulheres, simbolizou o cumprimento dos compromissos 
+internacionais assumidos pelo Estado brasileiro quando da ratificação da Convenção sobre a Eliminação 
+de Todas as Formas de Discriminação contra a Mulher (Convenção CEDAW) e da Convenção Interamericana para 
+Prevenir, Punir e Erradicar a Violência contra a Mulher (Convenção Belém do Pará), dentre outros instrumentos 
+internacionais de proteção aos direitos humanos.
+Assim como as Delegacias Especializadas de Atendimento às Mulheres surgiram por proposição do movimento 
+feminista e de mulheres, a Lei Maria da Penha é também originária desse mesmo movimento, que há muito 
+criticava o tratamento legal dispensado pelo sistema de justiça às mulheres em situação de violência doméstica
+7. 
+6 A Lei 11.340/2006 foi nominada Lei Maria da Penha como uma homenagem simbólica à Maria da Penha Fernandes, mulher vítima de violência 
+doméstica, cujo caso foi apresentado à Comissão Interamericana de Direitos Humanos em 1998 por Maria da Penha Fernandes, Cejil e Cladem. 
+Ver: Maria da Penha v. Brazil, Case 12.051, Report No. 54/01, OEA/Ser.L/V/II.111 Doc. 20 rev. at 704 (2000).
+7 A Lei Maria da Penha foi uma iniciativa de um consórcio de ONGs feministas (Advocaci, Agende, Cepia, Cfemea, Cladem e Themis) que 
+elaborou e entregou um anteprojeto de Lei à Secretaria Especial de Políticas para as Mulheres. O anteprojeto foi amplamente discutido com a 
+sociedade civil e encaminhado ao Congresso Nacional.
+
+16
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Alicerçada na Constituição Federal e nas Convenções Internacionais de direitos humanos das mulheres ante-
+riormente mencionadas, criou mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher 
+nos termos do § 8º do artigo 226 da Constituição Federal e das Convenções Cedaw e Belém do Pará8, e estabele-
+ceu medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar. 
+A Lei Maria da Penha é, portanto, um marco na proteção dos direitos humanos das mulheres porque reco-
+nheceu a violência contra as mulheres como uma violação de direitos humanos, estabeleceu medidas para sua 
+proteção, assistência e punição e possibilidade de reeducação dos agressores.  
+As medidas protetivas estabelecidas na Lei inovam o quadro normativo, já que se destinam não apenas a pro-
+teger mulheres em situação de violência ou risco, mas também por sua natureza de contenção dos agressores. A 
+trilogia assistência-prevenção-repressão é, portanto, uma marca de diferenciação introduzida pela Lei. 
+O sistema de monitoramento internacional já vinha recomendando que o País alterasse o tratamento legal à 
+violência contra as mulheres. No documento 
+Estratégias Modelo e as Medidas Práticas para a Eliminação da Vio-
+lência contra a Mulher no campo da Prevenção do Crime e da Justiça Criminal , as Nações Unidas recomendam 
+aos Estados membros que adotem medidas no campo criminal e de prevenção do crime para conter a violência 
+contra as mulheres
+9.  
+Em 1997, relatório elaborado pela Relatora Especial para a Violência contra a Mulher suas causas e 
+consequências , sobre o Brasil, já apontava a necessidade de uma legislação específica 10.  
+8 A Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher (Convenção de Belém do Pará) foi adotada pela 
+Assembléia Geral da Organização dos Estados Americanos em 6 de junho de 1994 e ratificada pelo Brasil em 27 de novembro de 1995. 
+9 Model Strategies and Pratical Measures on the Elimination of Violence against Women in the Field of Crime Prevention and Criminal Justice, 
+adotada pelas Nações Unidas na Assembléia Geral, em 20 de dezembro de 1993. 
+10 Relatório nº. E/CN.4/1997/47/Add.2 21 January 1997. A relatora especial Radhika Coomaraswamy visitou o Brasil entre 15-26 de julho de 
+1996. Disponível online: http://daccessdds.un.org/doc/UNDOC/GEN/G97/102/46/PDF/G9710246.pdf?OpenElement 
+.
+
+17
+dea MS 25 anos enfrentando a violencia contra a mulher
+Igualmente, o Comitê CEDAW (Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a 
+Mulher)11, analisando o primeiro relatório brasileiro12, chamou a atenção para a necessidade de que o país adotas-
+se todas as medidas necessárias, para, em conformidade com a Recomendação Geral 19 do Comitê 13, prevenir a 
+violência, punir os agressores e assegurar serviços às vítimas. O Comitê recomendou que o Estado adotasse, sem 
+demora, uma legislação sobre violência doméstica e tomasse medidas práticas para o acompanhamento, monito-
+ramento e avaliação da efetividade da lei
+14.  
+Na subsequente avaliação do relatório brasileiro, em 2007, o Comitê CEDAW elogiou a criação da Lei de vio-
+lência doméstica15 e exortou o Estado brasileiro a continuar priorizando a eliminação da violência contra a mulher, 
+incluindo a violência doméstica. Ao fim, solicita a completa aplicação da lei e seu constante monitoramento16. 
+O documento da ONU Good Practices in Legislation on Violence Against Women17 (2008) salienta que o objetivo 
+de uma legislação sobre violência contra as mulheres deveria ser prevenir a violência, assegurar a investigação, a 
+persecução penal e a punição dos agressores e ainda providenciar proteção e apoio para as vítimas e sobreviventes 
+da violência. Nesse sentido, pode-se considerar a Lei Maria da Penha uma boa prática legislativa no combate e 
+prevenção à violência contra as mulheres e atende às recomendações internacionais. 
+11 O Comitê CEDAW monitora o cumprimento da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, 
+ratificada pelo Brasil em 1984. O Brasil ratificou o Protocolo Opcional à Convenção em 2002. 
+12 O primeiro relatório brasileiro foi apresentado ao Comitê CEDAW em 29 de agosto de 2005, e unificou o inicial, segundo, o terceiro, o quarto 
+e o quinto período, totalizando um período de 17 anos.
+13 A Recomendação Geral 19 dispõe que “a violência baseada no gênero é uma forma de discriminação que impede, seriamente, as mulheres 
+de usufruírem dos direitos e liberdades em igualdade com os homens”. Essa recomendação foi adotada pelo Comitê Cedaw em 1992.
+14 Idem, parágrafo 113.
+15 CEDAW/C/BRA/CO/6. Concluding comments of the Committee on the Elimination of Discrimination against Women: Brazil. Committee on the 
+Elimination of Discrimination against Women. Thirty-ninth session. 23 July-10 August 2007. Parágrafo 21. 
+16 Idem, parágrafo 22.
+17 Good Practices in legislation on Violence Against Women. Report of the Expert group meeting. United Nations for the Advancement of Women. 
+United Nations Office on Drugs and Crime. Vienna, 2008.
+
+18
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Por fim ressalte-se às conclusões da Comissão Interamericana de Direitos Humanos referentes ao caso Maria 
+da Penha Fernandes18. A inércia do Estado brasileiro em investigar e punir a violência sofrida por Maria da Penha 
+levou a vítima e organizações feministas a apresentarem o caso perante a Comissão Interamericana de Direitos 
+Humanos. A Comissão identificou uma sistemática tolerância à violência sofrida pelas mulheres nas relações 
+íntimas. Especificamente considerou o Brasil responsável por violar sua obrigação de respeitar e proteger o direito 
+de Maria da Penha de viver sem violência, a sua integridade física, moral e psicológica, a sua segurança, a sua 
+dignidade, ao seu direito à igual proteção perante a lei
+19, bem como ao seu direito a um processo justo e à proteção 
+judicial.20 A Comissão recomendou que o País continuasse e aprofundasse as reformas processuais para terminar 
+com a tolerância, por parte do Estado, para com a violência e discriminação contra as mulheres e que adotasse 
+mecanismos alternativos para resolver, de forma rápida e efetiva, os casos de violência doméstica.
+21  
+Fundada em todas essa razões jurídicas, o governo brasileiro, atendendo à proposição originária do movimento 
+de mulheres e em cumprimento com as suas obrigações internacionais decorrentes dos mencionados tratados e 
+recomendações de diversos organismos de direitos humanos, decidiu criar uma legislação específica para prevenir 
+e combater a violência contra as mulheres. Em singela e merecida homenagem à Maria da Penha Fernandes, 
+assim a nova lei foi nominada.
+22  
+18 Maria da Penha v. Brazil, Case 12.051, Report No. 54/01, OEA/Ser.L/V/II.111 Doc. 20 rev. at 704 (2000). Recomendações 4, c.
+19 Idem, parágrafo 58. Ditos direitos estão protegidos sob o manto da Convenção para Prevenir, Punir e Erradicar a Violência contra a Mulher. 
+20 Idem, parágrafo 60,1.
+21 Idem, parágrafo 4, c.
+22 A denominação Maria da Penha foi feita na solenidade de promulgação da Lei, pelo Presidente da República, no dia 07 de agosto de 2006.
+
+19
+dea MS 25 anos enfrentando a violencia contra a mulher
+1.1 a violência é um ato de discriminação contra as mulheres
+De acordo com o Comitê Cedaw 23, a violência contra a mulher é uma forma de discriminação. 24 Em sua 
+Recomendação Geral nº 19 sobre a violência contra a mulher25, o referido Comitê estabeleceu que a discriminação 
+inclui a violência de gênero - a violência dirigida especificamente contra a mulher por ser mulher ou que a afeta 
+de maneira desproporcional. Essa violência inclui atos que causem ou possam causar dano ou sofrimento físico, 
+sexual ou psicológico às mulheres, incluindo ameaças, coerção e outras formas de privação de liberdade.26  
+Da mesma forma, a Convenção de Belém do Pará 27 refere-se à violência como uma forma de violação de 
+direitos humanos que impede o exercício da cidadania feminina.
+O preâmbulo da Convenção de Belém do Pará afirma que “a violência contra a mulher é uma violação dos 
+direitos humanos e das liberdades fundamentais e limita, total ou parcialmente, à mulher o reconhecimento, o 
+gozo, e o exercício de tais direitos e liberdades”.  
+23 O Comitê Cedaw é o responsável pelo monitoramento da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a 
+Mulher (Convenção Cedaw). 
+24 A Convenção Cedaw, em seu artigo 1º, define a discriminação contra a mulher como “toda a distinção, exclusão ou restrição baseada no sexo 
+e que tenha por objeto ou resultado prejudicar ou anular o reconhecimento, gozo ou exercício pela mulher, independentemente de seu estado 
+civil, com base na igualdade do homem e da mulher, dos direitos humanos e liberdades fundamentais nos campos político, econômico, social, 
+cultural e civil ou em qualquer outro campo”.  
+O artigo 1 da Recomendação 19 do Comitê Cedaw dispõe que a violência baseada no gênero é uma forma de discriminação que seriamente 
+impede as mulheres de usufruírem os direitos e liberdades em condições de igualdade com os homens.  
+25 A Recomendação Geral 19 foi adotada pelo Comitê Cedaw em 1992. Disponível on-line: http://www.un.org/womenwatch/daw/cedaw/
+recommendations/recomm.htm (acesso em 10/1/2008)
+26 Recomendação Geral 19 (CEDAW), comentários, item 6. 
+27 A Convenção Interamericana para a Prevenir, Punir e Eliminar a Violência contra a Mulher foi adotada pela Organização dos Estados 
+Americanos em 6 de junho de 1994 e ratificada pelo Brasil em 27 de novembro de 1995. 
+
+20
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+28 Convenção de Belém do Pará, artigo 2º - Entender-se-á que violência contra a mulher inclui violência física, sexual e psicológica: 
+a) que tenha ocorrido dentro da família ou unidade doméstica ou em qualquer outra relação interpessoal, em que o agressor conviva ou haja 
+convivido no mesmo domicílio que a mulher e que compreende, entre outros, estupro, violação, maus-tratos e abuso sexual.
+A definição de violência contra a mulher contida no artigo 1º da Convenção de Belém do Pará, entendida “como 
+qualquer ação ou conduta, baseada no gênero, que cause morte, dano ou sofrimento físico, sexual ou psicológico à 
+mulher, tanto no âmbito público como no privado”, remete ao conteúdo amplo do conceito de violência de gênero, 
+isto é, a violência contra a mulher é uma conduta baseada no gênero. Essa violência inclui a violência física, sexual 
+e psicológica (artigo 2º),28 que ocorre dentro da família ou em qualquer outra relação interpessoal em que o autor 
+conviva ou tenha convivido no domicílio doméstico (letra “a”, do artigo 2º). 
+Tendo por base esse amplo quadro normativo internacional, a nova Lei, em suas disposições preliminares, 
+reafirma o caráter fundamental dos direitos humanos das mulheres e o seu direito a uma vida sem violência, 
+informando as atribuições dos poderes públicos para a garantia e preservação desses direitos. 
+1.2 c onfiguração jurídica da violência doméstica
+O conceito de violência doméstica vem explicitado no artigo 5º da Lei 11.340/2006, como segue:
+“Para os efeitos dessa Lei, configura violência doméstica e familiar contra a mulher qualquer ação ou 
+omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral 
+ou patrimonial”.
+Nos incisos I, II e III, a Lei estabelece o âmbito onde essa violência pode ocorrer:
+I - no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com 
+ou sem vínculo familiar, inclusive as esporadicamente agregadas;
+II - no âmbito da família, compreendida como a comunidade formada por indivíduos que são ou se consideram 
+aparentados, unidos por laços naturais, por afinidade ou por vontade expressa;
+
+21
+dea MS 25 anos enfrentando a violencia contra a mulher
+III - em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, 
+independentemente de coabitação.
+Parágrafo único.  As relações pessoais enunciadas neste artigo independem de orientação sexual.
+O parágrafo único explicita as mulheres em relações homoafetivas que também podem ser vítimas de violência 
+doméstica.
+ 
+1.3 Formas de violência contra a mulher
+O artigo 7º da Lei 11.340/2006 define as formas de violência contra a mulher:
+I - a violência física, entendida como qualquer conduta que ofenda sua integridade ou saúde corporal; 
+II - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da 
+auto-estima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, 
+comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, 
+vigilância constante, perseguição contumaz, insulto, chantagem, ridicularização, exploração e limitação do direito 
+de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação;
+III - a violência sexual, entendida como qualquer conduta que a constranja a presenciar, a manter ou a 
+participar de relação sexual não desejada, mediante intimidação, ameaça, coação ou uso da força; que a induza 
+a comercializar ou a utilizar, de qualquer modo, a sua sexualidade, que a impeça de usar qualquer método 
+contraceptivo ou que a force ao matrimônio, à gravidez, ao aborto ou à prostituição, mediante coação, chantagem, 
+suborno ou manipulação; ou que limite ou anule o exercício de seus direitos sexuais e reprodutivos;
+IV - a violência patrimonial, entendida como qualquer conduta que configure retenção, subtração, destruição 
+parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou 
+recursos econômicos, incluindo os destinados a satisfazer suas necessidades;
+V - a violência moral, entendida como qualquer conduta que configure calúnia, difamação ou injúria.
+
+22
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Em face da complexidade do fenômeno da violência doméstica, é possível que, para a tipificação de algumas 
+das violências mencionadas, faça-se necessário investigar se há outros tipos penais relacionados ou conexos. 
+1.4 a Política i ntegrada e as Medidas de Prevenção e assistência
+A política de combate e prevenção à violência contra as mulheres estabelecida pela Lei Maria da Penha reconhece 
+a complexidade do fenômeno da violência doméstica e a necessidade de um conjunto de ações de natureza jurídica 
+e não jurídica para mudar os padrões sociais que conformam essa violência. Essa política integrada é composta 
+de três eixos fundamentais:
+Prevenção - Para a efetivação de uma política voltada à eliminação da violência contra a mulher, é condição 
+fundamental atuar para a transformação dos valores discriminatórios ainda praticados pela sociedade 
+brasileira, especialmente no que se refere aos estereótipos dos papéis masculino e feminino. Os preconceitos 
+ainda existentes contra as mulheres estão enraizados na mente e no espírito da maioria da população e, assim, 
+presentes nas práticas das instituições, demonstrando a absoluta necessidade de mudanças de paradigmas e, 
+por conseguinte, um trabalho de renovação das práticas sociais.
+Assistência - A assistência é conformada pela integração e articulação da Assistência Social governamental 
+e não-governamental, do Sistema Único de Saúde, do Sistema de Segurança e outras políticas públicas e 
+benefícios sociais destinados à proteção e assistência social às mulheres em situação de vulnerabilidade em 
+virtude da violência sofrida. 
+Repressão - A repressão aos crimes que configuram a violência doméstica dá-se pelos órgãos que compõem 
+o Sistema de Segurança Pública, tais como a Polícia Militar, a Polícia Civil (Delegacia da Mulher), o Ministério 
+Público, a Defensoria Pública e o Poder Judiciário.
+As diretrizes de integração de ações entre as esferas governamentais (União, estados e municípios) e 
+organizações não-governamentais estão dispostas no artigo 8º da Lei:
+
+23
+dea MS 25 anos enfrentando a violencia contra a mulher
+“A política pública que visa coibir a violência doméstica e familiar contra a mulher far-se-á por meio de 
+um conjunto articulado de ações da União, dos Estados, do Distrito Federal e dos Municípios e de ações não-
+governamentais, tendo por diretrizes”:
+I - a integração operacional do Poder Judiciário, do Ministério Público e da Defensoria Pública com as áreas 
+de segurança pública, assistência social, saúde, educação, trabalho e habitação;
+II - a promoção de estudos e pesquisas, estatísticas e outras informações relevantes, com a perspectiva de 
+gênero e de raça ou etnia, concernentes às causas, às conseqüências e à freqüência da violência doméstica 
+e familiar contra a mulher, para a sistematização de dados, a serem unificados nacionalmente, e a avaliação 
+periódica dos resultados das medidas adotadas;
+III - o respeito, nos meios de comunicação social, dos valores éticos e sociais da pessoa e da família, de 
+forma a coibir os papéis estereotipados que legitimem ou exacerbem a violência doméstica e familiar, de acordo 
+com o estabelecido no inciso III do art. 1
+o, no inciso IV do art. 3o e no inciso IV do art. 221 da Constituição Federal;
+IV - a implementação de atendimento policial especializado para as mulheres, em particular nas Delegacias 
+de Atendimento à Mulher; (grifado)
+V - a promoção e a realização de campanhas educativas de prevenção da violência doméstica e familiar 
+contra a mulher, voltadas ao público escolar e à sociedade em geral, e a difusão desta Lei e dos instrumentos 
+de proteção aos direitos humanos das mulheres;
+VI - a celebração de convênios, protocolos, ajustes, termos ou outros instrumentos de promoção de 
+parceria entre órgãos governamentais ou entre estes e entidades não-governamentais, tendo por objetivo a 
+implementação de programas de erradicação da violência doméstica e familiar contra a mulher;
+VII - a capacitação permanente das Polícias Civil e Militar, da Guarda Municipal, do Corpo de Bombeiros e 
+dos profissionais pertencentes aos órgãos e às áreas enunciados no inciso I quanto às questões de gênero e 
+de raça ou etnia; (grifado)
+
+24
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+VIII - a promoção de programas educacionais que disseminem valores éticos de irrestrito respeito à dignidade 
+da pessoa humana com a perspectiva de gênero e de raça ou etnia;
+IX - o destaque, nos currículos escolares de todos os níveis de ensino, para os conteúdos relativos aos 
+direitos humanos, à equidade de gênero e de raça ou etnia e ao problema da violência doméstica e familiar 
+contra a mulher.
+As medidas propostas no artigo 8º são de natureza extrapenal e objetivam mudar os padrões culturais de 
+tolerância à violência doméstica por meio de campanhas (inciso V), obtenção de dados estatísticos sobre a violência 
+(inciso II), capacitar agentes públicos (inciso VII), controlar a propaganda sexista (inciso III) e promover a educação 
+e respeito à dignidade da pessoa humana com a perspectiva de gênero, raça ou etnia (inciso IX). 
+O atendimento especializado nas DEAMs, previsto no inciso IV, demanda profissionais habilitados, qualificados 
+e sensibilizados. Esse atendimento requer conhecimento do fenômeno da violência e todas as suas implicações 
+na vida das mulheres e dos próprios profissionais envolvidos. Relaciona-se diretamente ao inciso VII que remete 
+à capacitação permanente, em gênero e raça/etnia, dos agentes públicos envolvidos com a aplicação da Lei Maria 
+da Penha.
+A assistência também deve ser articulada e integrada, conforme dispõe o artigo 9º:
+“A assistência à mulher em situação de violência doméstica e familiar será prestada de forma articulada 
+e conforme os princípios e as diretrizes previstos na Lei Orgânica da Assistência Social, no Sistema Único 
+de Saúde, no Sistema Único de Segurança Pública, entre outras normas e políticas públicas de proteção, e 
+emergencialmente quando for o caso.”
+§ 1
+o O juiz determinará, por prazo certo, a inclusão da mulher em situação de violência doméstica e familiar 
+no cadastro de programas assistenciais do governo federal, estadual e municipal.
+§ 2o O juiz assegurará à mulher em situação de violência doméstica e familiar, para preservar sua integridade 
+física e psicológica:
+
+25
+dea MS 25 anos enfrentando a violencia contra a mulher
+I - acesso prioritário à remoção quando servidora pública, integrante da administração direta ou indireta;
+II - manutenção do vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis 
+meses.
+§ 3o  A assistência à mulher em situação de violência doméstica e familiar compreenderá o acesso aos benefícios 
+decorrentes do desenvolvimento científico e tecnológico, incluindo os serviços de contracepção de emergência, a 
+profilaxia das Doenças Sexualmente Transmissíveis (DST) e da Síndrome da Imunodeficiência Adquirida (AIDS) e 
+outros procedimentos médicos necessários e cabíveis nos casos de violência sexual.
+O § 3º garante o direito ao acesso à saúde e estabelece o dever dos Poderes Públicos de fornecer os serviços 
+da contracepção de emergência, profilaxia das DST/Aids, bem como o dever das DEAMs de informar sobre esses 
+serviços quando a mulher for vítima de violência sexual.
+
+
+
+27
+dea MS 25 anos enfrentando a violencia contra a mulher
+c a Pítulo 2
+diretri ZeS da S dea Ms
+2.1 i ntrodução
+As Delegacias Especializadas de Atendimento à Mulher são equipamentos vinculados às secretarias estaduais 
+de Segurança Pública, às quais integram a Política Nacional de Prevenção, Enfrentamento e Erradicação da 
+Violência contra a Mulher e representam uma resposta do Estado brasileiro à violência contra as mulheres e, 
+nesse contexto, o compromisso dos Estados na implementação da presente norma técnica é essencial para que 
+esta política possa efetiva e eficazmente ser executada, gerando-se mecanismos de monitoramento sistemático 
+de ações por meio da produção de dados comparáveis ou equivalentes que possam ser analisados dentro de 
+cenários locais, regionais e nacionais.
+As DEAMs desempenham um papel decisivo na Política Nacional de Enfrentamento à Violência contra a Mulher, 
+não só porque são uma importante porta de entrada das mulheres na rede de serviços, mas também pelo seu papel 
+de prevenção e de repressão à violência contra as mulheres. Sua importância está destacada no Pacto Nacional 
+pelo Enfrentamento à Violência contra as Mulheres, através da destinação de recursos para a construção ou 
+ampliação das instalações, qualificação profissional e reaparelhamento com a aquisição de veículos, armamento 
+e equipamentos diversos.
+29  
+29 O Pacto Nacional pelo Enfrentamento da Violência contra a Mulher é uma iniciativa da Secretaria Especial de Políticas para as Mulheres que 
+articulam ações e investimentos intersetoriais de Ministérios e Secretarias Especiais do governo federal, para que, em conjunto com estados 
+e municípios, desenvolvam ações para prevenir, dar assistência e punir a violência contra as mulheres. As ações que envolvem as Delegacias 
+dão-se através de parcerias com os governos estaduais.   
+
+28
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+2.2 a Polícia c ivil brasileira
+2.2.1 diretrizes e a tribuições das dea MS no âmbito da Polícia civil
+As DEAMs compõem a estrutura da Polícia Civil, órgão integrante do Sistema de Segurança Pública de cada 
+Estado, cuja finalidade, conforme previsão constitucional, é o estudo, o planejamento, a execução e o controle 
+privativo das funções de Polícia Judiciária, bem como a apuração das infrações penais, com exceção das militares 
+e aquelas de competência da União. À Polícia Civil compete, portanto, desempenhar a primeira fase da repressão 
+estatal, de caráter preliminar à persecução processual penal, oferecendo suporte às ações de força ordenadas 
+pela autoridade judiciária.
+30
+Tendo em vista as novas atribuições da Polícia Civil frente aos ditames constitucionais e às necessidades de 
+uma sociedade cada vez mais complexa, o governo federal elaborou o projeto Modernização da Polícia Civil 31, 
+no qual se destaca o papel da polícia não apenas como órgão repressor, mas educador e aberto à audição do 
+público usuário.
+32  Segundo o documento, os novos desafios da Polícia Civil e, portanto também das DEAMs, estão 
+focalizados para: 
+a) Profissionalização - a modernização da Polícia Civil brasileira exige posturas altamente profissionalizadas por 
+técnicas de gestão e ação operativa, conforme a legislação nacional e os tratados internacionais, particularmente 
+no que se refere ao respeito pelos direitos fundamentais do homem e da mulher;
+b) Prevenção - embora a Polícia Civil não tenha, como a Polícia Militar, a função de prevenção de caráter 
+ostensivo, ela também abarca o sentido final de prevenir o delito, seja por dissuasão, eficiência e eficácia do método 
+investigativo, seja pelo papel proativo de interlocução. Nesse contexto, insere-se o papel e a importância da polícia 
+30 Modernização da Polícia Civil Brasileira: aspectos conceituais, perspectivas e desafios. Brasília: Ministério da Justiça, SENASP, 2005, p.21.
+31 Idem.
+32 Idem, p.21-22    
+
+29
+dea MS 25 anos enfrentando a violencia contra a mulher
+comunitária, uma vez que a Polícia também desempenha uma função pedagógica, atuando como educadora para 
+a cidadania, à medida que informa a comunidade sobre técnicas, procedimentos e atitudes que resultam na efetiva 
+prevenção ao crime; 
+c) Educação e Cidadania - Esta vocação social recomenda franca abertura para os influxos da realidade social, 
+especialmente pela correta audição do público usuário, o que é premissa para a superação do papel meramente 
+reativo da atividade investigativa, uma vez que é ali, na realidade do conflito sobre o qual cotidianamente se 
+projeta, o efetivo lugar de produção de um direito penal que rompa com os estigmas contra os segmentos sociais 
+hipossuficientes;
+d) Investigação - Por fim, como a ação investigativa está intimamente inserida na dinâmica interinstitucional do 
+sistema de justiça criminal, deve-se estimular uma relação de solidariedade ética e técnica entre as Polícias Civil, 
+Militar e os demais atores responsáveis - Ministério Público, Poder Judiciário e Administração Penitenciária, a fim 
+de que protagonizem uma prática de mútua confiança e, assim, possam executar de modo otimizado todo o ciclo 
+produtivo do sistema em questão, perante e com a participação da sociedade organizada e do Poder Legislativo.
+33 
+2.2.2 da especialização do serviço
+As DEAMs são unidades especializadas da Polícia Civil para atendimento à mulher em situação de violência de 
+gênero.  Na qualidade de Delegacia Especializada da Polícia Civil, as DEAMs adequaram sua atuação aos desafios 
+de novas realidades sociais no exercício de suas atribuições. 
+Tendo em mente essas novas diretrizes e desafios, as ações de prevenção, registro de ocorrências, investigação 
+e repressão de atos ou condutas baseadas no gênero que configurem crime e infrações penais cometidos contra 
+mulheres em situação de violência, devem ser feitas por meio de acolhimento com escuta ativa, realizada 
+preferencialmente por delegadas, e por equipe de agentes policiais, profissionalmente qualificados e atentos ao 
+fenômeno da violência de gênero, nos termos da Lei Maria da Penha.
+33 Idem, p.22.    
+
+30
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+2.2.3 natureza do Serviço 
+As atividades das DEAMs têm caráter preventivo e repressivo, devendo realizar ações de prevenção, apuração, 
+investigação e enquadramento legal, às quais devem ser pautadas no respeito aos direitos humanos e aos princípios 
+do Estado Democrático de Direito.
+2.2.4 das beneficiárias diretas do Serviço
+Todas as mulheres vítimas de violência de gênero são as beneficiárias diretas das DEAMs, em face da 
+especialização de seus serviços. Por isso, as condutas violentas não se resumem aos crimes de violência doméstica 
+e familiar previstos na Lei Maria da Penha.  
+2.2.5 escuta ativa
+É importante ressaltar que as mulheres em situação de violência de gênero devem ser consideradas sujeitos 
+de direitos e merecedoras de atenção. Os policiais envolvidos no atendimento a essas mulheres devem ter escuta 
+atenta, profissional e observadora, de forma a propiciar o rompimento do silêncio, do isolamento destas mulheres 
+e, em especial, dos atos de violência, aos quais estão submetidas. 
+2.2.6 natureza c omplementar do Serviço
+As Delegacias Especializadas desenvolvem ações complementares, tendo competências concorrentes com 
+as Delegacias de base territorial e, por essa razão, devem atuar em estreita parceria, potencializando a ação 
+policial na área territorial da respectiva especializada. A competência especializada das DEAMs dá-se em razão 
+da matéria
+34, isto é, da tipologia do crime a ser investigado, no caso específico, crimes que envolvam a violência de 
+gênero. Nesse sentido, as DEAMs têm uma atribuição muito específica, a dizer, especializada em razão da matéria 
+e da finalidade para a qual foram criadas. 
+34 Idem, p.26.    
+
+31
+dea MS 25 anos enfrentando a violencia contra a mulher
+2.2.7 Formação dos Profissionais
+O atendimento deve ser conduzido por profissionais policiais previamente capacitados em violência de gênero 
+e doméstica contra a mulher. A educação em segurança pública deve se estender a todos os profissionais da 
+segurança pública que, de alguma forma, atendem às mulheres em situação de violência, por meio dos cursos 
+oferecidos na Rede de Ensino a Distância, em cursos presenciais ou pelos cursos de especialização da Rede 
+Nacional de Altos Estudos em Segurança Pública – Renaesp
+35.  
+2.2.8 integração do Serviço ao Sistema de Segurança Pública
+As Polícias Civil e Militar deverão atuar dentro de sua esfera de competência constitucional e buscar a sinergia 
+do ponto de vista técnico e operacional e a integração no atendimento e encaminhamento das ocorrências 
+envolvendo mulheres em situação de violência. Isso significa que, quando do atendimento de uma ocorrência por 
+parte da Polícia Militar, esta deve conhecer e encaminhar a mulher vítima de violência à DEAM mais próxima de 
+sua residência ou do local do fato.
+35 Mais informações sobre os cursos de educação em segurança pública oferecidos pela Senasp podem ser obtidas pelo site do Ministério da 
+Justiça/Senasp: www.mj.gov.br / ícone Segurança Pública / Educação e Valorização Profissional.    
+
+
+
+33
+dea MS 25 anos enfrentando a violencia contra a mulher
+c a Pítulo 3
+Princi Pí o S e 
+no Va S atribuiçõe S 
+da S dea MS eM 
+con For Midade  co M a  
+lei  Maria  da  P enha
+3.1 introdução
+Em consonância com a Constituição Federal, a Lei Maria da Penha cria mecanismos para coibir e prevenir 
+a violência contra a mulher, reconhecendo as diferenças, sociais entre homens e mulheres, às quais tem-se 
+traduzido cotidianamente em situações de vulnerabilidade e risco, expondo as mulheres a violações dos seus 
+direitos fundamentais como o direito à dignidade, a não ser discriminada pela questão do sexo e até mesmo 
+o direito à vida, comprometendo ainda a efetividade da determinação constitucional da igualdade, tendo em 
+vista o desequilíbrio muitas vezes presente nas relações de gênero. Entendendo a necessidade de propiciar 
+proteção e garantir os direitos às mulheres vítimas de violência é necessário, para fins de aplicação desta 
+Norma Técnica, observar os princípios básicos que regem a Lei Maria da Penha e os quais devem orientar a 
+
+34
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+atuação das DEAMs e demais Delegacias de Polícia que realizam o atendimento à mulher – requerendo delas 
+uma profissionalização e formação cada vez mais singular, tendo em vista as novas atribuições e desafios que 
+lhes foram concedidos com o advento da Lei Maria da Penha. 
+Os princípios básicos que regem a Lei Maria da Penha e determinam a atuação das DEAMs e demais poderes 
+públicos são:
+• 
+Princípio da primazia dos direitos humanos:  reconhecimento da violência doméstica como uma 
+violação aos direitos humanos das mulheres;
+• Princípio da igualdade, não discriminação e do direito a uma vida sem violência:  a igualdade e não 
+discriminação requer o reconhecimento do direito de viver livre de violência.
+• Princípio do atendimento integral:   inclui o acesso à justiça e às políticas públicas de assistência 
+destinadas às mulheres.
+• Princípio da celeridade: os atos judiciais e processuais destinados a prevenir a violência devem ser 
+expeditos.
+• Princípio do acesso à justiça: o acesso à justiça inclui o direito de ter advogada(o), ou defensor (a) 
+público, assistência judiciária gratuita, o direito de obter medidas protetivas de urgência e de ser 
+notificada dos atos processuais que envolvem o agressor. Inclui, ainda, o direito de ser informada sobre 
+os serviços existentes, sobre a rede de atendimento, tais como centros de referência, abrigamento, 
+atendimento especializado na área da saúde física e mental, núcleos da mulher da Defensoria Pública 
+e do Ministério Público, dentre outros serviços. 
+Importante notar que as novas atribuições das DEAMs advindas da Lei Maria da Penha são cumulativas. 
+Nesse sentido, além das investigações originárias decorrentes da especialização de gênero, somam-se a 
+essas as da recente legislação.
+
+35
+dea MS 25 anos enfrentando a violencia contra a mulher
+3.2 a tribuições das dea Ms
+ As novas atribuições das Delegacias de Polícia Civil - dentre as quais as DEAMs - estabelecidas pela Lei 
+11.340/2006 estão dispostas no Capítulo III, artigos 10 a 12 e seus incisos.
+O artigo 11 da Lei determina às autoridades policiais a realização de todos os procedimentos policiais cabíveis 
+para a elucidação do fato-crime (inquérito policial) e ainda: 
+I - garantir proteção policial, quando necessário, comunicando de imediato ao Ministério Público e ao Poder 
+Judiciário.
+II - encaminhar a mulher aos estabelecimentos de saúde e ao Instituto Médico Legal.
+III - fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver 
+risco de vida.
+IV - acompanhá-la para a retirada de seus pertences quando necessário.
+V - informá-la de seus direitos e sobre os serviços disponíveis.
+A informação sobre os serviços disponíveis e o consequente encaminhamento à Rede de Serviços de Atendimento 
+à Mulher em Situação de Violência requer não apenas o conhecimento formal da rede, mas a inter-relação e 
+participação efetiva de todos os serviços da rede, incluindo as DEAMs.
+A atividade investigativa é parte fundamental do inquérito policial e deve, portanto, ser empreendida e coordenada 
+pela autoridade policial responsável pelo inquérito. Em face da especificidade do fenômeno da violência de gênero, 
+o atendimento deve ser regido pelo direito a privacidade.
+
+36
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+3.3 c rimes de atribuição investigativa das dea Ms
+Todo ato de violência cometido contra a mulher, conforme definido no artigo 7° da Lei 11.340/2006, que configure 
+crime ou contravenção penal deve, prioritariamente e respeitando-se as áreas circunscritas de atuação, ser de 
+atribuição de investigação e apuração das DEAMs. Dentre esses destacam-se os crimes contra a vida, contra a 
+liberdade pessoal, contra a liberdade sexual, contra a honra e aqueles tipificados no capítulo intitulado “das lesões 
+corporais”, todos constantes do Código Penal brasileiro, assim como o crime de tortura (Lei nº 9.455/1997). 
+Importante sempre ressaltar que, embora a Lei Maria da Penha trate dos crimes relacionados à violência 
+doméstica e familiar, a atribuição investigativa  da DEAM não se limita a esses crimes. 
+3.4 Procedimentos das dea Ms
+Os procedimentos a serem adotados pelas DEAMs devem seguir as orientações básicas e os princípios contidos 
+neste documento, ampliando sempre a qualidade dos serviços prestados às mulheres e à comunidade. 
+3.5 Princípios e diretrizes gerais de atendimento e acolhimento à mulher em situação de violência 
+doméstica e familiar
+3.5.1 a colhimento e atendimento
+O primeiro contato entre o/a policial e mulher é muito importante porque pode ser determinante para o 
+desenrolar da queixa-crime e/ou da investigação criminal. Assim, a concepção arquitetônica das DEAMs como a 
+postura dos agentes devem propiciar um atendimento acolhedor, conforme segue:
+• Certificar-se de que a sala de espera comporta ambientes separados para a mulher vítima e para o 
+(a) agressor(a);
+
+37
+dea MS 25 anos enfrentando a violencia contra a mulher
+• Acolher as mulheres em situação de violência com atendimento humanizado, levando sempre em 
+consideração a palavra da mulher, em ambiente adequado, com sala reservada, para manter a 
+privacidade da mulher e do seu depoimento;
+• Atender, sem qualquer forma de preconceito ou discriminação, as mulheres, independentemente 
+de sua orientação sexual 36, incluindo também as mulheres prostitutas, quando vítimas de violência 
+de gênero; 
+• O atendimento inicial e o acolhimento devem ser feitos por uma equipe de policiais qualificados 
+profissionalmente, preferencialmente do sexo feminino, com compreensão do fenômeno da violência 
+de gênero;
+• A equipe de policiais responsáveis pelo atendimento e acolhimento das mulheres em situação de 
+violência deve conhecer as diretrizes e procedimentos da Delegacia Especializada e possuir material 
+de informação e de orientação para estas mulheres;
+• Acolher as mulheres em situação de violência de gênero, mesmo nos casos os quais as Delegacias 
+não tenham atribuições específicas (tráfico de seres humanos - de mulheres, turismo sexual), 
+procedendo ao encaminhamento para a instância policial competente; 
+• Ter escuta qualificada, sigilosa e não julgadora. 
+36 Lei nº 11.340 de 07 de agosto de 2006 – Artigos 2º e 5º, Parágrafo único.  
+
+38
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+3.5.2 Procedimentos penais e processuais penais
+Conforme o artigo 12 da Lei nº 11.340/2006, em todos os casos de violência doméstica e familiar contra a 
+mulher, feito o registro da ocorrência, deverá a autoridade policial adotar, de imediato, os seguintes procedimentos 
+sem prejuízo daqueles previstos no Código de Processo Penal:
+ I - ouvir a ofendida, lavrar o boletim de ocorrência e tomar a representação a termo, se apresentada; 
+(grifado)
+ II - colher todas as provas que servirem para o esclarecimento do fato e de suas cirucunstâncias;
+ III - remeter, no prazo de 48 horas (quarenta e oito) horas, expediente apartado a juiz com o pedido da 
+ofendida, para a concessão de medidas protetivas de urgência; (grifado)
+ IV - determinar que se proceda ao exame do corpo de delito da ofendida e requisitar outros exames 
+periciais necessários;
+ V -  ouvir o agressor e as testemunhas;
+ VI - ordenar a identificação do agressor e fazer juntar aos autos sua folha de antecedentes criminais, 
+indicando a existência de mandado de prisão ou registro de outras ocorrências criminais contra ele;
+ VII - remeter, no prazo legal, os autos do inquérito policial ao juiz e ao Ministério Público. 
+O expediente apartado para a concessão da medida protetiva (inciso III), conforme o § 1º do artigo 12, deverá 
+conter a qualificação da ofendida e do agressor, nome e idade dos dependentes e uma descrição do fato e das 
+medidas solicitadas pela ofendida, boletim de ocorrência e todos os documentos disponíveis em posse da ofendida 
+(§ 2º , art. 12).
+São admitidos como meios de prova os laudos ou prontuários médicos fornecidos por hospitais e postos de 
+saúde (§ 3º , art. 12).
+
+39
+dea MS 25 anos enfrentando a violencia contra a mulher
+3.6 Medidas Protetivas
+As medidas protetivas são uma importante inovação da Lei Maria da Penha e todas mulheres em situação de 
+violência doméstica e familiar têm direito a essas medidas, que visam sua proteção e/ou garantia de seus direitos. 
+As medidas protetivas que podem ser solicitadas pela autoridade policial estão dispostas nos artigos 22 a 24 da 
+Lei Maria da Penha. As medidas protetivas de urgência são: 
+Destinadas ao agressor (art. 22):
+I - suspensão da posse ou restrição do porte de armas, com comunicação ao órgão competente, nos termos 
+da Lei no 10.826, de 22 de dezembro de 2003;
+II - afastamento do lar, domicílio ou local de convivência com a ofendida;
+III - proibição de determinadas condutas, entre as quais:
+a) aproximação da ofendida, de seus familiares e das testemunhas, fixando o limite mínimo de distância 
+entre estes e o agressor;
+b) contato com a ofendida, seus familiares e testemunhas por qualquer meio de comunicação;
+c) frequentação de determinados lugares, a fim de preservar a integridade física e psicológica da ofendida;
+IV - restrição ou suspensão de visitas aos dependentes menores, ouvida a equipe de atendimento 
+multidisciplinar ou serviço similar;
+V - prestação de alimentos provisionais ou provisórios.
+
+40
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Dirigidas à ofendida (artigos 23 e 24):
+I - encaminhar a ofendida e seus dependentes a programa oficial ou comunitário de proteção ou de atendimento;
+II - determinar a recondução da ofendida e a de seus dependentes ao respectivo domicílio, após afastamento 
+do agressor;
+III - determinar o afastamento da ofendida do lar, sem prejuízo dos direitos relativos a bens, guarda dos filhos 
+e alimentos;
+IV - determinar a separação de corpos.
+Artigo 24:
+I - restituição de bens indevidamente subtraídos pelo agressor à ofendida;
+II - proibição temporária para a celebração de atos e contratos de compra, venda e locação de propriedade em 
+comum, salvo expressa autorização judicial;
+III - suspensão das procurações conferidas pela ofendida ao agressor;
+IV - prestação de caução provisória, mediante depósito judicial, por perdas e danos materiais decorrentes da 
+prática de violência doméstica e familiar contra a ofendida.
+As medidas protetivas não são exaustivas e não excluem outras necessárias à segurança da mulher agredida 
+(§ 1º do artigo 22).
+3.6.1 da prisão preventiva
+A autoridade policial poderá, em qualquer fase do Inquérito policial, representar para a prisão preventiva. 
+
+41
+dea MS 25 anos enfrentando a violencia contra a mulher
+3.7 boletim de o corrência
+O Boletim de Ocorrência deverá ser o mais completo possível, com a inserção de dados detalhados de forma 
+a facilitar a elucidação do crime. É importante, ainda, ressaltar que os dados contidos no Boletim de Ocorrência 
+são determinantes para a efetiva qualidade probatória do inquérito policial e, consequentemente, para que ocorra 
+o pronto oferecimento da denúncia pelo Ministério Público, sem a necessidade da baixa dos autos para a feitura 
+de novas diligências na delegacia, e possibilitam a identificação de cenários mais precisos para a intervenção do 
+Estado no que se refere à segurança pública. 
+3.8 termo c ircunstanciado
+A violência contra a mulher qualificada pela Lei Maria da Penha não é considerada delito de menor potencial 
+ofensivo (art. 41). Assim, apenas nas contravenções penais, nas quais não há necessidade de instaurar o inquérito 
+policial, é lavrado um Termo Circunstanciado (TC), que é um procedimento policial simplificado, criado pela Lei nº 
+9.099/95 (Lei dos Juizados Especiais Criminais). 
+3.9 inquérito Policial
+O inquérito policial tem por finalidade servir de base para a instauração da ação penal pública, ou para a ação 
+penal privada. A primeira é promovida pelo órgão do Ministério Público, e a segunda, pelo ofendido através de 
+advogado(a). Para que o Juiz de Direito receba a denúncia ou a queixa, e submeta o réu ou querelado ao processo 
+criminal, deve haver justa causa, ou seja, é preciso que se tenham fatos demonstrando a existência do crime e da 
+autoria. É necessário o 
+fumus boni juris que sustente a denúncia ou a queixa. Inexistindo, a ação penal resultará 
+em insucesso, ou, até mesmo, no seu trancamento. 
+O inquérito policial é, portanto, uma peça muito importante para comprovação de materialidade e autoria, 
+para a formulação da denúncia e para a boa aplicação da Lei. É importante que a violência seja bem definida no 
+
+42
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+inquérito para uma boa tipificação penal. A valoração do relato da mulher, de circunstâncias em que ocorreu o 
+crime, de suas consequências são fatores importantes para o inquérito, o pedido das medidas protetivas e para 
+o convencimento do juiz.     
+3.10 a companhamento das ocorrências e encaminhamentos
+Deverá a Secretaria de Segurança Pública ou a Polícia Civil promover acordos com o Ministério Público e o 
+Poder Judiciário, a fim de elaborar e implantar sistema que contenha informações relativas ao desdobramento 
+das ocorrências em sua fase judicial, permitindo o monitoramento em rede das ocorrências pela Delegacia e a 
+prestação de informações à mulher a respeito do encaminhamento de sua denúncia;
+• Criar um sistema de banco de dados 
+on-line que permita não apenas o cadastro de cada procedimento 
+instaurado, visando seu acompanhamento no Sistema Judiciário, ligado ao banco de dados instalado 
+na Secretaria de Segurança Pública ou a Polícia Civil, mas também obter informações referentes 
+ao perfil de vítimas e agressores, a frequência da violência, as causas e outros dados desagregados 
+relevantes na perspectiva de gênero e raça/etnia.  
+• Este sistema deverá conter informações que permitam a pesquisa rápida dos registros, contendo 
+campos como: data da ocorrência, qualificação das partes e local da ocorrência;
+• O sistema servirá como instrumento para busca de ocorrências anteriores, orientando a maior rapidez 
+no atendimento e encaminhamento da mulher;
+• Quando forem localizados registros policiais anteriores, a mulher deverá, preferencialmente, ser 
+encaminhada a um Centro de Referência
+37 onde receberá a orientação adequada e atendimento 
+psicossocial. Nesses casos, é importante avaliar o risco de morte, a possibilidade de novas agressões 
+e as condições emocionais e materiais da mulher. 
+37 Caso não tenha no município Centro de Atendimento à Mulher, essa deve ser encaminhada ao CREAS – Centro de Referência Especializado 
+da Assistência Social.
+
+43
+dea MS 25 anos enfrentando a violencia contra a mulher
+• Acompanhar e avaliar o retorno da mulher vítima à Delegacia, registrando em banco de dados próprio, 
+servindo inclusive para a formulação de políticas preventivas e repressivas;
+• Estabelecer junto à Rede de Serviços uma rotina de referência para monitorar os serviços prestados 
+às mulheres encaminhadas à Rede.
+     É importante destacar que as(os) policiais devem realizar encontros sistemáticos que possibilitem a 
+formação continuada das equipes para a construção de uma dinâmica própria, ajustada às necessidades das 
+diferentes demandas das Instituições que integram esta Rede, com vista a promover o constante aprimoramento 
+dos serviços oferecidos pelas DEAMs.
+ A criação do cadastro 
+on-line não se confunde com o cadastro a ser realizado pelo Ministério Público, 
+previsto no inciso III, do artigo 26 da Lei. No entanto, é importante manter diálogo com o Ministério Público, a fim 
+de evitar duplicidade de esforços.
+
+
+
+45
+dea MS 25 anos enfrentando a violencia contra a mulher
+c a Pítulo 4
+rede  de  S er Viço S 
+de  atendi Mento  
+a  M ulhere S eM 
+Situaç Ão  de  
+Violência
+4.1. introdução
+A política integral e articulada de prevenção e assistência estabelecida pela Lei Maria da Penha para o seu 
+funcionamento requer a criação e/ou articulação da rede de serviços de atendimento entre todos os atores 
+envolvidos.  
+A rede de atendimento é composta por todos os serviços, governamentais e não-governamentais que prestam 
+assistência às mulheres em situação de violência, dentre os quais os centros de referência, as casas abrigo, os 
+postos de saúde e hospitais, IML (DML), serviços de assistência jurídica e psicológica, defensoria pública, Delegacia 
+da Mulher e Poder Judiciário, serviços de assistência social, como os que compõem o Sistema Único de Assistência 
+
+46
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Social (Cras e Creas), dentre outros. A parceria entre esses serviços contribui para a institucionalização da rede e 
+para a formação de um fluxo de atendimento garantindo a qualidade dos serviços prestados. Por isso, é importante 
+que os(as) profissionais de segurança pública conheçam os serviços disponíveis na sua localidade, não só por meio 
+de panfletos, mas que façam visitas a esses serviços, que conheçam as instituições e pessoas que nele trabalham 
+e que contribuam para a institucionalização e fortalecimento da Rede. 
+Conforme estabelece a Lei Maria da Penha, é dever da autoridade policial encaminhar a vítima ao hospital ou 
+posto de saúde e ao IML (DML) e fornecer transporte a ela e seus dependentes para abrigo ou local seguro, quando 
+houver risco de morte, conforme estabelece o inciso III, do artigo 11, da Lei Maria da Penha. Por isso, é importante 
+verificar, na ocasião do encaminhamento, se a mulher tem condições financeiras de se deslocar até o serviço da 
+Rede. 
+Dentre os parceiros, as Coordenadorias e Secretarias da Mulher nos Estados e Municípios, cumprem função 
+relevante enquanto órgãos elaboradores e articuladores da rede, na sua efetivação, no suporte aos serviços, 
+monitoramento e avaliação do seu funcionamento.
+Aos Conselhos de Direitos da Mulher cabe o papel do controle social, participando na avaliação e proposição 
+de sugestões para a melhoria dos Serviços da Rede de Atendimento. Estes Conselhos, enquanto esferas de 
+controle externo, valorizados no Programa de Segurança Pública para o Brasil do governo federal, são também 
+fundamentais no acompanhamento e na avaliação das políticas públicas de Enfretamento à Violência contra as 
+Mulheres e de Segurança. 
+
+47
+dea MS 25 anos enfrentando a violencia contra a mulher
+ 4.2 Medidas concretas de articulação da r ede
+ A articulação da Rede de Assistência é medida necessária para o fiel cumprimento da Lei Maria da Penha. 
+Nesse sentido, é fundamental que as Delegacias de Atendimento à Mulher integrem ativamente da Rede. 
+Algumas providências práticas podem ajudar na construção e articulação da rede:
+• Obter uma lista com o nome, endereço e telefone de todas as instituições sociais que compõem a Rede 
+de Atendimento;
+• Visitar os serviços da Rede de Atendimento;
+• Afixar a lista em local visível para que as mulheres tomem conhecimento;
+• Manter a lista atualizada;
+• Participar de reuniões da Rede para troca de experiências e avaliação do funcionamento da Rede.
+4.3 Fluxo de atendimento da r ede
+É importante que os profissionais que atuam nas Delegacias da Mulher saibam como e para onde encaminhar 
+a mulher em situação de violência. Nesse sentido, o fluxo de atendimento pode ser o seguinte: 
+
+
+
+49
+dea MS 25 anos enfrentando a violencia contra a mulher
+c a Pítulo 5
+eStrutura  da S 
+dea Ms
+Em face da proposta de modernização das polícias civis e das novas atribuições das DEAMs oriundas da Lei 
+Maria da Penha, as Delegacias da Mulher deverão manter um contato efetivo e permanente com as delegacias 
+da base geográfica da sua circunscrição, criando uma cultura de universalidade na prevenção, na apuração das 
+infrações penais e na proteção dos direitos da mulher.
+5.1 c oordenação das delegacias especializadas de a tendimento à Mulher - dea Ms
+Quando o Estado tiver implantado a partir de dez DEAMs, deve o gestor da política de segurança pública 
+implantar e gerenciar uma estrutura de coordenação das DEAMs, ligada diretamente ao gestor, com o objetivo de 
+promover um maior aprimoramento e articulação da Política de Atendimento e enfrentamento da violência contra 
+as mulheres.
+A Coordenação deverá ter, preferencialmente, como gestora uma Delegada de Polícia, com experiência no 
+trabalho das DEAMs, que tenha formação em violência de gênero e direitos humanos, e com uma equipe de 
+trabalho com as seguintes atribuições:
+• Assessorar as políticas públicas de segurança pública da mulher;
+
+50
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+• Dar acompanhamento permanente às Especializadas da Mulher;
+• Orientar as Delegacias de Mulheres quanto ao preenchimento dos boletins de ocorrência (BO), ou 
+registro de ocorrência (RO) e quanto à produção das estatísticas criminais;
+• Acompanhar os desdobramentos dos casos mais graves atendidos pelas DEAMs, dialogando com 
+outras instituições envolvidas no atendimento;
+• Articular com a rede de serviços, privilegiando o encaminhamento das mulheres em situação de 
+violência aos Centros de Referência;
+• Facilitar o acesso aos serviços de saúde e qualquer outro serviço que se faça necessário, e à rede de 
+atendimento;
+• Exercer a interlocução das unidades especializadas com a secretaria de Segurança Pública – Chefia 
+da Polícia Civil, a secretaria estadual de Segurança e demais órgãos no âmbito da administração 
+pública;
+• Coordenar a política de atendimento às mulheres em situação de violência no âmbito estadual da 
+segurança pública ou defesa social, orientando tecnicamente o seu desempenho operacional e 
+facilitando a interlocução na esfera federal, com a Senasp e SPM;
+• Proceder estudos a respeito do perfil das(os) policiais que atuam e/ou deverão atuar nas Unidades 
+Especializadas, indicando os critérios a serem adotados para a sua seleção e/ou transferência;
+• Efetuar estudos para a ampliação do número de Delegacias Especializadas no Estado, indicando 
+também a necessidade de reformas e adaptações nos prédios e de outras necessidades materiais 
+apresentadas pelas DEAMs;
+• Efetivar a articulação institucional das Unidades Especializadas com a Rede de Serviços existentes, 
+acompanhar e dirimir dúvidas e impasses na relação entre as unidades especializadas e os demais 
+serviços da Rede de Atendimento;
+
+51
+dea MS 25 anos enfrentando a violencia contra a mulher
+• Propor discussão permanente com a Rede de Atendimento, promovendo reuniões e formação 
+conjunta, acompanhando, dirimindo dúvidas e impasses na relação das Delegacias com os serviços 
+da Rede de Atendimento;
+• Participar ativamente da Rede de Atendimento, promovendo reuniões para fortalecimento das 
+articulações entre as diversas unidades envolvidas e atividades de formação conjunta visando 
+estabelecer um sistema de referência e contra referência para acompanhar as mulheres atendidas e 
+os desdobramentos efetivados;
+• Coordenar e administrar o banco de dados sobre violência de gênero, administrando as seguintes 
+atividades: receber os dados coletados pelas unidades especializadas; proceder à interpretação e 
+análise dos dados para informação e divulgação; e elaborar relatórios de análise estatística, que 
+serão utilizados pelas unidades especializadas no planejamento das suas ações;
+• Participar de estudos e pesquisas sobre violência de gênero, em parcerias com núcleos de estudo de 
+gênero das universidades, ONGs e fundações;
+• Fiscalizar a efetiva aplicação de atendimento psicossocial para os profissionais que atuam nas DEAMs;
+• Propor a realização de cursos de formação/formação continuada para os profissionais de Segurança 
+Pública que estão lotados nas DEAMs;
+• Realizar reuniões periódicas com as equipes das DEAMs;
+• Fazer visitas periódicas as DEAMs.
+• Auxiliar na divulgação do Disque Denúncia – 180, na sistematização e no atendimento das denúncias 
+e avaliação dos procedimentos relacionados ao atendimento da Central 180. 
+ 
+
+52
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+5.2 r ecursos humanos
+A Lei Maria da Penha aumentou sobremaneira o número de inquéritos policiais nas DEAMs. Diante disso, há 
+necessidade de que o quadro próprio de recursos humanos seja compatível com as necessidades oriundas das novas 
+atribuições. Dada a complexidade das situações atendidas, as DEAMs devem contar com profissionais capacitados 
+e em número suficiente para prestar atendimento de qualidade aos usuários, realizando acompanhamento 
+individualizado de cada caso. Diante disso, sugerimos, a seguir, o que entendemos ser um quadro ideal de recursos 
+humanos. 
+Em face da natureza especializada das DEAMs, os(as) profissionais que atuarem nessas Delegacias devem 
+desempenhar suas atividades por um período mínimo de dois anos, em razão do investimento necessário a sua 
+formação e aperfeiçoamento profissional.
+5.3 horário de expediente
+O atendimento qualificado deve ser ofertado de forma ininterrupta, nas 24 horas diárias, inclusive aos sábados, 
+domingos e feriados, em especial nas unidades que são únicas no município. 
+A sugestão a seguir38 considerou como efetivo ideal para uma (01) DEAM, 01 Delegada(o), 21 agentes, 2 apoios 
+e 1 serviços gerais, com a seguinte projeção indicação: 
+a) até 300 mil a existência de 2 DEAMs, localizadas em áreas geográficas antagônicas
+b) até 500 mil a existência de 3 DEAMs, localizadas em áreas geográficas antagônicas
+38 O quadro a seguir baseou-se em um estudo do Departamento de Planejamento Organizacional da Secretaria de Justiça e Segurança Pública 
+do Estado do Rio Grande do Sul, que considera, para a implantação de unidades policiais no estado, fatores como população, área geográfica, 
+número de ocorrências, número de ocorrências policiais, dentre outros. Importante também salientar que o número de profissionais é aquele 
+considerado ideal para o bom funcionamento de uma Delegacia da Mulher. 
+
+53
+dea MS 25 anos enfrentando a violencia contra a mulher
+c) de 500 a 1 milhão a existência de 4 DEAMs, localizadas em áreas geográficas antagônicas 
+d) mais de 1 milhão a existência de 5 DEAMs, localizadas em áreas geográficas antagônicas
+Utilizou-se o critério da proporção de 25% de ocorrências - mulher vítima - do total de ocorrências criminais 
+registradas, com uma produtividade média de 20 ocorrências por  mês por servidor policial.  Não foi considerada a 
+informação sobre o número de profissionais necessários para atendimento no Posto Especializado de Atendimento 
+à Mulher. 
+Assim, o funcionamento e o respectivo quadro de pessoal das DEAMs devem, preferencialmente, obedecer às 
+tabelas abaixo: 
+Recursos Humanos – horário de expediente das 8h às 18h
+Faixa populacional
+Categoria 
+Profissional Até 100 mil hab. Até 300 mil hab. Ate 500 mil hab. Acima de 
+1milhão hab.
+Acima de  
+1 milhão hab.
+Delegado(a) 02 03 04 05 A partir de 05
+Agente policial 
+(escrivão/ã ou
+investigador/a)
+21 42 63 84 105
+Apoio 
+Administrativo 02 04 06 08 10
+Serviços Gerais 01 02 03 04 05
+Obs: Foram juntadas as funções de escrivão e investigador na função de agente policial, conforme a proposta 
+da Senasp/MJ. 
+
+54
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Recursos Humanos – horário de expediente das 8h às 18h
+Categoria Profissional Quantidade
+Delegado(a) 04
+Agente policial (escrivão/ã ou investigador/a) 08
+Apoio Administrativo 08
+Serviços Gerais 04
+5.4 Formação de r ecursos humanos
+Deve ser prioridade na política de gestão de pessoas, na área da segurança pública, o investimento na formação 
+e valorização profissional, dirigida aos(às) profissionais de segurança pública, policiais e equipes técnicas, que 
+resulte numa crescente compreensão do fenômeno da violência, suas causas e instrumentos de superação 
+individual e coletiva.
+A formação deve ser continuada, abrangente, de natureza técnica, operacional e gerencial; universal, dirigida 
+ao conjunto dos(as) profissionais e deve incluir disciplinas específicas, tais como uso legal e progressivo da força 
+e da arma de fogo, defesa pessoal, abordagem e técnicas de investigação policial, dentre outras, que devem estar 
+integradas com os conteúdos humanísticos relativos a direitos humanos, ética, cidadania e violência de gênero 
+e de raça. Conteúdos de planejamento e de gestão devem ser disponibilizados para todos(as) os(as) policiais 
+que estejam desempenhando funções de coordenação e supervisão nas Delegacias. A formação deve incluir o 
+conhecimento do conteúdo da Lei Maria da Penha. 
+A organização curricular deve promover a visão sistêmica e o aprimoramento do trabalho em equipe, com fins 
+de qualificar os(as) policiais a atuarem de forma a mobilizar as Instituições que compõem a Rede, promovendo 
+assim a melhoria crescente e sustentável da qualidade do atendimento/acolhimento. 
+
+55
+dea MS 25 anos enfrentando a violencia contra a mulher
+A capacitação profissional deve estar pautada por uma metodologia participativa, dialógica, interdisciplinar e 
+holística e deve assegurar conteúdos programáticos que reafirmem a condição de sujeito de direitos da mulher 
+em situação de violência.
+Deve essa qualificação produzir sistemas de comando e supervisão de equipe que estimulem a cooperação, a 
+visão complementar das diferentes funções, a importância e o fortalecimento das parcerias com outras Instituições 
+e um funcionamento interno mais bem estruturado.
+5.5 infraestrutura para o funcionamento39 
+5.5.1 equipamentos
+Os equipamentos mínimos, necessários ao funcionamento de uma Delegacia Especializada, são classificados 
+por categorias. A relação deve observar a inovação tecnológica de modo a que se obtenha o melhor e mais avançado 
+equipamento.
+a. Comunicação – Neste item estão especificados os seguintes equipamentos: 01 Central fixa de rádio, 01 
+Central telefônica, 02 rádios HT e 01 telefone fax;
+b. Transporte – Estão especificados 01 camburão (com cela), 02 veículos caracterizados e 02 veículos sem 
+caracterização;
+c. Armamento – Neste item, a especificação é destinada para cada policial em exercício na Delegacia, sendo 
+necessária pistola 40 PT 940, revólver, algemas e colete balístico. A munição deve ser, no mínimo, de 50 cartuchos 
+para cada arma; além disso, é importante o manuseio de instrumentos de tecnologia menos letais.
+39 As Delegacias de Mulheres, por meio das Secretarias de Estado da Segurança Pública, podem captar recursos para seu aparelhamento na 
+Secretaria Especial de Políticas para as Mulheres e no Ministério da Justiça, por meio da Secretaria Nacional de Segurança Pública.  
+
+56
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+d. Informática – A especificação prevê, no mínimo, 04 computadores e 04 impressoras, sendo 01 multifuncional 
+e 02 modelos deskjet, com previsão de rede lógica e Internet, com acesso ao Infoseg; computador portátil, 
+implantação de sistema informatizado para coleta e análise de dados estatísticos, registros, informações, software 
+para banco de dados.
+e. Diversos – Neste item, os equipamentos especificados devem observar o avanço tecnológico, incluindo: 
+01 TV LCD, de, no mínimo, 29 polegadas, 01 vídeo e DVD, 01 máquina fotográfica digital, 04 minigravadores, 01 
+bebedouro refrigerado, 01 filmadora, 01 fogão, 01 geladeira, ventiladores e detector de metal, equipamento de 
+datashow, e ar-condicionado. Além disso, materiais de consumo, panfletos de divulgação e informação, cartilhas 
+e outros materiais informativos.
+5.6 l ocalização e espaço físico
+As DEAMs devem estar localizadas, preferencialmente, em áreas próximas a outros serviços que compõem a 
+rede de atendimento, e que sejam bem providas pelos meios de transporte urbano. Suas instalações devem ser 
+amplas, com fachadas bem iluminadas e sinalizadas de forma a facilitar o acesso da população e observar as 
+especificações constantes na legislação vigente, em especial, no que se refere à acessibilidade. A instalação das 
+DEAMs deve compreender, no mínimo:
+a. Área para recepção – A recepção deve ser composta por duas salas: uma para a espera das vítimas e outra 
+para espera dos agressores;
+b. Área para registro – O registro deve ser composto por cartório, sala de espera e sala de registro de ocorrências;
+c. Área para a assistência judiciária – deve ser composta por duas (2) salas, uma para advogadas (os) e outra 
+para espera;
+d. Área para a equipe técnica – A equipe técnica deve ter a seu dispor três salas: uma para a equipe de 
+investigação, outra para comunicação e a última para reconhecimentos – com espelho gessel;
+
+57
+dea MS 25 anos enfrentando a violencia contra a mulher
+e. Área para a coordenação – A coordenação deve ser composta por três salas: uma para a Delegada (o), outra 
+de espera e uma de reunião;
+f. Área de apoio – O apoio deve ser composto por uma sala para almoxarifado; uma sala de estar dos servidores; 
+uma copa-cozinha; uma sala de equipamentos de proteção e armamento; e uma sala de detenção provisória;
+g. Áreas comuns - A área comum das DEAMs deve ser composta por dois estacionamentos de veículos: um 
+para o público em geral e outro para viaturas policiais, por um banheiro feminino e outro masculino; uma sala 
+específica para crianças; vestiário masculino e vestiário feminino; alojamento masculino e feminino, sala de 
+audiência e sala de reuniões.
+5.7 Mobiliário
+Os diferentes ambientes devem ser sinalizados adequadamente, de acesso fácil e seguros ao público. Em todas 
+as salas os móveis devem ser funcionais para atender às necessidades das atividades desenvolvidas, oferecendo 
+às mulheres em situação de violência que venham efetuar seus registros e às (aos) servidoras (es), o conforto 
+necessário.
+
+
+
+59
+dea MS 25 anos enfrentando a violencia contra a mulher
+conSideraçõeS FinaiS  
+É incontestável que as Delegacias Especializadas de Atendimento à Mulher (DEAMs), ao longo desses anos de 
+existência, se transformaram em um dos mais importantes mecanismos de execução das políticas públicas de 
+enfrentamento à violência contra as mulheres. Fortalecidas desde a criação da Secretaria Especial de Políticas 
+para as Mulheres por meio da Política Nacional de Enfrentamento à Violência (2006), do Pacto Nacional pelo 
+Enfrentamento à Violência contra as Mulheres (Pacto, 2007) e do II Plano Nacional de Políticas para as Mulheres 
+(2008), e ainda pelo Sistema Único de Segurança Pública e pelo Programa Nacional de Segurança Pública com 
+Cidadania, do Ministério da Justiça, as DEAMs estão social e politicamente reconhecidas e valorizadas pela sua 
+clientela (as mulheres atendidas), pelo movimento de mulheres e pelos governos federal e estaduais. 
+Esse reconhecimento pode ser mensurado pelo aumento do número de delegacias ao longo do tempo, pela 
+preocupação governamental com o seu reaparelhamento e qualificação profissional, pelo aumento do número de 
+ocorrências criminais registradas e pela demanda crescente por sua ampliação. Se em 2006 eram 394 delegacias 
+em todo o País
+40, hoje contamos com 475 Delegacias ou Postos Especializados de Atendimento à Mulher.41 Embora 
+o número de delegacias possa ser considerado insuficiente, é importante reconhecer sua ampliação e seu 
+fortalecimento.
+Incorporando o conceito de segurança com cidadania desenvolvido pelo Ministério da Justiça à concepção 
+de violência de gênero, as DEAMs aperfeiçoam sua atividade, absorvendo a visão contemporânea que articula 
+políticas de segurança com ações sociais, prioriza a prevenção e busca atingir as causas que levam à violência, 
+40 Pesquisa do Perfil Organizacional das Delegacias Especializadas de Atendimento à Mulher (2003-2006). Ministério da Justiça: Secretaria 
+Nacional de Segurança Pública, 2007, p.6.
+41 Com todas as mulheres, por todos os seus direitos. Secretaria Especial de Políticas para as Mulheres. 2010.
+
+60
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+sem abrir mão das estratégias de ordenamento social e segurança pública. 42 Assim, sem se desfazer da função 
+de polícia judiciária, as DEAMs têm contribuído para desenvolver uma nova prática de segurança pública, unindo 
+trabalho policial de qualidade,  atendimento especializado e prevenção junto à comunidade. Por isso, pode-se 
+afirmar que criação das DEAMs impactou positivamente à concepção de segurança pública, pois trouxe para o 
+cenário a violência de gênero que ficava subsumida nas noções genéricas de segurança pública e criminalidade. 
+Não sem razão, as políticas públicas de segurança destinadas às mulheres têm enfocado o fortalecimento das 
+DEAMs e sua integração à rede de serviços de atendimento às mulheres, conforme expresso no Pacto Nacional, 
+na Política Nacional de Enfrentamento  à Violência contra a Mulher e no Pronasci.
+Além do papel de repressão, sua atuação na política de prevenção também é estimulada e deve ser entendida 
+como parte transversal da prática policial, objetivando reduzir os índices de violência e inserir a corporação policial 
+na construção de uma cultura de paz e de respeito aos valores da cidadania. 
+Ações preventivas devem ser empreendidas no âmbito da Rede de Serviços de Atendimento e as DEAMs devem 
+estimular, provocar e apoiar organizações governamentais e não-governamentais na realização dessas ações, 
+contribuindo para a superação efetiva da violência contra as mulheres, principalmente onde  haja insuficiência de 
+instituições que trabalhem preventivamente. 
+Diante da importância do binômio repressão-prevenção, a seguir são elaboradas algumas recomendações às DEAMs.
+42 Secretaria Nacional de Segurança Pública/MJ. Pronasci, 2007.
+
+61
+dea MS 25 anos enfrentando a violencia contra a mulher
+recoMendaçõeS
+Devido ao seu papel preventivo-repressivo reforçado pela Lei Maria da Penha, recomendam-se as 
+seguintes ações:
+• Apoio e divulgação de campanhas educativas pela cultura de não violência, que mobilizem a sociedade 
+civil como forma de prevenção à violência de gênero e fundamentalmente entre as (os) profissionais 
+de segurança pública;
+• Promoção de informação massiva sobre as políticas públicas de enfrentamento à violência de gênero;
+• Realização de Oficinas dirigidas às mulheres, pautadas por conteúdos afirmativos em relação ao 
+papel da mulher na sociedade e disseminar ações que promovam a mudança de paradigma em 
+relação aos papéis masculino e feminino;
+• Incentivo a uma política meritória, que reconheça e estimule as boas práticas na prevenção e 
+atendimento/acolhimento às mulheres em situação de violência, ou participando dos circuitos de 
+premiações que já existem, inscrevendo experiências, criando incentivos e estímulos permanentes à 
+qualidade na gestão pública;
+• Divulgação da Central de Atendimento à Mulher – “Ligue 180”;
+• Intercâmbio de informações e experiências bem-sucedidas com outras DEAMs;
+• Compromisso com as políticas públicas integradas para o enfrentamento à violência doméstica e de 
+gênero, em especial o Pacto Nacional de Enfrentamento à Violência contra a Mulher, resultado da II 
+Conferência Nacional de Políticas para Mulheres, e do Programa Nacional de Segurança Pública com 
+Cidadania (Pronasci);
+
+62
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+• Fortalecimento da política de coleta e sistematização de dados, de forma a possibilitar a existência de 
+um Banco de Dados Nacional sobre violência contra a mulher, de forma a orientar políticas públicas. 
+• Atendimento psicológico para as(os) profissionais que atuam nas Deam’s, dada as características da 
+profissão policial, expostos a constantes situações de pressão e estresse.
+
+63
+dea MS 25 anos enfrentando a violencia contra a mulher
+a nexo
+LEI Nº 11.340, DE 7 DE AGOSTO DE 2006.
+Cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do § 8o do art. 226 da 
+Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres 
+e da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher; dispõe sobre a 
+criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; altera o Código de Processo Penal, o 
+Código Penal e a Lei de Execução Penal; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+TÍTULO I
+DISPOSIÇÕES PRELIMINARES
+Art. 1
+o  Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher, nos 
+termos do § 8 o do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de 
+Violência contra a Mulher, da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a 
+Mulher e de outros tratados internacionais ratificados pela República Federativa do Brasil; dispõe sobre a criação 
+dos Juizados de Violência Doméstica e Familiar contra a Mulher; e estabelece medidas de assistência e proteção 
+às mulheres em situação de violência doméstica e familiar.
+Art. 2
+o  Toda mulher, independentemente de classe, raça, etnia, orientação sexual, renda, cultura, nível 
+educacional, idade e religião, goza dos direitos fundamentais inerentes à pessoa humana, sendo-lhe asseguradas 
+as oportunidades e facilidades para viver sem violência, preservar sua saúde física e mental e seu aperfeiçoamento 
+moral, intelectual e social.
+
+64
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Art. 3o  Serão asseguradas às mulheres as condições para o exercício efetivo dos direitos à vida, à segurança, 
+à saúde, à alimentação, à educação, à cultura, à moradia, ao acesso à justiça, ao esporte, ao lazer, ao trabalho, à 
+cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.
+§ 1o  O poder público desenvolverá políticas que visem garantir os direitos humanos das mulheres no âmbito 
+das relações domésticas e familiares no sentido de resguardá-las de toda forma de negligência, discriminação, 
+exploração, violência, crueldade e opressão.
+§ 2
+o  Cabe à família, à sociedade e ao poder público criar as condições necessárias para o efetivo exercício dos 
+direitos enunciados no caput.
+Art. 4o  Na interpretação desta Lei, serão considerados os fins sociais a que ela se destina e, especialmente, as 
+condições peculiares das mulheres em situação de violência doméstica e familiar.
+TÍTULO II
+DA VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Art. 5o  Para os efeitos desta Lei, configura violência doméstica e familiar contra a mulher qualquer ação ou 
+omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou 
+patrimonial:
+I - no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com ou 
+sem vínculo familiar, inclusive as esporadicamente agregadas;
+II - no âmbito da família, compreendida como a comunidade formada por indivíduos que são ou se consideram 
+aparentados, unidos por laços naturais, por afinidade ou por vontade expressa;
+
+65
+dea MS 25 anos enfrentando a violencia contra a mulher
+III - em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, 
+independentemente de coabitação.
+Parágrafo único.  As relações pessoais enunciadas neste artigo independem de orientação sexual.
+Art. 6o  A violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos 
+humanos.
+CAPÍTULO II
+DAS FORMAS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR
+CONTRA A MULHER
+Art. 7o  São formas de violência doméstica e familiar contra a mulher, entre outras:
+I - a violência física, entendida como qualquer conduta que ofenda sua integridade ou saúde corporal; 
+II - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da 
+auto-estima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, 
+comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, 
+vigilância constante, perseguição contumaz, insulto, chantagem, ridicularização, exploração e limitação do direito 
+de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação;
+III - a violência sexual, entendida como qualquer conduta que a constranja a presenciar, a manter ou a 
+participar de relação sexual não desejada, mediante intimidação, ameaça, coação ou uso da força; que a induza 
+a comercializar ou a utilizar, de qualquer modo, a sua sexualidade, que a impeça de usar qualquer método 
+contraceptivo ou que a force ao matrimônio, à gravidez, ao aborto ou à prostituição, mediante coação, chantagem, 
+suborno ou manipulação; ou que limite ou anule o exercício de seus direitos sexuais e reprodutivos;
+
+66
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+IV - a violência patrimonial, entendida como qualquer conduta que configure retenção, subtração, destruição 
+parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou 
+recursos econômicos, incluindo os destinados a satisfazer suas necessidades;
+V - a violência moral, entendida como qualquer conduta que configure calúnia, difamação ou injúria.
+TÍTULO III
+DA ASSISTÊNCIA À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR 
+CAPÍTULO I
+DAS MEDIDAS INTEGRADAS DE PREVENÇÃO
+Art. 8o  A política pública que visa coibir a violência doméstica e familiar contra a mulher far-se-á por meio 
+de um conjunto articulado de ações da União, dos Estados, do Distrito Federal e dos Municípios e de ações não-
+governamentais, tendo por diretrizes:
+I - a integração operacional do Poder Judiciário, do Ministério Público e da Defensoria Pública com as áreas de 
+segurança pública, assistência social, saúde, educação, trabalho e habitação;
+II - a promoção de estudos e pesquisas, estatísticas e outras informações relevantes, com a perspectiva de 
+gênero e de raça ou etnia, concernentes às causas, às conseqüências e à freqüência da violência doméstica 
+e familiar contra a mulher, para a sistematização de dados, a serem unificados nacionalmente, e a avaliação 
+periódica dos resultados das medidas adotadas;
+III - o respeito, nos meios de comunicação social, dos valores éticos e sociais da pessoa e da família, de forma 
+a coibir os papéis estereotipados que legitimem ou exacerbem a violência doméstica e familiar, de acordo com o 
+estabelecido no inciso III do art. 1
+o, no inciso IV do art. 3o e no inciso IV do art. 221 da Constituição Federal;
+
+67
+dea MS 25 anos enfrentando a violencia contra a mulher
+IV - a implementação de atendimento policial especializado para as mulheres, em particular nas Delegacias de 
+Atendimento à Mulher;
+V - a promoção e a realização de campanhas educativas de prevenção da violência doméstica e familiar contra 
+a mulher, voltadas ao público escolar e à sociedade em geral, e a difusão desta Lei e dos instrumentos de proteção 
+aos direitos humanos das mulheres;
+VI - a celebração de convênios, protocolos, ajustes, termos ou outros instrumentos de promoção de parceria 
+entre órgãos governamentais ou entre estes e entidades não-governamentais, tendo por objetivo a implementação 
+de programas de erradicação da violência doméstica e familiar contra a mulher;
+VII - a capacitação permanente das Polícias Civil e Militar, da Guarda Municipal, do Corpo de Bombeiros e dos 
+profissionais pertencentes aos órgãos e às áreas enunciados no inciso I quanto às questões de gênero e de raça 
+ou etnia;
+VIII - a promoção de programas educacionais que disseminem valores éticos de irrestrito respeito à dignidade 
+da pessoa humana com a perspectiva de gênero e de raça ou etnia;
+IX - o destaque, nos currículos escolares de todos os níveis de ensino, para os conteúdos relativos aos direitos 
+humanos, à eqüidade de gênero e de raça ou etnia e ao problema da violência doméstica e familiar contra a mulher.
+CAPÍTULO II
+DA ASSISTÊNCIA À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR
+Art. 9
+o  A assistência à mulher em situação de violência doméstica e familiar será prestada de forma articulada 
+e conforme os princípios e as diretrizes previstos na Lei Orgânica da Assistência Social, no Sistema Único de Saúde, 
+no Sistema Único de Segurança Pública, entre outras normas e políticas públicas de proteção, e emergencialmente 
+quando for o caso.
+
+68
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+§ 1o  O juiz determinará, por prazo certo, a inclusão da mulher em situação de violência doméstica e familiar no 
+cadastro de programas assistenciais do governo federal, estadual e municipal.
+§ 2o  O juiz assegurará à mulher em situação de violência doméstica e familiar, para preservar sua integridade 
+física e psicológica:
+I - acesso prioritário à remoção quando servidora pública, integrante da administração direta ou indireta;
+II - manutenção do vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis 
+meses.
+§ 3o  A assistência à mulher em situação de violência doméstica e familiar compreenderá o acesso aos benefícios 
+decorrentes do desenvolvimento científico e tecnológico, incluindo os serviços de contracepção de emergência, a 
+profilaxia das Doenças Sexualmente Transmissíveis (DST) e da Síndrome da Imunodeficiência Adquirida (AIDS) e 
+outros procedimentos médicos necessários e cabíveis nos casos de violência sexual.
+CAPÍTULO III
+DO ATENDIMENTO PELA AUTORIDADE POLICIAL
+Art. 10.  Na hipótese da iminência ou da prática de violência doméstica e familiar contra a mulher, a autoridade 
+policial que tomar conhecimento da ocorrência adotará, de imediato, as providências legais cabíveis.
+Parágrafo único.  Aplica-se o disposto no caput deste artigo ao descumprimento de medida protetiva de urgência 
+deferida.
+Art. 11.  No atendimento à mulher em situação de violência doméstica e familiar, a autoridade policial deverá, 
+entre outras providências:
+I - garantir proteção policial, quando necessário, comunicando de imediato ao Ministério Público e ao Poder 
+Judiciário;
+
+69
+dea MS 25 anos enfrentando a violencia contra a mulher
+II - encaminhar a ofendida ao hospital ou posto de saúde e ao Instituto Médico Legal;
+III - fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver risco 
+de vida;
+IV - se necessário, acompanhar a ofendida para assegurar a retirada de seus pertences do local da ocorrência 
+ou do domicílio familiar;
+V - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis.
+Art. 12.  Em todos os casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, 
+deverá a autoridade policial adotar, de imediato, os seguintes procedimentos, sem prejuízo daqueles previstos no 
+Código de Processo Penal:
+I - ouvir a ofendida, lavrar o boletim de ocorrência e tomar a representação a termo, se apresentada; 
+II - colher todas as provas que servirem para o esclarecimento do fato e de suas circunstâncias;
+III - remeter, no prazo de 48 (quarenta e oito) horas, expediente apartado ao juiz com o pedido da ofendida, para 
+a concessão de medidas protetivas de urgência;
+IV - determinar que se proceda ao exame de corpo de delito da ofendida e requisitar outros exames periciais 
+necessários; 
+V - ouvir o agressor e as testemunhas;
+VI - ordenar a identificação do agressor e fazer juntar aos autos sua folha de antecedentes criminais, indicando 
+a existência de mandado de prisão ou registro de outras ocorrências policiais contra ele; 
+VII - remeter, no prazo legal, os autos do inquérito policial ao juiz e ao Ministério Público.
+
+70
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+§ 1o  O pedido da ofendida será tomado a termo pela autoridade policial e deverá conter:
+I - qualificação da ofendida e do agressor;
+II - nome e idade dos dependentes;
+III - descrição sucinta do fato e das medidas protetivas solicitadas pela ofendida.
+§ 2
+o  A autoridade policial deverá anexar ao documento referido no § 1o o boletim de ocorrência e cópia de todos 
+os documentos disponíveis em posse da ofendida.
+§ 3o  Serão admitidos como meios de prova os laudos ou prontuários médicos fornecidos por hospitais e postos 
+de saúde.
+TÍTULO IV
+DOS PROCEDIMENTOS
+ CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Art. 13.  Ao processo, ao julgamento e à execução das causas cíveis e criminais decorrentes da prática de 
+violência doméstica e familiar contra a mulher aplicar-se-ão as normas dos Códigos de Processo Penal e Processo 
+Civil e da legislação específica relativa à criança, ao adolescente e ao idoso que não conflitarem com o estabelecido 
+nesta Lei.
+Art. 14.  Os Juizados de Violência Doméstica e Familiar contra a Mulher, órgãos da Justiça Ordinária com 
+competência cível e criminal, poderão ser criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, 
+para o processo, o julgamento e a execução das causas decorrentes da prática de violência doméstica e familiar 
+contra a mulher.
+
+71
+dea MS 25 anos enfrentando a violencia contra a mulher
+Parágrafo único. Os atos processuais poderão realizar-se em horário noturno, conforme dispuserem as normas 
+de organização judiciária.
+Art. 15.  É competente, por opção da ofendida, para os processos cíveis regidos por esta Lei, o Juizado:
+I - do seu domicílio ou de sua residência;
+II - do lugar do fato em que se baseou a demanda;
+III - do domicílio do agressor.
+Art. 16.  Nas ações penais públicas condicionadas à representação da ofendida de que trata esta Lei, só será 
+admitida a renúncia à representação perante o juiz, em audiência especialmente designada com tal finalidade, 
+antes do recebimento da denúncia e ouvido o Ministério Público.
+Art. 17.  É vedada a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta 
+básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de 
+multa.
+CAPÍTULO II
+DAS MEDIDAS PROTETIVAS DE URGÊNCIA
+ Seção I
+Disposições Gerais
+Art. 18.  Recebido o expediente com o pedido da ofendida, caberá ao juiz, no prazo de 48 (quarenta e oito) horas:
+I - conhecer do expediente e do pedido e decidir sobre as medidas protetivas de urgência;
+II - determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso;
+
+72
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+III - comunicar ao Ministério Público para que adote as providências cabíveis.
+Art. 19.  As medidas protetivas de urgência poderão ser concedidas pelo juiz, a requerimento do Ministério 
+Público ou a pedido da ofendida.
+§ 1o  As medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência 
+das partes e de manifestação do Ministério Público, devendo este ser prontamente comunicado.
+§ 2o  As medidas protetivas de urgência serão aplicadas isolada ou cumulativamente, e poderão ser substituídas 
+a qualquer tempo por outras de maior eficácia, sempre que os direitos reconhecidos nesta Lei forem ameaçados 
+ou violados.
+§ 3o  Poderá o juiz, a requerimento do Ministério Público ou a pedido da ofendida, conceder novas medidas 
+protetivas de urgência ou rever aquelas já concedidas, se entender necessário à proteção da ofendida, de seus 
+familiares e de seu patrimônio, ouvido o Ministério Público.
+Art. 20.  Em qualquer fase do inquérito policial ou da instrução criminal, caberá a prisão preventiva do agressor, 
+decretada pelo juiz, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade 
+policial.
+Parágrafo único.  O juiz poderá revogar a prisão preventiva se, no curso do processo, verificar a falta de motivo 
+para que subsista, bem como de novo decretá-la, se sobrevierem razões que a justifiquem.
+Art. 21.  A ofendida deverá ser notificada dos atos processuais relativos ao agressor, especialmente dos 
+pertinentes ao ingresso e à saída da prisão, sem prejuízo da intimação do advogado constituído ou do defensor 
+público.
+Parágrafo único.  A ofendida não poderá entregar intimação ou notificação ao agressor.
+
+73
+dea MS 25 anos enfrentando a violencia contra a mulher
+Seção II
+Das Medidas Protetivas de Urgência que Obrigam o Agressor
+Art. 22.  Constatada a prática de violência doméstica e familiar contra a mulher, nos termos desta Lei, o juiz 
+poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, as seguintes medidas protetivas de 
+urgência, entre outras:
+I - suspensão da posse ou restrição do porte de armas, com comunicação ao órgão competente, nos termos da 
+Lei no 10.826, de 22 de dezembro de 2003;
+II - afastamento do lar, domicílio ou local de convivência com a ofendida;
+III - proibição de determinadas condutas, entre as quais:
+a) aproximação da ofendida, de seus familiares e das testemunhas, fixando o limite mínimo de distância entre 
+estes e o agressor;
+b) contato com a ofendida, seus familiares e testemunhas por qualquer meio de comunicação;
+c) freqüentação de determinados lugares a fim de preservar a integridade física e psicológica da ofendida;
+IV - restrição ou suspensão de visitas aos dependentes menores, ouvida a equipe de atendimento multidisciplinar 
+ou serviço similar;
+V - prestação de alimentos provisionais ou provisórios.
+§ 1
+o  As medidas referidas neste artigo não impedem a aplicação de outras previstas na legislação em vigor, 
+sempre que a segurança da ofendida ou as circunstâncias o exigirem, devendo a providência ser comunicada ao 
+Ministério Público.
+
+74
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+§ 2o  Na hipótese de aplicação do inciso I, encontrando-se o agressor nas condições mencionadas no caput e 
+incisos do art. 6o da Lei no 10.826, de 22 de dezembro de 2003, o juiz comunicará ao respectivo órgão, corporação 
+ou instituição as medidas protetivas de urgência concedidas e determinará a restrição do porte de armas, ficando 
+o superior imediato do agressor responsável pelo cumprimento da determinação judicial, sob pena de incorrer nos 
+crimes de prevaricação ou de desobediência, conforme o caso.
+§ 3
+o  Para garantir a efetividade das medidas protetivas de urgência, poderá o juiz requisitar, a qualquer 
+momento, auxílio da força policial.
+§ 4o  Aplica-se às hipóteses previstas neste artigo, no que couber, o disposto no caput e nos §§ 5o e 6º do art. 
+461 da Lei no 5.869, de 11 de janeiro de 1973 (Código de Processo Civil).
+Seção III
+Das Medidas Protetivas de Urgência à Ofendida
+Art. 23.  Poderá o juiz, quando necessário, sem prejuízo de outras medidas:
+I - encaminhar a ofendida e seus dependentes a programa oficial ou comunitário de proteção ou de atendimento;
+II - determinar a recondução da ofendida e a de seus dependentes ao respectivo domicílio, após afastamento 
+do agressor;
+III - determinar o afastamento da ofendida do lar, sem prejuízo dos direitos relativos a bens, guarda dos filhos 
+e alimentos;
+IV - determinar a separação de corpos.
+Art. 24.  Para a proteção patrimonial dos bens da sociedade conjugal ou daqueles de propriedade particular da 
+mulher, o juiz poderá determinar, liminarmente, as seguintes medidas, entre outras: 
+
+75
+dea MS 25 anos enfrentando a violencia contra a mulher
+I - restituição de bens indevidamente subtraídos pelo agressor à ofendida;
+II - proibição temporária para a celebração de atos e contratos de compra, venda e locação de propriedade em 
+comum, salvo expressa autorização judicial;
+III - suspensão das procurações conferidas pela ofendida ao agressor;
+IV - prestação de caução provisória, mediante depósito judicial, por perdas e danos materiais decorrentes da 
+prática de violência doméstica e familiar contra a ofendida.
+Parágrafo único. Deverá o juiz oficiar ao cartório competente para os fins previstos nos incisos II e III deste 
+artigo.
+CAPÍTULO III
+DA ATUAÇÃO DO MINISTÉRIO PÚBLICO
+Art. 25.  O Ministério Público intervirá, quando não for parte, nas causas cíveis e criminais decorrentes da 
+violência doméstica e familiar contra a mulher.
+Art. 26.  Caberá ao Ministério Público, sem prejuízo de outras atribuições, nos casos de violência doméstica e 
+familiar contra a mulher, quando necessário:
+I - requisitar força policial e serviços públicos de saúde, de educação, de assistência social e de segurança, 
+entre outros;
+II - fiscalizar os estabelecimentos públicos e particulares de atendimento à mulher em situação de violência 
+doméstica e familiar, e adotar, de imediato, as medidas administrativas ou judiciais cabíveis no tocante a quaisquer 
+irregularidades constatadas;
+III - cadastrar os casos de violência doméstica e familiar contra a mulher.
+
+76
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+CAPÍTULO IV
+DA ASSISTÊNCIA JUDICIÁRIA
+Art. 27.  Em todos os atos processuais, cíveis e criminais, a mulher em situação de violência doméstica e 
+familiar deverá estar acompanhada de advogado, ressalvado o previsto no art. 19 desta Lei.
+Art. 28.  É garantido a toda mulher em situação de violência doméstica e familiar o acesso aos serviços de 
+Defensoria Pública ou de Assistência Judiciária Gratuita, nos termos da lei, em sede policial e judicial, mediante 
+atendimento específico e humanizado.
+TÍTULO V
+DA EQUIPE DE ATENDIMENTO MULTIDISCIPLINAR
+Art. 29.  Os Juizados de Violência Doméstica e Familiar contra a Mulher que vierem a ser criados poderão 
+contar com uma equipe de atendimento multidisciplinar, a ser integrada por profissionais especializados nas 
+áreas psicossocial, jurídica e de saúde.
+Art. 30.  Compete à equipe de atendimento multidisciplinar, entre outras atribuições que lhe forem reservadas 
+pela legislação local, fornecer subsídios por escrito ao juiz, ao Ministério Público e à Defensoria Pública, mediante 
+laudos ou verbalmente em audiência, e desenvolver trabalhos de orientação, encaminhamento, prevenção e 
+outras medidas, voltados para a ofendida, o agressor e os familiares, com especial atenção às crianças e aos 
+adolescentes.
+Art. 31.  Quando a complexidade do caso exigir avaliação mais aprofundada, o juiz poderá determinar a 
+manifestação de profissional especializado, mediante a indicação da equipe de atendimento multidisciplinar.
+Art. 32.  O Poder Judiciário, na elaboração de sua proposta orçamentária, poderá prever recursos para a criação 
+e manutenção da equipe de atendimento multidisciplinar, nos termos da Lei de Diretrizes Orçamentárias.
+
+77
+dea MS 25 anos enfrentando a violencia contra a mulher
+TÍTULO VI
+DISPOSIÇÕES TRANSITÓRIAS
+Art. 33.  Enquanto não estruturados os Juizados de Violência Doméstica e Familiar contra a Mulher, as varas 
+criminais acumularão as competências cível e criminal para conhecer e julgar as causas decorrentes da prática 
+de violência doméstica e familiar contra a mulher, observadas as previsões do Título IV desta Lei, subsidiada pela 
+legislação processual pertinente.
+Parágrafo único.  Será garantido o direito de preferência, nas varas criminais, para o processo e o julgamento 
+das causas referidas no caput.
+TÍTULO VII
+DISPOSIÇÕES FINAIS
+Art. 34.  A instituição dos Juizados de Violência Doméstica e Familiar contra a Mulher poderá ser acompanhada 
+pela implantação das curadorias necessárias e do serviço de assistência judiciária.
+Art. 35.  A União, o Distrito Federal, os Estados e os Municípios poderão criar e promover, no limite das 
+respectivas competências:
+I - centros de atendimento integral e multidisciplinar para mulheres e respectivos dependentes em situação 
+de violência doméstica e familiar;
+II - casas-abrigos para mulheres e respectivos dependentes menores em situação de violência doméstica e 
+familiar;
+III - delegacias, núcleos de defensoria pública, serviços de saúde e centros de perícia médico-legal especializados 
+no atendimento à mulher em situação de violência doméstica e familiar;
+
+78
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+IV - programas e campanhas de enfrentamento da violência doméstica e familiar;
+V - centros de educação e de reabilitação para os agressores.
+Art. 36.  A União, os Estados, o Distrito Federal e os Municípios promoverão a adaptação de seus órgãos e de 
+seus programas às diretrizes e aos princípios desta Lei.
+Art. 37.  A defesa dos interesses e direitos transindividuais previstos nesta Lei poderá ser exercida, 
+concorrentemente, pelo Ministério Público e por associação de atuação na área, regularmente constituída há pelo 
+menos um ano, nos termos da legislação civil.
+Parágrafo único.  O requisito da pré-constituição poderá ser dispensado pelo juiz quando entender que não há 
+outra entidade com representatividade adequada para o ajuizamento da demanda coletiva.
+Art. 38.  As estatísticas sobre a violência doméstica e familiar contra a mulher serão incluídas nas bases de 
+dados dos órgãos oficiais do Sistema de Justiça e Segurança a fim de subsidiar o sistema nacional de dados e 
+informações relativo às mulheres.
+Parágrafo único.  As Secretarias de Segurança Pública dos Estados e do Distrito Federal poderão remeter suas 
+informações criminais para a base de dados do Ministério da Justiça.
+Art. 39.  A União, os Estados, o Distrito Federal e os Municípios, no limite de suas competências e nos termos 
+das respectivas leis de diretrizes orçamentárias, poderão estabelecer dotações orçamentárias específicas, em 
+cada exercício financeiro, para a implementação das medidas estabelecidas nesta Lei.
+Art. 40.  As obrigações previstas nesta Lei não excluem outras decorrentes dos princípios por ela adotados.
+Art. 41.  Aos crimes praticados com violência doméstica e familiar contra a mulher, independentemente da 
+pena prevista, não se aplica a Lei no 9.099, de 26 de setembro de 1995.
+Art. 42.  O art. 313 do Decreto-Lei no 3.689, de 3 de outubro de 1941 (Código de Processo Penal), passa a vigorar 
+acrescido do seguinte inciso IV:
+
+79
+dea MS 25 anos enfrentando a violencia contra a mulher
+“Art. 313.  .....................................................................................................................................................................
+...................................................................................................................................................................................... 
+IV - se o crime envolver violência doméstica e familiar contra a mulher, nos termos da lei específica, para 
+garantir a execução das medidas protetivas de urgência.” (NR)
+Art. 43.  A alínea f do inciso II do art. 61 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal), passa 
+a vigorar com a seguinte redação:
+“Art. 61.  ....................................................................................................................................................................... 
+......................................................................................................................................................................................
+II - ................................................................................................................................................................................. 
+...................................................................................................................................................................................... 
+f) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade, ou 
+com violência contra a mulher na forma da lei específica;
+........................................................... ” (NR)
+Art. 44.  O art. 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar com as 
+seguintes alterações:
+“Art. 129.  ..................................................................................................................................................................... 
+...................................................................................................................................................................................... 
+§ 9
+o  Se a lesão for praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, ou com quem 
+conviva ou tenha convivido, ou, ainda, prevalecendo-se o agente das relações domésticas, de coabitação ou de 
+hospitalidade:
+
+80
+d elegacias especializadas de a tendimento às Mulheres – dea Ms
+Pena - detenção, de 3 (três) meses a 3 (três) anos.
+...................................................................................................................................................................................... 
+§ 11.  Na hipótese do § 9o deste artigo, a pena será aumentada de um terço se o crime for cometido contra 
+pessoa portadora de deficiência.” (NR)
+Art. 45.  O art. 152 da Lei no 7.210, de 11 de julho de 1984 (Lei de Execução Penal), passa a vigorar com a 
+seguinte redação:
+“Art. 152.  ..................................................................................................................................................................... 
+Parágrafo único. Nos casos de violência doméstica contra a mulher, o juiz poderá determinar o comparecimento 
+obrigatório do agressor a programas de recuperação e reeducação.” (NR)
+Art. 46. Esta Lei entra em vigor 45 (quarenta e cinco) dias após sua publicação.
+Brasília,  7  de  agosto de 2006; 185o da Independência e 118o da República.
+LUIZ INÁCIO LULA DA SILVA 
+Dilma Rousseff
+Este texto não substitui o publicado no D.O.U. de 8.8.2006
+
+81
+dea MS 25 anos enfrentando a violencia contra a mulher
+
+
+82
+d elegacias especializadas de a tendimento às Mulheres – dea Ms

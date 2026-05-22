@@ -1,6 +1,8 @@
-# Tech Challenge 2 — Otimização do modelo preditor de recorrência em casos de violência contra a mulher
+# Tech Challenge 3 — Otimização do modelo preditor de recorrência em casos de violência contra a mulher
 
-Nesta fase o grupo aplicou os conceitos da disciplina ao **mesmo conjunto de dados da Fase 1**, evoluindo o trabalho anterior. O foco foi usar **algoritmo genético** para otimizar hiperparâmetros de um **Random Forest** classificador (algoritmo com as melhores métricas dentre os usados na Fase 1), com ênfase na **revocação (recall)** do rótulo de recorrência, priorizando a redução de **falsos negativos**.
+Desenvolver um assistente virtual de atendimento especializado em segurança da mulher, utilizando fine-tuning de LLMs com dados
+específicos da área e implementando fluxos automatizados de decisão através do LangChain, orientações sobre serviços sociais e medidas 
+jurídicas e protetivas  sempre respeitando protocolos de segurança, privacidade e sensibilidade cultural específicos do atendimento feminino.
 
 ## Setup rápido
 
@@ -10,41 +12,25 @@ Requisitos: **Python 3.11+** (recomendado).
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-pip install streamlit         # necessário para o app em app/streamlit_app.py
 ```
 
-Variáveis de ambiente (opcional): para o módulo `src/llm/llm_explainer.py`, configure `OPENAI_API_KEY` no arquivo `.env` na raiz do projeto (o cliente usa `python-dotenv`).
+Variáveis de ambiente (opcional):  no arquivo `.env` na raiz do projeto (o cliente usa `python-dotenv`).
 
-**Dados:** o script `src/optimize_ga.py` espera o arquivo `data/processed/df_preprocessed.parquet`. Este dataset foi gerado na Fase 1 após o preprocessamento dos dados oriúndos do DATASUS.
+**Dados:** Os dados para treinamento do fine tunning são sensíveis e não estão disponíveis no repositório seu tratamento 
+está descrito em PreprocessamentoFineTune.md
 
 ## Estrutura do repositório
 
 | Caminho                         | Descrição                                                                                  |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
-| `app/streamlit_app.py`          | Interface Streamlit para carregar modelos, métricas, matriz de confusão e explicações SHAP |
-| `notebooks/`                    | Notebooks de análise (ex.: SHAP com Random Forest)                                         |
-| `src/optimize_ga.py`            | Otimização por algoritmo genético dos hiperparâmetros do Random Forest                     |
-| `src/evaluation/fairness.py`    | Avaliação de métricas por grupo                                                            |
-| `src/explain/shap_explainer.py` | Cálculo de valores SHAP para explicabilidade                                               |
-| `src/llm/llm_explainer.py`      | Geração de explicações em linguagem natural via API OpenAI                                 |
-| `models/`                       | Artefatos serializados (`joblib`) e utilitário `load_model.py`                             |
-| `docs/`                         | Documentação complementar do desafio                                                       |
-
-## Dataset
-
-**SINAN/SUS — Violência interpessoal/autoprovocada referente ao ano de 2024**
-
-Para mais informações sobre o dataset usado, acesse o [repositório](https://github.com/fiap-ssp-2025/tech-challenge-1).
+| `app/streamlit_app.py`          | Interface Streamlit para carregar o frontend                                               |
+| `data/Dados_Treinamento`        | Dados brutos para treinamento do finetune (gitignore)                                      |
+| `data/processed`                | Dados processados para finetunning (gitignore)                                             |
+| `docs/Referencial_rag`          | Documentos públicos coletados para configuração do rag                                     |
+| `models/`                       | Modelos treinados                                                                          |
+| `source/`                       | Códigos                                                                                    |
 
 ## Uso
-
-### Otimização com algoritmo genético
-
-Na raiz do repositório (com o ambiente virtual ativo e `df_preprocessed.parquet` disponível):
-
-```bash
-python src/optimize_ga.py
-```
 
 ### Aplicação Streamlit
 
@@ -76,6 +62,8 @@ Saidas principais em `data/processed/finetune`:
 
 2. Geracao de dataset de instrucoes com rotulo inicial de risco (heuristico):
 
+- 
+
 ```bash
 python src/data_prep/build_instruction_dataset.py \
 	--input data/processed/finetune/dataset_vitima_contexto.csv \
@@ -89,13 +77,9 @@ Saidas principais:
 
 Observacao: os rotulos de risco gerados sao baseline por regras e devem ser validados por especialistas antes de qualquer uso operacional.
 
-### Notebooks
-
-Abra e execute `notebooks/shap_random_forest_violencia_mulher.ipynb` no Jupyter ou VS Code (kernel apontando para o `.venv`).
-
 ### Modelo textual local para narrativas
 
-Para treinar um classificador local de narrativas com `TF-IDF + LogisticRegression` e testar textos livres:
+
 
 ```bash
 python src/text_classifier.py train
@@ -122,4 +106,4 @@ O modelo de texto usa os arquivos `risk_train.jsonl` e `risk_val.jsonl` gerados 
 | Leonardo Barbosa Nogueira      |
 | Jose Flavio Neto               |
 | Pedro Matias dos Santos        |
-| Wellington Oliveira de Andrade |
+| Wellington Vieira de Oliveira  |

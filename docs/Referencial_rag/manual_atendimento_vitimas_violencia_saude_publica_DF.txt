@@ -1,0 +1,3166 @@
+Secretaria de  Estado de Saúde  
+do Distrito Federal
+MANUAL PARA ATENDIMENTO 
+ÀS VÍTIMAS 
+DE VIOLÊNCIA 
+NA REDE DE SAÚDE PÚBLICA DO DF
+
+
+
+MANUAL PARA ATENDIMENTO 
+ÀS VÍTIMAS DE VIOLÊNCIA 
+NA REDE DE SAÚDE PÚbLIcA  DO DF
+Secretaria de  Estado de Saúde  
+do Distrito Federal
+Brasília, 2009
+
+SECRETARIA DE ESTADO DE SAÚDE DO DISTRITO FEDERAL
+É permitida a reprodução parcial ou total desta obra, desde que citada a fonte.
+Coordenação do Projeto 
+Laurez Ferreira Vilela
+ 
+Grupo de Trabalho Técnico
+Ana Lúcia Corrêa e Castro
+Laurez Ferreira Vilela
+Marcelle Passarinho Mori
+Edição, discussão e informações
+SECRETARIA DE ESTADO DE SAÚDE DO DISTRITO FEDERAL
+Subsecretaria de Atenção à Saúde
+Diretoria de Assistência Especializada
+Gerência de Recursos Médicos Hospitalares
+Núcleo de Estudos e Programas para os Acidentes e Violência
+SIA Sul Quadra 4C Lotes 02/07 Sobreloja do BRB
+CEP: 71200-040
+Tel.: (61) 3905-4635
+Fax: (61) 3905-4637
+E-mail: nepavses@gmail.com
+2ª edição 2009
+            
+ 
+Manual para Atendimento às Vítimas de Violência na Rede de Saúde Pública do Distrito 
+Federal/ Laurez Ferreira Vilela (coordenadora) – Brasília: Secretaria de Estado de Saúde 
+do Distrito Federal, 2008.
+ 
+68 páginas. 
+ 
+I. Vilela, Laurez Ferreira. 1. Tipos de violência. 2. Violência contra criança e adolescente.  
+3. Violência contra mulher. 4. Violência contra pessoa idosa. 5. Procedimentos. 6. Atuação 
+dos profissionais de saúde no atendimento à vítima de violência. 7. Notificação e aspec-
+tos legais.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+5
+APRESENTAÇÃO  ........................................................................................................................................................................................  7
+TIPOS DE VIOLÊNCIA  ..........................................................................................................................................  9
+Violência contra Criança e Adolescente  .............................................................................................................................................  9
+Violência contra a Mulher  .......................................................................................................................................................................  9
+Violência contra o Idoso  ..........................................................................................................................................................................  9
+Violência de Gênero  ..................................................................................................................................................................................  9
+Violência Intrafamiliar  ...............................................................................................................................................................................  9
+Violência Física  ............................................................................................................................................................................................  9
+Violência Institucional  ............................................................................................................................................................................ 10
+Violência Moral .......................................................................................................................................................................................... 10
+Violência Patrimonial  .............................................................................................................................................................................. 10
+Violência Psicológica  ............................................................................................................................................................................... 10
+Violência Sexual  ........................................................................................................................................................................................ 10
+Síndrome de Munchausen por procuração  .................................................................................................................................... 10
+Negligência ................................................................................................................................................................................................. 11
+Assédio Moral  ............................................................................................................................................................................................ 11
+Auto-extermínio / Suicídio  ................................................................................................................................................................... 11
+DIFERENÇA ENTRE ACIDENTE E VIOLÊNCIA  ....................................................................................................  12
+MÓDULO I: VIOLÊNCIA CONTRA CRIANÇA E ADOLESCENTE  .........................................................................  13
+Intervenção e Aspectos Legais  ............................................................................................................................................................ 14
+Indicadores de Violência contra Criança e Adolescente  ............................................................................................................ 15
+Atendimento à Criança e ao Adolescente  ....................................................................................................................................... 16
+Devemos Evitar a Revitimização  ......................................................................................................................................................... 17
+Atendimento em Grupo para Adolescentes que Sofreram Violência  ................................................................................... 17
+Fluxograma de Atendimento a Crianças e Adolescentes nos Hospitais  .............................................................................. 21
+Fluxograma de Atendimento a Crianças e Adolescentes em Unidades Básicas de Saúde  ........................................... 22
+Pistas para Identificação dos vários tipos de Violência Física contra Crianças e Adolescentes  ................................... 23
+MÓDULO II: VIOLÊNCIA CONTRA A MULHER  ..................................................................................................  24
+Indicadores de Violência contra Mulher  .......................................................................................................................................... 26
+Em caso de Violência Sexual ..................................................................................................................................................................28
+Em caso de Violência Física .....................................................................................................................................................................29
+Em caso de Violência Psicológica .........................................................................................................................................................29
+Fluxograma de Atendimento às Mulheres nos Hospitais  .......................................................................................................... 30
+Fluxograma de atendimento, em Unidades Básicas de Saúde, às mulheres vítimas de violência.  .............................30
+MÓDULO III: VIOLÊNCIA CONTRA A PESSOA IDOSA  ......................................................................................  31
+Em caso de Violência Física .................................................................................................................................................................... 32
+Em caso de Violência Sexual ..................................................................................................................................................................33
+Em caso de Negligência ...........................................................................................................................................................................33
+Em caso de Violência Psicológica .........................................................................................................................................................34
+Em caso de Violência Patrimonial.........................................................................................................................................................34
+Fluxograma de Atendimento aos Idosos nos Hospitais  ............................................................................................................. 35
+Fluxograma de Atendimento, em Unidades Básicas de Saúde, aos Idosos Vítimas de Violência  ............................... 35
+sumário
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+6
+ATENDIMENTO ÀS SITUAÇÕES DE RISCO AO SUICÍDIO  ..................................................................................  36
+Em Caso de Tentativa e/ou Ideação Suicida de Criança ou Adolescente  ............................................................................ 37
+Em Caso de Tentativa Suicida de adulto  .......................................................................................................................................... 37
+ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA SEXUAL  ......................................................................................  38
+Atendimento nas Emergências  ........................................................................................................................................................... 38
+Atendimento nos Centros de Saúde referência em DST/AIDS  ................................................................................................ 38
+Atendimento do Médico  ....................................................................................................................................................................... 39
+Atendimento da Enfermagem  ............................................................................................................................................................. 39
+PROGRAMA DE ASSISTÊNCIA AO ABORTO PREVISTO EM LEI –  HRAS  .........................................................  40
+ATUAÇÃO INTERDISCIPLINAR  ..........................................................................................................................  41
+Atuação Médica  ........................................................................................................................................................................................ 41
+Atuação da Equipe de Enfermagem  .................................................................................................................................................. 42
+Atuação do Serviço Social  ..................................................................................................................................................................... 42
+Atuação da Psicologia  ............................................................................................................................................................................. 43
+Atuação da Terapia Ocupacional  ........................................................................................................................................................ 44
+Atuação do Agente Comunitário de Saúde  .................................................................................................................................... 45
+Intervenções necessárias nos casos de violência  ......................................................................................................................... 45
+IMPORTÂNCIA DA NOTIFICAÇÃO E ASPECTOS LEGAIS  ..................................................................................  46
+Notificação da Violência contra Criança e Adolescente  ............................................................................................................. 47
+Notificação da Violência contra Mulher  ........................................................................................................................................... 47
+Notificação da Violência contra o Idoso  ........................................................................................................................................... 48
+Modelo da Ficha de Notificação Compulsória  ............................................................................................................................... 49
+Procedimentos ............................................................................................................................................................................................51
+RECOMENDAÇÕES IMPORTANTES  ...................................................................................................................  52
+Atuar em Rede  ........................................................................................................................................................................................... 52
+Informes para Comunidade  .................................................................................................................................................................. 53
+Sentimento do profissional  .................................................................................................................................................................. 53
+Reflexões sobre o Atendimento do Profissional de Saúde  ....................................................................................................... 53
+Meu Atendimento  .................................................................................................................................................................................... 54
+Meu Acompanhante  ............................................................................................................................................................................... 54
+Informações  ................................................................................................................................................................................................ 54
+LOCAIS, NA REDE DE SAÚDE, QUE REALIZAM ACOMPANHAMENTO  ............................................................  55
+TELEFONES ÚTEIS DO DISTRITO FEDERAL  ......................................................................................................  56
+COSE’S – RELAÇÃO DOS CENTROS DE ORIENTAÇÃO SOCIOEDUCATIVA .......................................  57
+CREAS – RELAÇÃO DOS CENTROS DE REFERÊNCIA ESPECIALIZADOS DE ASSISTÊNCIA SOCIAL ..... 59
+BIBLIOGRAFIA  .........................................................................................................................  60
+
+7
+APrEsENTAÇÃo
+A palavra “violência” tem uma conotação negativa porque é associada a um ato moralmente re-
+provável, de tal forma que quem comete intencionalmente esse tipo de ato é obrigado a justificá-lo. 
+Essa noção de violência expressa uma posição normativa que não implica necessariamente que todo 
+ato violento seja moralmente reprovável. É o caso da violência por legítima defesa.
+Para caracterizar um ato como “violento”, devem ser preenchidas ao menos as seguintes condi-
+ções: causar dano, usar a força (física ou psíquica), ser intencional ou ir contra a livre e espontânea 
+vontade de quem é objeto do dano.
+A Organização Mundial da Saúde reconhece a violência como um grave problema de saúde públi-
+ca, além de constituir uma violação dos direitos humanos. Como afirma Agudelo (1990, p.1-7), “ela 
+representa um risco maior para a realização do processo vital humano: ameaça a vida, altera a saú-
+de, produz enfermidade e provoca a morte como realidade ou como possibilidade próxima”.
+A violência, além de ser uma questão política, cultural, policial e jurídica, é também, e principal-
+mente, um caso de saúde pública. A violência não é um problema específico da área da saúde. No 
+entanto, ela a afeta, já que muitas vítimas adoecem a partir de situações de violência.
+ Considera-se que a violência é um fenômeno complexo, que envolve fatores sociais, ambientais, 
+culturais, econômicos e políticos. Logo, para compreender e enfrentar essa problemática, devemos 
+analisar um conjunto de fatores, como condições de vida, questões ambientais, trabalho, habitação, 
+educação, lazer e cultura.
+É importante destacar que a violência acontece no mundo todo e atinge pessoas de todas as 
+idades; independe de sexo, raça, religião, nacionalidade, escolaridade, opção sexual ou condição 
+social. No entanto, a violência apresenta-se nas classes menos favorecidas com mais facilidade de-
+vido às condições precárias de sobrevivência. Ela está presente na vida de todas as pessoas, sejam 
+como vítimas sejam como agressores. Reproduz-se nas estruturas e subjetividades em diferentes 
+espaços, como na família, escola, comunidade,  trabalho e  instituições. Ou seja, é um fenômeno 
+socialmente construído, que necessita ser desconstruído, a partir de uma ação intersetorial e mul-
+tidimensional.
+A mortalidade e a morbidade por violência têm aumentado em todo país. Situa-se como a segun-
+da causa de morte em nossa população. Em média, as causas externas provocam 120.000 mortes 
+por ano no Brasil. Diante disso, a violência caracteriza-se como sério problema de Saúde Pública, 
+pois causa forte impacto na saúde da população brasileira. 
+ Segundo estudiosos, essa mudança de perfil denomina-se transição epidemiológica (SOUZA, 
+2007 apud BARRETO; CARMO, 1995; OMRAM, 1971). Em conseqüência, exige do setor de saúde a 
+ampliação dos serviços para assistência em todos os níveis de complexidade, o que afeta os serviços, 
+os custos, a organização e os profissionais da área da saúde, além de exigir intervenção interdiscipli-
+nar, multiprofissional e intersetorial, visando a promoção da saúde e prevenção da violência.
+Com a mudança de perfil epidemiológico nos últimos 20 anos, as violências e os acidentes vêm 
+ultrapassando as doenças degenerativas e infecciosas em taxas de mortalidade e morbidade, já que 
+cada vez mais surgem enfermidades psicossomáticas causadas pelas condições de vida, pelos aci-
+dentes e violências. 
+Embora todas as pessoas possam agredir ou ser agredidas, as maiores vítimas da violência – físi-
+ca, sexual, psicológica ou por negligência – são as crianças, adolescentes, mulheres, pessoas idosas, 
+homossexuais, portadores de alguma deficiência e  de transtorno mental.
+Muitas pessoas que recorrem aos serviços de saúde com queixa de enxaquecas, gastrites, dores 
+difusas e outros problemas vivem situações de violência dentro de suas próprias casas. Sabemos 
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+8
+que a ligação entre a violência e a saúde tem-se tornado cada vez mais evidente, embora a maioria das 
+vítimas não relate que viveu ou vive em situação de violência.
+O efeito também é social, pois afeta o bem-estar, a produtividade, o desenvolvimento pessoal e a 
+auto-estima da vítima.
+O enfrentamento desse fenômeno exige uma convergência de medidas de impacto, que passa por 
+campanhas educativas, visando a ações de prevenção, segurança, melhoria dos registros ambulatoriais, 
+hospitalares e à capacitação de recursos humanos para prevenção e atendimento às vítimas de violência.
+Entre as várias manifestações da violência, a sexual é uma das mais danosas, visto que provoca 
+grandes transtornos físicos e emocionais, como ansiedade, medo, pesadelos, dores no corpo, risco 
+de adquirir DST/AIDS e de gravidez indesejada, além de tornar suas vítimas mais suscetíveis a ou-
+tros tipos de violência, ao abuso de drogas, à prostituição, às disfunções sexuais, à depressão, às 
+doenças psicossomáticas e ao suicídio.
+A principal dificuldade dos profissionais, apontada pela literatura especializada, são alguns proce-
+dimentos específicos, como a notificação dos casos ao sistema legal. Além disso, tem-se notado que 
+nem sempre a família aceita uma interferência na dinâmica familiar, que é fundamental na assistência 
+aos casos de violência doméstica. Assim, deve haver habilidade no manejo dessas situações, colocan-
+do o serviço de saúde como aliado na saúde da vítima.
+Nesse contexto, os profissionais encontram-se diante do desafio de evitar “as formas traumáticas 
+de intervenção”, além de estar sensibilizados e capacitados para identificar e tratar os pacientes que 
+apresentem sintomas que possam estar relacionados ao abuso e à agressão, possibilitando, dessa for-
+ma, um atendimento integral e de qualidade.
+O objetivo deste Manual é orientar e sistematizar as condutas dos profissionais para a identificação 
+dos diversos tipos de violência – física, sexual, psicológica e negligência –, a fim de que o atendimento, 
+a notificação, o encaminhamento, o acompanhamento e a  realização da profilaxia  das doenças resul-
+tantes da  violência  sexual sejam  adequados.
+Ressalte-se que os pacientes deverão ter seguimento em ambulatórios específicos, com acompa-
+nhamento multiprofissional para suas demandas sociais, psicológicas e médicas, proporcionando, 
+assim, sua reestruturação emocional e reintegração social. 
+ 
+A violência é crime! Nenhuma vítima é capaz de se esquecer disso. Mas um atendimento 
+acolhedor, receptivo e, acima de tudo, humano pode ajudá-la a superar. 
+
+TiPos DE VioLÊNCiA
+9
+Violência contra Criança e Adolescente  
+É qualquer conduta – ação ou omissão, agressão ou coerção – ocasionada pelo fato de a vítima ser 
+criança ou adolescente, e que cause dano, constrangimento, limitação, sofrimento físico, sexual, mo-
+ral, psicológico ou social.
+Violência contra a Mulher
+É qualquer conduta – ação ou omissão – de discriminação, agressão ou coerção, ocasionada pelo 
+fato de a vítima ser mulher, e que cause dano, morte, constrangimento, limitação, sofrimento físico, se-
+xual, moral, psicológico, social, político ou econômico ou perda patrimonial. Pode acontecer tanto em 
+espaços públicos como privados.
+Violência contra o Idoso
+É um ato único ou repetido ou, ainda, a omissão que cause dano ou aflição ao idoso, tal como: dis-
+criminação; agressão ou coerção; morte; constrangimento; limitação; sofrimento físico, sexual, moral, 
+psicológico, social ou perda patrimonial. 
+Violência de Gênero
+Violência sofrida pelo fato de ser mulher, sem distinção de raça, classe social, religião, idade ou 
+qualquer outra condição; produto de um sistema social que subordina o sexo feminino.
+Violência Intrafamiliar
+Praticada por membros da família (pai, mãe, filha, filho, marido, sogra, padrasto ou outros), por 
+afinidade (por exemplo, o primo ou tio do marido) ou afetividade (amigo ou amiga que more na mes-
+ma casa ou fora). Geralmente, expressa-se como abuso físico, sexual, psicológico ou como negligên-
+cia ou abandono.
+Violência Física
+Qualquer ação que machuque ou agrida intencionalmente uma pessoa, por meio da força física, 
+arma ou objeto, provocando ou não danos e lesões internas ou externas no corpo.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+10
+Violência Institucional
+Essa violência permeia todas as instituições públicas e privadas; apresenta-se na relação de 
+servidores com o paciente/usuário, podendo se dar de diversas formas: ineficácia e negligência no 
+atendimento, discriminação (de gênero, étnico-racial, econômica etc.), intolerância e falta de escuta, 
+desqualificação do saber do paciente, uso de poder, massificação do atendimento e outros.
+Violência Moral
+Ação destinada a caluniar, difamar ou injuriar a honra ou a reputação da mulher ou do homem.
+Violência Patrimonial
+Ato de violência que implique dano, perda, subtração, destruição ou retenção de objetos, do-
+cumentos pessoais, bens , valores e similares.
+Violência Psicológica
+Ação ou omissão destinada a degradar ou controlar as ações, comportamentos, crenças e deci-
+sões de outra pessoa, por meio de intimidação, manipulação, ameaça direta ou indireta, humilhação, 
+isolamento ou qualquer outra conduta que implique prejuízo à saúde psicológica, à autodetermina-
+ção ou ao desenvolvimento pessoal.
+Violência Sexual
+É toda relação sexual em que a pessoa é obrigada a se submeter, contra a sua vontade, por meio 
+de força física, coerção, sedução, ameaça ou influência psicológica. Essa violência é considerada 
+crime, mesmo quando praticada por um familiar, seja ele pai, marido, namorado ou companheiro. 
+Considera-se também, como violência sexual o fato de o agressor obrigar a vítima a realizar alguns 
+desses atos com terceiros.
+Consta, ainda, no Código Penal Brasileiro que a violência sexual pode ser caracterizada de forma 
+física, psicológica ou com ameaça, compreendendo o estupro, a tentativa de estupro.
+Síndome de Munchausen por Procuração
+Situação em que os pais submetem as crianças a consultas médicas, exames clínicos e/ou cirúr-
+gicos, alegando sintomas físicos, patológicos, fictícios, mediante administração de substâncias à 
+criança. Conseqüência do desequilíbrio emocional dos pais/responsáveis.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+11
+Negligência
+É o abandono, a falta de cuidados básicos e a falta de atenção e proteção.
+É negligência: deixar vacinas em atraso, não levar ao médico, não fazer os tratamentos necessá-
+rios, perder documentos importantes da criança (ex: certidão de nascimento, cartão da criança), a 
+criança não estar matriculada ou não ir à escola, aparência descuidada e suja, falta de supervisão 
+dos responsáveis - crianças pequenas sozinhas em casa ou constantemente fora de casa, em festas 
+populares, em casa de vizinhos, nas ruas, em abandono; acidentes domésticos previsíveis: quedas 
+da cama, berço, janelas, escadas, banheiras; asfixias por objetos pequenos, brinquedos, traves-
+seiros, fios de telefone, saco plástico, pedaços grandes de alimentos, cordão de chupeta e outros; 
+intoxicações por medicamentos, material de limpeza, veneno de rato, cosméticos, bebida alcoólica, 
+dentre outros; queimaduras no forno quente, tomada, ferro de passar, velas, fósforos, panelas, líqui-
+dos quentes, álcool e exposição excessiva ao sol; atropelamentos e afogamentos em piscinas, lagos,  
+praias, banheiras, baldes e vasos sanitários).
+É negligência contra o idoso: negar cuidado e supervisão adequados (especialmente em casos 
+de pessoas com incapacidades físicas ou mentais), deixar o idoso passar fome, não dar as medica-
+ções que necessita, não levar às consultas marcadas, não prover outros cuidados físicos, isolá-lo dos 
+outros, vesti-lo inadequadamente face ao tempo ou às condições ambientais, deixar o idoso sozinho, 
+entre outros.
+Autonegligência: comportamentos de uma pessoa idosa que ameaçam a sua própria saúde ou 
+segurança. A definição de autonegligência envolve situações nas quais uma pessoa idosa mental-
+mente capaz (que compreende as conseqüências das suas ações) toma decisões conscientes e vo-
+luntárias de se envolver em atos que ameaçam a sua saúde ou segurança.
+Assédio Moral
+É a exposição dos trabalhadores a situações humilhantes e constrangedoras, repetitivas e prolon-
+gadas durante a jornada de trabalho e no exercício de suas funções, sendo mais comuns em relações 
+hierárquicas autoritárias e assimétricas em que predominam condutas negativas e interações desu-
+manas de longa duração. Caracteriza-se pela degradação deliberada das condições de trabalho que 
+desestabiliza a relação da vítima com o ambiente e a organização, forçando-a a desistir do emprego. 
+Auto-extermínio/Suicídio 
+Ação pela qual alguém põe intencionalmente termo à própria vida. É um ato exclusivamente hu-
+mano e está presente em todas as culturas. As causas do suicídio são numerosas e complexas.
+ 
+
+DiFErENÇA ENTrE 
+ACiDENTE E VioLÊNCiA
+12
+Segundo a Classificação Internacional de Doenças – CID (OMS, 1985; OMS, 1995), os acidentes 
+e as violências são classificados como causas externas, que englobam agressões (físicas, psicológi-
+cas e sexuais); lesões autoprovocadas; acidentes de trânsito, de trabalho; quedas; envenenamen-
+tos; afogamentos; entre outros acidentes. Apesar de o CID inserir os acidentes e violências no mes-
+mo grupo, é de suma importância esclarecer que o conceito de violência é aquele que causa danos 
+à vida de forma geral, e o conceito formal de acidente é um evento não intencional, que também 
+causa dano físico e emocional. No entanto, os acidentes podem ser evitados com medidas de pre-
+caução, retirando, em alguns casos, seu caráter não intencional. Mas, para chegar a essa conclusão, 
+demanda-se interpretação. 
+
+13
+A violência contra crianças e adolescentes é um 
+fenômeno complexo que   envolve causas socioeco-
+nômicas e histórico-culturais, aliado a pouca visi-
+bilidade, à ilegalidade e à impunidade. Na primeira 
+causa, pode-se destacar a má distribuição de renda, 
+a migração, a pobreza, o acelerado processo de ur-
+banização e a ineficácia das políticas sociais. No que 
+tange aos aspectos histórico-culturais, identifica-se 
+a concepção, ainda vigente, da criança e do adoles-
+cente como objeto de dominação dos adultos, mere-
+cedores de amor desvalorizado, contaminado pela 
+idéia de fraqueza e inferioridade. 
+Essa desvalorização  tem raízes na sua história, 
+pois, antes de 1870, as crianças eram vistas como 
+adultos e a infância não existia; trabalho infantil 
+não era visto como exploração, mas como dever à 
+sociedade e a Deus; além disso, eram julgadas como 
+adultos nos crimes que cometiam. O infanticídio, até 
+o século IX, não era crime, já que as crianças ilegíti-
+mas ou portadoras de alguma deficiência eram joga-
+das de precipícios. 
+No século XIX, a criança começa a ter direito à 
+educação e, somente em 1924, foi realizada a 1ª De-
+claração dos Direitos da Criança. 
+Apesar de algumas conquistas, as crianças e adolescentes ainda são as maiores vítimas da violên-
+cia, seja intra ou extrafamiliar.
+Geralmente, a família é o porto seguro, onde seus integrantes a têm como referência central para 
+si mesmos e nela procuram refúgio sempre que ameaçados. No entanto, há vários casos em que, no 
+núcleo familiar, acontecem situações extremamente dolorosas, que modificam para sempre a vida 
+de um indivíduo, deixando marcas em sua existência.
+Dentre os tipos de violência mais comuns e os fatores que desencadeiam as agressões citamos a 
+negligência fruto do despreparo para maternagem e paternagem e o referencial de falta de cuidados 
+básicos na infância. A violência física muitas vezes é utilizada como instrumento pedagógico. Já o 
+abuso sexual trata-se de uma falta de fronteira entre as gerações, onde predomina o abuso de poder 
+do mais forte e a cultura de coisificação da criança e do adolescente. A violência psicológica refere-se 
+à depreciação, a ameaças e à rejeição do adulto sobre a criança, desenvolvendo nesta um comporta-
+mento destrutivo ou autodestrutivo  devido à desvalorização que sofre. 
+Portanto, observa-se que o adulto – mais forte contra o mais fraco, a criança – é o ponto funda-
+mental nessa relação de violência. Somam-se a isso outras causas, como baixa escolaridade, uso 
+de drogas, alcoolismo e famílias desestruturadas emocionalmente. Enfim, trata-se de um fenômeno 
+multifatorial. 
+Os maus-tratos praticados pelos próprios pais ou responsáveis são extremamente comuns. Exis-
+tem pesquisas que apontam a própria família (pai ou mãe) como o maior índice de agressão: pai, 
+25% dos casos; mãe, 50%; pais, 13%. As pesquisas também apontam que quem revela as violências 
+mÓDuLo i
+VioLÊNCiA CoNTrA CriANÇA E ADoLEsCENTE
+
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+14
+são geralmente, a comunidade ou pessoas autônomas.
+Diante disso, é importante observar a dinâmica familiar, que trata a violência ou a negligência de 
+forma natural, ou mesmo como uma forma de resolução de conflitos. Segundo Newel (1989, apud 
+GUERRA, 2001. p. 38 ), “toda ação que causa dor física numa criança, desde um simples tapa até um 
+espancamento fatal, representa um só continuum de violência...”. É preciso dar limites sem perder o 
+amor!
+As conseqüências da violência contra crianças/adolescentes podem ser devastadoras, e muitos 
+pesquisadores já documentaram conseqüências físicas (variando de pequenas cicatrizes até danos 
+cerebrais permanentes e morte), psicológicas (desde baixa auto-estima até desordens psíquicas se-
+veras), cognitivas (desde deficiência de atenção e distúrbios de aprendizado até distúrbios orgânicos 
+cerebrais severos) e comportamentais (variando da dificuldade de relacionamento com colegas até 
+comportamentos suicidas e criminosos) decorrentes de abusos físicos, psicológicos, sexuais e de 
+negligência.
+Isso significa que todos os níveis de atenção à saúde precisam estar atentos a essa situação e im-
+plantar programas de prevenção e atenção, principalmente para famílias que  vivem em contextos de 
+risco social e pessoal.
+Intervenção e Aspectos Legais
+Considerando que a violência possui causas multifatoriais e necessita de uma  intervenção inter-
+disciplinar para o atendimento resolutivo, o  médico, o assistente social, a enfermagem, o psicólogo, 
+o terapeuta ocupacional, o técnico de enfermagem, o agente comunitário de saúde e outros profis-
+sionais que possuem contato direto com o paciente têm uma importância crucial na identificação, 
+notificação e intervenção das situações de violência dentro de suas especificidades. 
+Trabalhar de forma interdisciplinar possibilita uma discussão sobre os desfechos que a equipe de 
+saúde pretende alcançar, evitando medidas precipitadas, que podem acabar afastando a família.
+Nas situações de violência contra a criança, os profissionais ficam entre os deveres de proteger a 
+criança, de tratá-la clinicamente, de mantê-la junto à família e de melhorar as relações familiares.
+Ressalta-se que a violência, na esfera pública ou privada da família, coloca a criança/adolescente 
+vítima de maus-tratos diante de um verdadeiro pacto de silêncio, do qual fazem parte os pais, os fa-
+miliares, os vizinhos, os profissionais de saúde, educação, justiça e segurança pública.
+O Estatuto da Criança e Adolescente – ECA (Lei Federal nº 8.069/1990) – resgata a cidadania da 
+criança por meio da doutrina da proteção integral. Essa lei tornou obrigatória a notificação de casos 
+suspeitos ou confirmados de maus-tratos contra criança ou adolescente (artigos 13 e 245), e os 
+profissionais de saúde e educação passaram a ter uma razão prática para proceder à notificação: o 
+dever previsto em lei.
+Por meio da notificação, cria-se o elo entre a área da saúde e o sistema legal, delineando-se a for-
+mação da rede multiprofissional e interinstitucional da atuação fundamental nesses casos, permitin-
+do também o dimensionamento epidemiológico da violência. Dessa forma, o profissional de saúde 
+deve priorizar a assistência à criança/adolescente e a sua família e encaminhar para a intervenção 
+intersetorial:  órgãos de proteção, responsabilização e atendimento.
+  
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+15
+1. Indicadores  de Violência contra Criança e Adolescente
+INDICADORES COMPORTAMENTO DA CRIANÇA
+ E DO ADOLESCENTE
+CARACTERÍSTICAS 
+DA FAMÍLIA
+VIOLÊNCIA FÍSICA
+Presença de lesões físicas, como 
+queimaduras, hematomas, feridas 
+e fraturas, que não se adéquam à
+causa alegada. Ocultação de le-
+sões antigas e não explicadas.
+Muito agressivo ou apático; hiperativo 
+ou depressivo; temeroso; tendências 
+autodestrutivas e ao isolamento; baixa
+auto-estima; tristeza; medo dos pais; 
+alega agressão dos pais; relato de cau-
+sas pouco viáveis às lesões; fugas de 
+casa; problema de aprendizado; faltas
+freqüentes à escola.
+Muitas vezes oculta as lesões da
+criança, justifi  cando-as de forma 
+não convincente ou contraditó-
+ria; descreve a criança como má 
+e desobediente; abusa de álcool
+ou drogas; possui expectativas 
+irreais acerca da criança; defen-
+de uma disciplina severa; tem 
+antecedentes de maus-tratos na
+família.
+VIOLÊNCIA SEXUAL
+Infecções urinárias; dor ou incha-
+ço nas áreas genitais ou anais; 
+lesões e sangramento; secreções 
+vaginais ou penianas; doenças 
+sexualmente transmissíveis; difi  -
+culdade de caminhar; baixo con-
+trole dos esfíncteres; enfermida-
+des psicossomáticas.
+Comportamento sexual inadequado 
+para a idade; não confi  a em adultos; 
+fugas de casa; regressão a estado de 
+desenvolvimento anterior; brincadei-
+ras sexuais agressivas; comportamento 
+promíscuo; vergonha excessiva e ale-
+gações de abusos; idéias e tentativa de 
+suicídio; autofl  agelação.
+Oculta freqüentemente o abu-
+so; é muito possessiva, negando 
+à criança contatos sociais nor-
+mais; acusa a criança de promis-
+cuidade, sedução sexual e de ter 
+atividade sexual fora de casa; crê 
+que o contato sexual é forma de
+amor familiar; alega outro agres-
+sor para proteger membro da 
+família.
+VIOLÊNCIA PSICOLÓGICA
+Problemas de saúde, como obesi-
+dade, afecção da pele, distúrbios
+do sono e difi  culdades na fala; 
+comportamentos infantis; enure-
+se noturna.
+Comportamentos extremos de timi-
+dez ou agressividade, destrutividade 
+e autodestrutividade; problemas do 
+sono; isolamento; baixo conceito de si
+próprio; abatimento profundo; triste-
+za; idéia e tentativa de suicídio; inse-
+gurança.
+Tem expectativas irreais sobre a
+criança; rejeita; aterroriza; igno-
+ra; desqualifi  ca; exige em dema-
+sia; corrompe; isola; descreve a 
+criança como má, diferente das 
+demais.
+NEGLIGÊNCIA
+Padrão de crescimento defi  cien-
+te; fadiga constante e pouca 
+atenção; problemas físicos e ne-
+cessidades não atendidas; vesti-
+menta inadequada ao clima.
+Comportamentos extremos de hiper ou
+hipoatividade; contínuas faltas ou atra-
+sos à escola ou ao médico; comporta-
+mentos infantis ou depressivos. Difi  -
+culdade na aprendizagem.
+É apática e passiva, não se im-
+portando muito com a situação
+da criança; tem baixa auto-esti-
+ma e severo desleixo com higie-
+ne; é despreocupada em resol-
+ver as necessidades de atenção
+da criança.
+Fonte: Assis, S. G. Crescer sem violência: um desafio para educadores. Rio de Janeiro: Fiocruz/ENSP/CLAVES, 1994, p. 24.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+16
+1. Acolhimento
+ Tratar a criança/adolescente e a família com respeito e atenção.
+ Conversar primeiro sobre assuntos diversos, podendo contar com apoio de jogos, desenhos,
+  livros e outros recursos.
+ Tratar como gostaria de ser tratado.
+ A criança/adolescente deve ser ouvida sozinha, com respeito e privacidade.
+ Utilizar as mesmas palavras que a criança para identificar as diferentes partes do corpo.
+ Não fazer promessas que você não possa cumprir, nem prometer guardar segredo antes 
+  de saber o que será revelado.
+ Respeitar a singularidade de cada paciente.
+ Propiciar um ambiente adequado para expressão dos sentimentos e fatos ocorridos.
+ Escutar.
+ Dar atendimento humanizado.
+ Demonstrar sempre muita atenção e compreensão.
+ Lembrar sempre que a culpa não é da criança/adolescente.
+ Manter sigilo das informações.
+ Evitar a revitimização.
+ Não emitir juízo de valor.
+ Conduzir para o atendimento médico.
+ Ter conduta profissional frente à demanda do usuário, correspondendo às suas
+  expectativas e necessidades.
+ Deve ser realizado por toda a equipe.
+ 
+1.1. Atendimento à Criança e ao Adolescente
+Proteger a identidade da criança e do adolescente abusados deve ser um compromisso ético-
+profissional.
+Portanto, essa situação deverá ser relatada somente às pessoas que irão tratar da criança/ado-
+lescente. Ou seja, o nome verdadeiro deve ser divulgado para o menor número de pessoas possível.
+A consulta com a criança/adolescente deve ser um momento de privacidade, a fim de favorecer a ex-
+pressão de sentimentos; da situação de violência; sua relação com a família, amigos, escola e outros.
+Ressalta-se que o adolescente tem direito ao sigilo e à confidencialidade das informações. No en-
+tanto, isso deve ser rompido nas situações previstas por lei, como nos casos de violência ou de risco à 
+vida, sendo, portanto, necessária a notificação ao Conselho Tutelar.
+É relevante que o profissional deixe claro para o paciente a sua disponibilidade para escutá-lo, 
+sem fazer julgamentos, favorecendo o vínculo de confiança.
+A família deve ser envolvida no atendimento, para que possa contribuir com o tratamento do pa-
+ciente, além de possibilitar uma melhor relação entre seus membros.
+Em situações de violência é importante:
+ contatar imediatamente a família;
+ observar o relato e a atitude dos pais durante a consulta – que podem ser de aparente preo-
+cupação e de extensiva colaboração com a equipe médica, mas percebe-se uma ausência de 
+angústia quanto à gravidade das lesões, o que não ocorre habitualmente com os pais de crian-
+ças acidentadas;
+ informar, em linguagem apropriada, as graves conseqüências de maus-tratos e abuso sexual 
+para o desenvolvimento da criança/adolescente;
+ explicar claramente que a família poderá beneficiar-se de ajuda mútua;
+ acompanhar os desdobramentos da notificação;
+ se o agressor é alguém da família, não é conveniente informá-lo imediatamente. A criança po-
+derá sofrer riscos ainda maiores. Nesse caso, deve-se entrar em contato, de modo estratégico, 
+com membros não agressores, de preferência com indicação da criança;
+ orientar sobre a importância do tratamento para o agressor, se ele for da família;
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+17
+ refletir estratégias protetoras, pois a família tende a se situar, face ao sofrimento, também 
+como vítima;
+ orientar  a família para evitar  comentários sobre o ocorrido com vizinhos e/ou amigos, pois a 
+exposição gera nova violência à vítima.
+1.2. Devemos Evitar a Revitimização
+Revitimização é a repetição de atos de violência pelo agressor ou a repetição da lembrança de atos de 
+violência sofridos quando o relato do trauma necessita ser repetido para vários profissionais; é uma for-
+ma comum de violência. Isso pode acarretar prejuízo também para a justiça, pois a vítima, por cansaço, 
+pode omitir fatos ou, por considerar que está chamando a atenção, pode aumentar os acontecimentos.
+Outras formas de revitimização é a peregrinação pelos serviços de saúde para receber atendimento 
+ou, quando esse atendimento é sem privacidade, expor a dor e sofrimento diante de terceiros. Essa fal-
+ta de sigilo pode estigmatizar a criança ou o adolescente como “abusada”, agravando o trauma.
+O acompanhamento da vítima por profissional de saúde favorece a interlocução interinstitucional 
+com consolidação da Rede, minimiza a revitimização, favorece o vínculo, contribui para a adesão ao 
+tratamento, entre outros benefícios. 
+Para a não revitimização, é importante evitar:
+  desconsiderar o sentimento da criança/adolescente;
+  falar frases como: “isso não foi nada”, “vai passar”, “não precisa chorar”;
+  excesso de zelo;
+  hostilidade;
+  culpar a criança/adolescente;
+  demonstrar surpresa, choro, horror (sinais de censura ou desaprovação);
+  frases de humor negro.
+Perguntas que devem ser evitadas:
+ As que implicam censura e participação ativa da criança/adolescente.
+ Perguntas diretas (inquisitórias): por quê?
+ Perguntas que obriguem à precisão de tempo para crianças pequenas: quando? É impor-
+tante associar sempre a festas comemorativas, como natal, páscoa, aniversários.
+1.3. Atendimento em Grupo para Adolescentes que Sofreram Violência 
+O atendimento em grupo é uma excelente estratégia para desenvolver habilidades e favorecer a 
+expressão de sentimentos, a socialização de informações, a formação de redes afetivas e 
+superar a situação de violência.
+Segundo Friedrich (1998), apud Padilha e Gomide, devem ser 
+criados mecanismos capazes de recolocar a criança ou o adolescen-
+te em seu caminho normal de desenvolvimento, por meio da aquisi-
+ção de repertório de enfrentamento, com recursos como habilidade 
+de solução de problemas, habilidades sociais e habilidades para 
+expressar sentimentos, a fim de melhorar seqüelas de abuso e seus 
+efeitos.
+Estudiosos afirmam que o tratamento de seqüelas deixadas pela 
+violência, sobretudo a sexual, envolve, por um lado, intervenções 
+para aumentar as habilidades e competências e, por outro, interven-
+ções para desafiar os pensamentos/sentimentos distorcidos.
+
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+18
+Durante o processo terapêutico  deve-se resgatar o projeto de vida ou mesmo elaborar esboço de 
+propostas para o futuro. Outro ponto a focalizar é a busca de sonhos e desejos para realização pessoal.
+ 
+2. Procedimentos
+Em Caso de Violência Física
+ Fazer anamnese e  exame clínico minucioso.
+ Observar se há discrepâncias entre o relato do acontecimento e as lesões que se observam.
+ Encaminhar a criança/adolescente para acompanhamento psicossocial. A Rede de Saúde 
+do DF possui os seguintes serviços de acompanhamento psicológico e social: Programa 
+Violeta – HRAS, Programa Margarida – HRAN, Programa de Prevenção e Atendimento às Ví-
+timas de Violência (PAV) – HRT , COMPP e Adolescentro (atende somente adolescentes).
+ Orientar a família.
+Exemplo:
+Caso 1: O paciente apresenta lesões em ambos os lados do corpo  e/ou com diferentes 
+graus de evolução, e o relatado  é que as lesões foram ocasionadas por uma queda de bici-
+cleta. A lógica indica que,nesse tipo de acidente, observam-se lesões no local sobre o qual o 
+paciente caiu, fundamentalmente nas zonas expostas e nas proeminências ósseas.
+Caso 2: Familiares relatam que a criança ou o adolescente sofre acidentes freqüentes. 
+Nesses casos é importante observar o comportamento da criança/adolescente. Se estão 
+temerosos, assustados, com  dificuldade de relacionamento, aprendizagem   ou  se já houve 
+tentativas de suicídio.
+Conforme Fontes e Lira (2005), é de suma importância  realizar o diagnóstico diferencial 
+entre as lesões infligidas e as lesões decorrentes de traumas acidentais, doenças, infecções, 
+lesões auto-infligidas e manchas naturais. Faz-se necessário, também, diferenciar impetigo 
+de queimadura de cigarro, hematomas e/ou equimoses provocadas por patologias ou man-
+chas congênitas. Além disso, os citados autores apontam os locais mais acometidos nos ca-
+sos de violência, como: 
+Lesões físicas mais freqüentemente observadas são:  
+Fraturas ósseas: Nas situações de violência física envolvendo fraturas, os ossos longos 
+são os mais acometidos, principalmente nas diáfises. São freqüentes as fraturas de coste-
+las ou de clavícula em crianças menores de 2 anos. As fraturas podem ser lineares ou em 
+espiral, depende da direção do impacto. Também podem ser únicas, múltiplas, antigas ou 
+recentes e de idade diferentes.
+Ainda nesse contexto, há sempre que se lembrar de causas de fraturas espontâneas, 
+como as observadas em crianças portadoras de determinadas patologias – a Osteogênese 
+Imperfeita, por exemplo.
+Na pele: escoriações, equimoses, queimaduras;
+É  importante fazer uma avaliação para se saber a idade das lesões a fim de correlacioná-las à 
+suspeita. As equimoses podem ser avaliadas e estadiadas por meio de suas evoluções cromáticas:
+Cor Tempo de evolução
+Negra, vermelha, violácea 1a 3 dias
+Azulada 4 a 6 dias
+Esverdeada 7 a 12 dias
+Amarelada 13 a 21 dias
+Desaparece após 22 dias
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+19
+Dessa forma,  em caso de suspeita de violência é importante encaminhar para o exame de 
+corpo de delito o mais breve possível , antes que  as marcas e/ou vestígios desapareçam.
+Lembre-se que  para fazer o exame de corpo e delito no  IML, antes  deve ser realizada  a noti-
+ficação na Delegacia de Polícia.
+No SNC  – traumatismo craniano;
+As alterações mais freqüentemente observadas são as hemorragias do Sistema Nervoso 
+Central, provocadas por traumatismos e também presentes na síndrome do bebê sacudido, 
+que ocorre sem fratura.
+Nos casos de Traumatismo Crânio Encefálico (TCE), em geral a criança estava bem e chega 
+ao serviço de saúde em coma, com ou sem convulsões.Nesses casos deve-se solicitar Tomo-
+grafia Computadorizada (CT) de crânio.
+Outras Lesões  – alterações freqüentemente observadas;
+Lesões de órgãos intra-abdominais: a lesão predominante é de duodeno, jejuno e rupturas de 
+órgãos maciços, como baço e fígado. O paciente apresenta quadro de abdômen agudo.
+Encaminhar a criança/adolescente, para acompanhamento psicossocial. A Rede de Saúde 
+do DF ,  possui   os seguintes serviços de acompanhamento psicológico e social:  Programa Vio-
+leta – HRAS, Programa Margarida – HRAN, Programa de Prevenção e Atendimento às Vítimas 
+de Violência (PAV) – HRT , COMPP e  Adolescentro (atende somente adolescentes).
+ Notificação 
+ Ao detectar casos de violência (espancamento, fraturas, queimaduras...), deve-se preen-
+cher e dar andamento às 4 (quatro) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Encaminhar a criança, juntamente com a Ficha de Notificação, ao  plantão policial do hos-
+pital, que as encaminhará à Delegacia de Polícia mais próxima ou à Delegacia Especial de 
+Proteção à Criança e ao Adolescente – DPCA. Encaminhar duas vias da Ficha de Notificação 
+ao Serviço Social ou ao Programa de Prevenção e Atendimento  às Vítimas de Violência – 
+PAV para sua intervenção e posterior encaminhamento das Fichas ao Conselho Tutelar e 
+Sistema de Informação da SES/DF .
+Em Caso de Violência Sexual
+ Fazer exame clínico e ginecológico.
+ Nos casos suspeitos de violência sexual contra criança, solicitar uma avaliação do ginecolo-
+gista visando contribuir no diagnóstico de  suspeita.
+ Até 72 horas após a ocorrência da violência sexual, iniciar profilaxia do HIV e de gravidez 
+(quando necessário); iniciar profilaxia da DST e Hepatite B; o profissional de saúde deve 
+encaminhar a criança/adolescente para o Centro de Saúde referência em DST/AIDS mais 
+próximo da residência dela, a fim de adquirir o restante das medicações anti-retrovirais e 
+fazer o acompanhamento.
+ Orientar paciente e familiares.
+ Encaminhar a criança/adolescente para acompanhamento psicossocial. A Rede de 
+Saúde do DF possui  os seguintes serviços de acompanhamento psicológico e social: 
+Programa Violeta – HRAS, Programa Margarida – HRAN, Programa de Prevenção e Aten-
+dimento às Vítimas de Violência   (PAV) – HRT , COMPP e  Adolescentro (atende somente 
+adolescentes).
+Notificação
+ Preencher e dar andamento às 4 (quatro) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Encaminhar  uma via da Ficha de Notificação  junto com a  criança/adolescente ao plantão 
+policial do hospital, que a encaminhará à Delegacia de Polícia mais próxima ou à Delegacia 
+Especial de Proteção à Criança e ao Adolescente – DPCA. Se possível, a criança/adoles-
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+20
+cente deve ser acompanhada pelo Técnico de Enfermagem ou Agente de Serviço Social ou 
+outro profissional disponível. A Delegacia de Polícia encaminhará o paciente para o exame 
+pericial no IML (a comprovação do espermatozóide é feita até 12 horas após o coito anal e 
+até 48 horas após o coito vaginal).
+ Encaminhar duas vias da Ficha de Notificação ao Serviço Social ou ao Programa de Preven-
+ção e Atendimento  às Vítimas de Violência – PAV para  sua intervenção e posterior encami-
+nhamento ao Conselho Tutelar e Sistema de Informação da SES/DF .
+Em Caso de Negligência
+ Fazer exame clínico.
+ Orientar a família.
+ Encaminhar pais / responsáveis a grupo de orientação, quando necessário.
+     
+Notificação
+ Preencher e dar andamento às 4 (quatro) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Somente em casos graves, encaminhar para Delegacia de Polícia.
+ Encaminhar duas vias da Ficha de Notificação ao Serviço Social ou ao  Programa de Preven-
+ção e Atendimento  às Vítimas de Violência – PAV para  sua intervenção e posterior encami-
+nhamento ao Conselho Tutelar e ao  Sistema de Informação da SES/DF .
+Em Caso de Violência Psicológica
+ Orientar a família.
+ Encaminhar a criança/adolescente para acompanhamento psicossocial. A Rede de Saúde do 
+DF  possui  os seguintes serviços de acompanhamento psicológico e social:  Programa Violeta 
+– HRAS, Programa Margarida – HRAN, Programa de Prevenção e Atendimento às Vítimas de 
+Violência (PAV) – HRT , COMPP e  Adolescentro (atende somente adolescentes).
+Notificação
+ Preencher e dar andamento às 4 (quatro) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Somente em casos graves, encaminhar para Delegacia de Polícia.
+ Encaminhar duas vias da Ficha de Notificação ao Serviço Social ou  ao  Programa de Preven-
+ção e Atendimento  às Vítimas de Violência – PAV para  sua intervenção e posterior encami-
+nhamento ao  Conselho Tutelar  e ao Sistema de Informação da SES/DF .
+3. Recomendações
+ Os casos de violência contra a criança/adolescente necessitam de uma intervenção am-
+pliada, com a participação de uma equipe interdisciplinar: assistente social , enfermei-
+ro, médico, psicólogo e outros que atuam no atendimento, pois é necessária uma dis-
+cussão sobre os desfechos que a equipe de saúde pretende alcançar, evitando medidas 
+precipitadas, que podem acabar afastando a família.
+ O Estatuto da Criança e Adolescente – ECA – prevê que os casos suspeitos ou confirma-
+dos de violência contra a criança e o adolescente devem ser notificados ao Conselho Tu-
+telar ou à autoridade competente da localidade.
+ O profissional de saúde deve priorizar a assistência à criança e a sua família e encami-
+nhar  o caso  aos órgãos de proteção, responsabilização e  atendimento/acompanha-
+mento. 
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+21
+FLUXOGRAMA DE ATENDIMENTO A CRIANÇAS E ADOLESCENTES NOS HOSPITAIS
+Nos casos de suspeita de violência física e sexual, encaminhar a Notificação ao Plantão Policial.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+22
+FLUXOGRAMA DE ATENDIMENTO A CRIANÇAS E ADOLESCENTES 
+EM UNIDADES BÁSICAS DE SAÚDE
+Em casos graves de espancamento e/ou violência sexual, notificar a Delegacia de Polícia 
+da área de abrangência do Centro de Saúde ou PSF . No entanto, caso seja uma comunidade de 
+risco, contatar por telefone a emergência de sua Regional para prosseguir no atendimento de 
+saúde e notificar o caso à Delegacia e ao Conselho Tutelar. 
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+23
+PISTAS PARA IDENTIFICAÇÃO DOS VÁRIOS TIPOS DE VIOLÊNCIA
+FÍSICA CONTRA CRIANÇAS E ADOLESCENTES
+
+
+24
+O Secretário-Geral da ONU, Kofi Annan, afirmou, 
+muito bem, “que a violência contra as mulheres causa 
+enorme sofrimento; deixa marcas nas famílias, afetan-
+do as várias gerações; e empobrece as comunidades. 
+Impede que as mulheres realizem as suas potencialida-
+des, limita o crescimento econômico e compromete o 
+desenvolvimento”.
+A violência contra a mulher refere-se a qualquer ato 
+ou conduta baseada no gênero, que cause morte, dano 
+ou sofrimento físico, sexual ou psicológico à mulher, 
+tanto na esfera pública como na esfera privada. Dessa 
+forma, a violência contra as mulheres é uma manifesta-
+ção da relação de poder historicamente desigual entre 
+homens e mulheres.
+Entre todos os tipos de violência existentes contra 
+a mulher no mundo, aquele praticado no ambiente 
+familiar é um dos mais cruéis e perversos. O lar, identi-
+ficado como local acolhedor e de proteção, passa a ser, 
+nesses casos, um ambiente de perigo contínuo, que re-
+sulta em um estado de medo e ansiedade permanentes.
+Envolta no emaranhado de emoções e relações afeti-
+vas, a violência doméstica contra a mulher mantém-se, até hoje, 
+como uma sombra em nossa sociedade.
+No Brasil, quase 2,1 milhões de mulheres são espancadas por 
+ano, sendo 175 mil por mês, 5,8 mil por dia, 4 por minuto e uma a cada 
+15 segundos. Em 70% dos casos, o agressor é uma pessoa com quem ela 
+mantém ou manteve algum vínculo afetivo. As agressões são similares e recorrentes, acontece nas 
+famílias, independente de raça, classe social, idade ou de orientação sexual de seus componentes.
+A violência contra a mulher é um fenômeno complexo, com causas culturais, econômicas e so-
+ciais, aliado a pouca visibilidade, à ilegalidade e à impunidade. A violência doméstica e familiar 
+contra mulheres é a tradução real do poder e da força física masculina e da história de desigualdades 
+culturais entre homens e mulheres que, por meio dos papéis estereotipados, legitimam ou exacer-
+bam a violência.
+A família é uma teia de vínculos e de emoções que se expressa simultaneamente por meio do amor 
+e do ódio. É nesse âmbito que as gerações se defrontam mútua e diretamente e os sexos definem 
+suas diferenças e relações de poder. As funções da família são, basicamente, a social e a de repro-
+dução ideológica. Quer dizer, os valores e crenças de cada pessoa – mulher e homem – são passados 
+para os descendentes e divididos entre todos os membros da família.
+mÓDuLo ii
+VioLÊNCiA CoNTrA A muLHEr
+do as várias gerações; e empobrece as comunidades. 
+Impede que as mulheres realizem as suas potencialida-
+des, limita o crescimento econômico e compromete o 
+A violência contra a mulher refere-se a qualquer ato 
+ou conduta baseada no gênero, que cause morte, dano 
+ou sofrimento físico, sexual ou psicológico à mulher, 
+tanto na esfera pública como na esfera privada. Dessa 
+ção da relação de poder historicamente desigual entre 
+Entre todos os tipos de violência existentes contra 
+nesses casos, um ambiente de perigo contínuo, que re-
+sulta em um estado de medo e ansiedade permanentes.
+Envolta no emaranhado de emoções e relações afeti-
+vas, a violência doméstica contra a mulher mantém-se, até hoje, 
+No Brasil, quase 2,1 milhões de mulheres são espancadas por 
+ano, sendo 175 mil por mês, 5,8 mil por dia, 4 por minuto e uma a cada 
+
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+25
+Durante séculos, a mulher suportou indefesa e em silêncio os abusos do homem. Portanto, em 
+grande parte da história da humanidade a mulher esteve em um papel coadjuvante, ficando sempre 
+à sombra dos interesses do homem. Em Atenas, por exemplo, as mulheres eram responsáveis pelos 
+trabalhos de “dentro de casa”, que consistia em cuidar dos filhos, fazer fiação, tecelagem e outras 
+atividades domésticas. Já os homens eram responsáveis pelo trabalho de “fora de casa”, o que os 
+permitia o contato com a filosofia, a política, as artes, além de terem suas opiniões ouvidas para a 
+construção da política, na sociedade e na solução de problemas.
+Rousseau, que tanto contribuiu para a compreensão do Estado Moderno, defendia que a mulher 
+deveria ser colocada a serviço do homem desde a infância até a idade adulta, isto é, que nunca deve-
+ria ter participação em construções sociais e políticas (PERRUSO, 2005, p.3 ; apud CDH, 2005.)
+No ano de 1789, foi instituída a carta de Declaração dos Direitos do Homem e do Cidadão, como 
+cidadão e sujeito de direitos. E em 1791, Olympe de Gouges, uma mulher revolucionária, escreveu a 
+Declaração dos Direitos da Mulher, na tentativa de incluir a mulher como sujeito de direitos na carta 
+de Declaração dos Direitos do Homem e do Cidadão. Como represália, foi executada na guilhotina em 
+1793.
+Em 8 de março de 1857, 129 mulheres fizeram greve em uma indústria têxtil de Nova York, pois 
+recebiam a metade dos salários dos homens e cumpriam jornadas de trabalho desumanas. Como 
+reparação, foram queimadas vivas. Por isso, foi instituído o 8 de março como Dia Internacional da 
+Mulher.
+Na legislação brasileira não foi diferente, pois no Código Civil de 1916, a mulher era relativamen-
+te capaz, sendo seu responsável um curador, marido ou o pai. Em 1962, foi instituído o Estatuto da 
+Mulher Casada como “colaboradora” na família. Somente em 1988, com a Constituição Federal, a 
+mulher passou a ter as mesmas funções na família, porém isso só foi reafirmado no Código Civil de 
+2002, e entrou em vigor apenas em janeiro de 2003.
+Esse histórico contribui para que a sociedade e a própria mulher acredite que ela é culpada pela 
+violência sofrida apenas pelo fato de ser mulher. Essas atitudes sociais podem ser exercidas também 
+por profissionais da área de saúde, resultando, algumas vezes, no tratamento inadequado ou impró-
+prio quando se trata de uma mulher vítima de violência que busca atendimento médico e psicológico.
+O efeito da violência doméstica e familiar contra a mulher, decorrente de maus-tratos, humilha-
+ções, agressões físicas, sexuais, morais, patrimoniais e psicológicas, é, sem dúvida, devastador para 
+sua auto-estima. Além disso, há o medo vivenciado cotidianamente e o temor aterrorizante causador 
+de insegurança e instabilidade, agravados pelo fato de as vítimas nunca saberem a razão capaz de 
+desencadear nova fúria dos agressores; e a vergonha que passam diante de familiares, vizinhos, ami-
+gos e conhecidos, que provoca ansiedade, depressão, dores crônicas, entre outras enfermidades.
+Os adoecimentos decorrentes da violência são evidenciados pelo aumento da busca pelos servi-
+ços de saúde após a vivência da violência, tanto para o tratamento dos ferimentos atuais quanto para 
+o tratamento das doenças posteriores à violência.
+A violência contra a mulher, praticada por um estranho, difere de um delito praticado por alguém 
+da estreita convivência da vítima, pois a agressão por uma pessoa da convivência da vítima – como o 
+marido ou o companheiro –, dado a proximidade dos envolvidos, tende a acontecer novamente, for-
+mando o ciclo perverso da violência doméstica, que pode acabar em delitos mais graves; enquanto o 
+praticado por estranhos, dificilmente voltará a acontecer. 
+É importante destacar que a mulher, historicamente, vem sofrendo vários tipos de violência, seja 
+na família, pelo marido/companheiro; na sociedade; na violação de seus direitos; na dupla carga de 
+trabalho; na falta de respostas das políticas públicas de saúde de qualidade para acompanhar a ges-
+tação, puerpério, climatério e as situações de violência. Tudo isso contribui para a perpetuação da 
+violência.
+Portanto, faz-se necessário acompanhar, apoiar e empoderar a mulher em suas diferentes fases 
+vitais (infância, adolescência, adulta, velhice), para melhorar sua qualidade de vida e atuar como 
+agente de mudança na escola, em casa e na comunidade, possibilitando a ela novas formas de edu-
+car seus filhos, pautadas em valores de igualdade, de direitos entre os sexos, companheirismo, divi-
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+26
+são das tarefas domésticas, flexibilidade e negociação entre homem e mulher. 
+Essa ação exige informação legal de seus direitos – trabalhistas, leis que a proteja, Casa-Abrigo e 
+direito ao aborto previsto em lei em casos de violência sexual –, mudanças culturais para a igualdade 
+de gêneros e, principalmente, a não aceitação das situações de violência.
+ Apesar da criação de políticas direcionadas à mulher na legislação, estas ainda são insuficientes 
+para proporcionar dignidade nas relações sociais.
+Porém, ressalta-se que a própria mulher possui importância fundamental na mudança de modelo 
+e de comportamento entre os sexos: primeiro por ser a maioria da população brasileira e, também, 
+por ser maioria no processo educativo formal. Além disso, como mãe, tem o poder de mudar o pa-
+drão de comportamento do sexo feminino e masculino, educando seus filhos com  valores de igualda-
+de de direitos entre os sexos.
+Ainda temos muito a realizar, mas são os avanços que nos permitem vislumbrar novas perspecti-
+vas e saber que conquistas são possíveis.
+Indicadores de Violência contra Mulher
+  Transtornos crônicos, vagos e repetitivos.
+  Entrada tardia no pré-natal.
+  Companheiro muito controlador; reage quando separado da mulher.
+  Infecção urinária de repetição (sem causa secundária).
+  Dor pélvica crônica.
+  Síndrome do intestino irritável.
+  Transtornos na sexualidade.
+  Complicações em gestações anteriores, abortos de repetição.
+  Depressão.
+  Ansiedade.
+  Dor crônica em qualquer parte do corpo ou mesmo sem localização precisa.
+  Dor que não tem nome ou lugar.
+  História de tentativa de suicídio.
+  Lesões físicas que não se explicam de forma adequada.
+  Fibromialgia.
+1. Acolhimento
+O atendimento deve ser realizado preferencialmente por uma mulher.
+  Oferecer atendimento humanizado.
+  Tratar a paciente como gostaria de ser tratado.
+  Tratar a usuária com respeito e atenção.
+  Disponibilizar tempo para uma conversa tranqüila.
+  Manter sigilo das informações.
+  Proporcionar privacidade.
+  Notificar o caso.
+  Colocar-se no lugar da paciente.
+  Evitar a revitimização.
+  Não fazer perguntas indiscretas.
+  Não emitir juízo de valor.
+  Afastar culpas.
+  Validar sofrimento.
+  Ter conduta profissional frente à demanda do usuário, correspondendo às suas 
+ expectativas e necessidades.
+
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+27
+Por que o proﬁ  ssional de saúde não pergunta se a 
+mulher sofre ou sofreu violência? 
+ Muitos  profissionais acreditam que a violência doméstica é 
+um problema pessoal e privado e , por isso, eles não têm o direi-
+to de intrometer-se nesse tipo de assunto, já que é um problema 
+social ou legal, mas não um problema de Saúde Pública. Pen-
+sam, também, que as  mulheres gostam de apanhar, senão não 
+ficariam com o agressor.
+As percepções descritas acima são todas equivocadas, o que 
+contribui para a perpetuação da violência contra a mulher, uma 
+vez que o profissional perde a oportunidade de realizar uma 
+ntervenção qualificada.
+PROCEDIMENTOS EM CASO DE SUSPEITA 
+DE VIOLÊNCIA CONTRA A MULHER
+Formas de perguntar indiretamente à mulher
+  Está tudo bem em sua casa ou no seu trabalho?
+  Você acha que os problemas de relacionamento  familiar está  afetando sua saúde?
+  Você se sente humilhada  ou agredida por  algum familiar?
+    Perguntar diretamente
+  A violência física, psicológica ou sexual está presente na vida de muita gente e pode afetar a 
+saúde mesmo depois de muitos anos. Você já sofreu  ou sofre algum tipo de violência?
+Proﬁ  ssional atua no sentido de:
+  evitar julgar a mulher;
+  escutar  calmamente   a história da mulher e suas expectativas em relação à assistência;
+  buscar entender seu problema, a origem de seu sofrimento e as dificuldades que ela tem para 
+sair da dinâmica abusiva;
+  mapear conjuntamente a rede de suporte social que ela já tem ou pode acionar, como seu
+trabalho, amigos, família, recursos materiais. Apontar as possibilidades e reforçar pontos po-
+sitivos;
+  mapear potenciais riscos que a mulher pode correr (presença de armas e ameaças) e avaliar
+junto com a mulher sobre tais riscos, tentativas anteriores e formas de prevenção;
+  partindo das questões trazidas pelas mulheres em atendimento, informar que a violência é 
+uma situação de alta ocorrência, tem caráter social e está associada às desigualdades  de di-
+reitos entre o homem e a mulher;
+  discutir os planos da mulher para a vida dela, buscando encontrar alternativas à situação atual.
+
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+28
+Informar sobre um plano de segurança para a vítima
+  Identifique um ou mais vizinhos para o(s) qual(is) você pode contar sobre a violência, e peça
+para eles ajudarem se ouvirem brigas em sua casa.
+  Se a briga for inevitável, certifique-se de estar em um lugar do qual possa fugir e no qual não
+haja armas.
+  Planeje como fugir de casa em segurança, e o lugar para onde você poderá ir, caso necessário.
+  Deixe em um lugar seguro um pacote com cópias de seus documentos e dos documentos 
+de seus filhos, dinheiro, roupas e cópia da chave de casa, para o caso de ter de fugir rapida-
+mente.
+  Faça um acordo com alguma vizinha(o) em quem possa confiar, e combine um código de 
+comunicação para situações de emergência, como: “Quando eu colocar o pano de prato 
+para fora da janela, chame ajuda” ou “Quando ouvir briga, chame os vizinhos para bater em 
+panelas na frente da casa”.
+  Nunca brigue na cozinha ou em local em que haja armas ou facas.
+Projeto Gênero, Violência e Direitos Humanos – Novas Questões.
+Agendar – 3 a 5 retornos
+O profissional deverá perguntar à mulher qual tipo de contato poderá ser realizado, caso ela falte
+ao retorno (carta, visita, telefonema).
+Em Caso de Violência Sexual
+ Procedimentos
+ Realizar a anamnese (tipo de violência, hora da violência, qual a relação do agressor com  a 
+vítima, se o agressor fez uso de preservativo, número de agressores, última menstruação, 
+uso  de contraceptivo etc.).
+ Fazer exame clínico e ginecológico (só realizar toque vaginal ou anal se houver necessida-
+de emergencial). Nesse caso, há que se coletar provas para o IML, por meio de dois SWABs 
+ou similar, acondicionado em papel filtro estéril e mantido em envelope lacrado em am-
+biente climatizado.
+ Até 72 horas após a ocorrência da violência sexual, iniciar profilaxia das DST/AIDS, Hepa-
+tite B e de gravidez (quando necessário).
+ Orientar a paciente no sentido de comparecer à Delegacia de Polícia para registrar ocor-
+rência e, a partir daí, encaminhá-la para o exame pericial do IML, pois a comprovação do 
+espermatozóide é feita até 12 horas após o coito anal e até 48 horas após o coito vaginal.
+ Se a agressão ocorreu quando a vítima estava indo (ou vindo) para (do) o trabalho, orientar 
+para fazer ocorrência de acidente de trabalho.
+ Fazer orientações  necessárias.
+ Encaminhar para o Centro de Saúde referência em DST/AIDS mais próximo da residência 
+ou trabalho, a fim de adquirir o restante das medicações anti-retrovirais, preservativos e 
+fazer acompanhamento com médico (ginecologista, clínico ou infectologista).
+ Encaminhar, para acompanhamento social e  psicológico.  A   Rede de Saúde do DF possui  
+os  seguintes serviços de atendimento psicossocial:  Programa Violeta – HRAS e Programa 
+Margarida – HRAN.
+Notificação
+ Preencher e dar andamento às 2 (duas) vias da Ficha Única de Notificação.
+ Anexar uma via ao prontuário.
+ Encaminhar a paciente  e uma  via da Ficha ao Serviço Social para intervenção e posterior 
+encaminhamento da Ficha  ao Sistema de Informação da SES/DF .
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+29
+Em Caso de Violência Física
+Procedimentos
+ Fazer exame clínico.
+ Orientar a paciente no sentido de comparecer à Delegacia de Polícia para registrar 
+ocorrência e, a partir daí, ser encaminhada ao exame pericial do IML. Solicitar retorno e 
+encaminhá-la para os Programas de Prevenção e Atendimento aos Acidentes e Violências – 
+PAVs – das Regionais, objetivando fortalecer a paciente para que ela saia da dinâmica abu-
+siva.
+ Encaminhar a paciente  para acompanhamento social e  psicológico. A   Rede de Saúde do 
+DF possui  os  seguintes serviços de atendimento psicossocial:  Programa Violeta – HRAS e  
+Programa Margarida – HRAN.
+ Encaminhar para a Rede Intersetorial – Conselho dos Direitos da Mulher, CREAS,  CRAS e 
+serviço de apoio jurídico. Após a denúncia, a mulher terá direito à Casa-Abrigo e  ao Núcleo 
+de Atendimento às Famílias e Autores de Violência Doméstica.
+Notificação
+ Preencher e dar andamento às 2 (duas) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário e a outra encaminhar ao Serviço Social  ou ao Pro-
+grama de Prevenção e Atendimento às Vítimas de Violência – PAV para sua intervenção e 
+posterior encaminhamento ao Sistema de Informação da SES/DF .
+ 
+Em Caso  de Violência  Psicológica
+Procedimentos
+ Orientar a paciente e familiares.
+ Encaminhar para a Rede Intersetorial – Conselho dos Direitos da Mulher, CREAS, CRAS e 
+serviço de apoio jurídico etc.
+ Encaminhar a mulher  para acompanhamento psicossocial. A Rede de Saúde do DF possui  
+os seguintes serviços de acompanhamento psicológico e social:  Programa Violeta – HRAS, 
+Programa Margarida – HRAN. 
+    
+Notificação
+ Preencher e dar andamento às 2 (duas) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Orientar a mulher a fazer a denúncia na DEAM ou outra  Delegacia de Polícia.
+ Encaminhar uma via  da Ficha de Notificação ao Serviço Social ou  ao  Programa de Preven-
+ção e Atendimento  às Vítimas de Violência – PAV para  sua intervenção e posterior encami-
+nhamento  ao Sistema de Informação da SES/DF .
+  
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+30
+FLUXOGRAMA DE ATENDIMENTO ÀS MULHERES NOS HOSPITAIS
+A mulher perante a lei se representa. Assim, somente ela poderá realizar a denúncia na Delegacia de 
+Polícia. O profissional de saúde realizará a notificação apenas para o Sistema de informação da Saúde –
+SES/DF . No entanto, poderá orientar a mulher a realizar a denúncia em qualquer Delegacia de Polícia.
+FLUXOGRAMA DE ATENDIMENTO, EM UNIDADES BÁSICAS DE SAÚDE, 
+ÀS MULHERES VÍTIMAS DE VIOLÊNCIA 
+A mulher perante a lei se representa. Assim, somente ela poderá realizar a denúncia na Delegacia de 
+Polícia. O profissional de saúde realizará a notificação apenas para o Sistema de informação da Saúde –
+SES/DF . No entanto, poderá orientar a mulher a realizar a denúncia em qualquer Delegacia de Polícia.
+
+mÓDuLo iii
+VioLÊNCiA CoNTrA A PEssoA iDosA
+31
+No Brasil, atualmente, são 19 milhões de idosos 
+e até 2020 essa faixa etária será a maioria da popu-
+lação brasileira.
+Apesar do slogan “terceira idade, melhor idade”, 
+isso não é verdade, pois nossa civilização cultua o 
+novo e o belo, sendo que belo é também novo. Mas 
+esquecem que hoje somos jovens e amanhã sere-
+mos idosos.
+Com o Estatuto do Idoso, no ano de 2003, come-
+ça o processo de visibilidade de sua problemática, 
+a partir da exigência de seus direitos. No entanto, a 
+Lei ainda não foi absorvida pela população. 
+Na atualidade a questão do envelhecimento vem 
+ganhando representatividade, visto o prolongamen-
+to da expectativa de vida da população e o conse-
+qüente crescimento do número de idosos em todo 
+o mundo. No entanto, no Brasil, é reduzido o inves-
+timento em políticas públicas que possibilite uma 
+longevidade com qualidade para essa faixa etária.
+Apesar de muitos indicadores positivos, a maioria 
+das culturas ainda tende a separar, de forma real ou 
+simbólica, o idoso, considerando-o inútil e descartá-
+vel. É na terceira idade que as doenças são mais freqüentes, o que demanda mais cuidados por parte 
+dos familiares e, por falta de manejo,  sobrecarrega seus cuidadores,  que por intolerância, estresse 
+ou falta de vínculo afetivo maltratam esses idosos. É importante buscar alternativas no cuidado,  bem 
+como  na divisão de tarefas entre várias pessoas para não sobrecarregar  o cuidador ou cuidadora.
+Estudos mostram que milhões de idosos no mundo são vítimas diárias de violência decorrente 
+de golpes com objetos, pequenos empurrões, que podem resultar em fraturas, queimaduras e feri-
+mentos.
+Grande parte dessa violência física é cometida por familiares, mas o idoso não denuncia por ver-
+gonha, culpa pelo fracasso das relações familiares,  além do  medo de aumentar as hostilidades ou 
+de perder o “amor” da família. Ocorre também a omissão do acontecimento pela vítima por aceita-
+ção da violência como parte natural das relações familiares.
+Outras formas de violência são a negligência com a saúde, com a alimentação e higiene; a vio-
+lência psicológica; a violência sexual e o abuso  financeiro, pois a vítima é presa fácil pela sua fra-
+gilidade tanto física como emocional.
+O idoso que aparentemente sofre mais violência é, na sua maioria, do sexo feminino, solteira/
+viúva, tem 75 anos ou mais, baixa escolaridade e apresenta alguma doença neurológica, reumática 
+ou psiquiátrica.
+A violência parece revelar ao idoso o sentimento de incapacidade em lidar com os filhos, os ne-
+tos, o(a) companheiro(a) e em enfrentar o mundo que o cerca. Isso o leva a solidão e ao isolamento 
+crescentes. Portanto, as marcas da agressão contra o idoso não são apenas físicas, mas, sobretu-
+do, psicológicas.
+
+
+32
+Fatores de risco para violência contra idoso:
+  quando existe dependência pelo declínio cognitivo, a perda de memória ou dificuldades motoras 
+para realizar atividades do cotidiano;
+  a pobreza: pode levar a falta de cuidados básicos com a alimentação e/ou higiene, pois o idoso 
+pode ficar sozinho em casa porque sua família precisa trabalhar para comprar seus remédios;
+  quando possui auxílio de apenas uma pessoa. Isso acontece porque os familiares não podem ou 
+não querem participar do cuidado;
+  a procura de cuidados médicos constantes;
+  quando há repetidas ausências às consultas agendadas;
+  explicações improváveis sua ou de seus familiares para determinadas lesões e traumas;
+  3 (três) ou mais quedas por ano podem ser indicador de existência de violência.
+1. Acolhimento
+   Oferecer atendimento humanizado.
+   Deve ser realizado por toda a equipe.
+   Tratar o paciente como gostaria de ser tratado.
+   Tratar o usuário com respeito e atenção.
+   Disponibilizar tempo para uma conversa tranqüila.
+   Manter sigilo das informações.
+   Proporcionar privacidade.
+   Notificar o caso.
+   Colocar-se no lugar do paciente.
+   Evitar a revitimização.
+   Não fazer perguntas indiscretas.
+   Não emitir juízo de valor.
+   Afastar culpas.
+   Validar o sofrimento.
+   Ter conduta profissional frente à demanda do usuário, correspondendo às suas 
+expectativas e necessidades.
+Em Caso de Violência Física
+Procedimentos
+ Fazer exame clínico.
+ Realizar  anamnese  (com quem reside, se é dependente de cuidados, se tem vínculo afeti-
+vo com a família etc.).
+ Encaminhar o paciente para acompanhamento social e psicológico. A Rede de Saúde do 
+DF possui os serviços de acompanhamento  psicossocial:  Programa Violeta – HRAS e  Pro-
+grama Margarida – HRAN.
+Notificação
+ Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+ Anexar uma via da Ficha ao prontuário.
+ Encaminhar uma via da Notificação à Delegacia de Polícia.
+ Encaminhar uma via para o Serviço Social ou Programa de Prevenção e Atendimento às 
+Vítimas de Violência – PAV de sua Unidade de Saúde para realizar intervenção e posterior 
+encaminhamento ao Sistema de Informação da SES/DF .
+ Notificar ao CREAS via telefone (3342-1407).
+
+33
+Em Caso de Violência Sexual 
+Procedimentos
+  Realizar a anamnese (tipo de violência, hora da violência, qual a relação do agressor com a 
+vítima, se o agressor fez uso de preservativo, número de agressores etc.).
+  Fazer exame clínico e ginecológico (só realizar toque vaginal ou anal se houver necessida-
+de emergencial. Nesse caso deverá coletar provas para o IML, através de dois SWABs ou 
+similar, acondicionado em papel filtro estéril e mantido em envelope lacrado em ambiente 
+climatizado.
+  Até 72 horas após a ocorrência da violência sexual, iniciar profilaxia das DST/AIDS, Hepatite B.
+  Se a agressão ocorreu quando a vítima estava indo para o trabalho ou vindo, orientar para 
+fazer ocorrência de acidente de trabalho.
+  Fazer orientações  necessárias.
+  Encaminhar para o Centro de Saúde referência em DST/AIDS mais próximo da residência 
+ou trabalho, a fim de adquirir o restante das medicações anti-retrovirais, preservativos e 
+fazer acompanhamento com médico (ginecologista, clínico ou infectologista).
+  Encaminhar para acompanhamento social e  psicológico – A Rede de Saúde do DF possui  
+os   serviços de atendimento psicossocial:  Programa Violeta – HRAS e Programa Margari-
+da – HRAN.
+Notificação
+  Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+  Anexar uma via  ao prontuário.
+  Encaminhar a Notificação e o idoso ao Plantão Policial  ou  à Delegacia de Polícia,  a partir 
+daí o idoso será encaminhado para o exame pericial do IML, pois a comprovação do esper-
+matozóide é feita até 12 horas após o coito anal e até 48 horas após o coito vaginal. Prefe-
+rencialmente ser  acompanhado pelo técnico de enfermagem, auxiliar de Serviço Social ou 
+outro profissional disponível.
+  Encaminhar  uma via  da ficha ao Serviço Social ou ao Programa de Prevenção e Atendi-
+mento  às Vítimas de Violência – PAV para sua intervenção e posterior encaminhamento ao 
+Sistema de Informação da SES/DF .
+  Notificar a violência contra o idoso ao  CREAS via telefone (3342-1407).
+Em Caso de Negligência
+Procedimentos
+  Fazer exame clínico.
+  Realizar  anamnese (com quem reside, se é dependente de cuidados, se tem vínculo afetivo 
+com a família etc.).
+Notificação
+  Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+  Anexar uma via da Ficha ao prontuário.
+  Encaminhar  uma via da Notificação e o  paciente idoso à Delegacia de Polícia (caso neces-
+sário).
+  Encaminhar uma via ao  Serviço Social ou ao Programa de Prevenção e Atendimento às 
+Vítimas de Violência – PAV de sua Unidade de Saúde para intervenção e posterior encami-
+nhamento ao Sistema de Informação da SES/DF .
+   Notificar ao CREAS via telefone (3342-1407).
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+34
+Em Caso  de Violência  Psicológica
+Procedimentos
+  Orientar o paciente e familiares.
+  Encaminhar o paciente para acompanhamento psicossocial. A Rede de Saúde do DF  pos-
+sui  os seguintes serviços de acompanhamento psicológico e social: Programa Violeta – 
+HRAS e Programa Margarida – HRAN. 
+      
+Notiﬁ  cação
+  Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+  Anexar uma via da Ficha ao prontuário.
+  Encaminhar  uma via da Notificação e o  paciente idoso à Delegacia de Polícia (caso neces-
+sário).
+  Encaminhar uma via ao  Serviço Social ou ao Programa de Prevenção e Atendimento às 
+Vítimas de Violência – PAV de sua Unidade de Saúde para intervenção e posterior encami-
+nhamento ao Sistema de Informação da SES/DF .
+  Notificar ao CREAS via telefone (3342-1407).
+Em Caso de Violência Patrimonial
+Procedimentos
+  Realizar anamnese (com quem reside, se é dependente de cuidados, se tem vínculo afetivo 
+com a família, quem controla suas finanças etc.).
+  Observar se a aposentadoria ou fonte de renda do idoso está sendo utilizada indevidamen-
+te por familiares ou cuidadores  (ex.: a falta de uso da medicação, de alimentação ou vestu-
+ário pela falta de recursos financeiros).
+Notificação
+  Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+  Anexar uma via da Ficha ao prontuário.
+  Encaminhar  uma via da Notificação e o  paciente idoso à Delegacia de Polícia (caso neces-
+sário).
+  Encaminhar uma via ao  Serviço Social ou ao Programa de Prevenção e Atendimento às 
+Vítimas de Violência – PAV de sua Unidade de Saúde para intervenção e posterior encami-
+nhamento ao Sistema de Informação da SES/DF .
+  Notificar ao CREAS via telefone (3342-1407).
+  Notificar ao  Ministério Público/PRODIDE.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+35
+FLUXOGRAMA DE ATENDIMENTO AOS IDOSOS NOS HOSPITAIS
+O Estatuto do Idoso, Lei Federal nº 10.741, criado em 1º de outubro de 2003, é destinado a regular os direitos 
+assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. Conforme o artigo 19, “os casos de sus-
+peita ou confirmação de maus-tratos contra o idoso serão obrigatoriamente comunicados pelos profissionais de 
+saúde também a Autoridade Policial.”
+FLUXOGRAMA DE ATENDIMENTO, EM UNIDADES BÁSICAS DE SAÚDE, 
+AOS IDOSOS VÍTIMAS DE VIOLÊNCIA 
+O Estatuto do Idoso, Lei Federal nº 10.741, criado em 1º de outubro de 2003, é destinado a regular os direitos 
+assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. Conforme o artigo 19, “os casos de sus-
+peita ou confirmação de maus-tratos contra o idoso serão obrigatoriamente comunicados pelos profissionais de 
+saúde também a Autoridade Policial.”
+ 
+
+
+ATENDimENTo Às siTuAÇÕEs 
+DE risCo Ao suiCÍDio
+36
+Segundo a OMS, a cada 40 segundos uma pessoa comete suicídio; é a sexta causa de incapacita-
+ção entre 15 a 44 anos e preocupante nos idosos com idade superior a 75 anos.
+Apesar de complexo, pode ser prevenido. É fundamental que profissionais da saúde saibam iden-
+tificar, abordar, manejar e encaminhar uma pessoa com tendência suicida. 
+Por que o profissional de saúde não acredita que aquele que tenta suicídio não quer morrer? 
+O pouco entendimento acerca do suicídio gera concepções distorcidas (crenças) que interferem 
+no atendimento integral e podem levar a conseqüências fatais.
+Destacam-se entre os fatores de risco: 
+  a história de tentativa anterior; 
+  transtornos mentais, principalmente a depressão, alcoolismo e os transtornos mentais severos; 
+  aspectos sociodemográficos  –  desemprego, migração;   
+  fatores ambientais – estressores, acesso aos meios letais, exposição de casos na mídia; 
+  fatores psicológicos – baixa resistência a frustrações, perdas recentes, solidão, impulsividade, 
+agressividade, apatia, ambivalência; 
+  condições clínicas incapacitantes – dor  e doença crônicas, epilepsia, AIDS.
+  ressalte-se  que  a vivência  em  situação de violência também pode ser um fator de risco para 
+tentativa de suicídio.
+A abordagem a situações de risco deve considerar: 
+  local acolhedor e reservado, tempo disponível e escuta efetiva; 
+  expressar empatia com as emoções, mensagens não verbais de aceitação e respeito, calma, 
+não julgamento e buscar estabelecer vínculo. 
+EVITAR interrupções freqüentes, comentários invasivos e perguntas indiscretas, ficar chocado 
+ou muito emocionado.
+Verificar o estado mental atual e 
+pensamento sobre morte e suicídio.
+Você  se sente triste? Quem se preocupa contigo? Sente 
+que a vida vale a pena?
+O plano suicida atual – preparos, 
+como e quando.
+Você tem plano para acabar com sua vida? Tem idéia 
+como fazê-lo? Tem pílula, arma, inseticida ou outros 
+meios? Você decidiu para quando?
+O sistema de apoio social. Família, amigos.
+
+37
+Manejo de situações que envolvam intenção suicida:
+Risco Características Ação Encaminhamentos
+Baixo Pensamentos como “eu 
+não consigo continuar”, 
+“eu gostaria de estar 
+morto”, mas não fez 
+planos do ato.
+Apoio emocional; trabalhar 
+sentimentos suicidas; identificar 
+situações resolvidas pela pessoa sem 
+recorrer ao suicídio.
+Encaminhar p/ profissional 
+de saúde mental  ou outro 
+que saiba manejar.
+Médio Pensamentos e planos, 
+mas não para execução 
+imediata.
+Idem anterior; trabalhe a 
+ambivalência (entre o viver e o 
+morrer); explore alternativas ao 
+suicídio; faça um contrato de 
+não cometer o ato sem que se 
+comunique com a equipe.
+Agende imediatamente 
+consulta com psiquiatra e 
+psicólogo.
+Alto Plano definido, 
+meios para fazê-lo e 
+imediatamente.
+Nunca deixar a pessoa sozinha; 
+gentilmente tente remover as pílulas, 
+faca, arma, enfim, os meios que 
+possam contribuir para o intento.
+Contate com profissional 
+de saúde mental ou médico 
+e providencie ambulância 
+e hospitalização. Informar 
+a família sobre o risco e 
+reafirmar apoio.
+Em Caso de Tentativa e/ou Ideação Suicida de Criança ou Adolescente
+Procedimentos
+ Orientar a família.
+ Encaminhar a criança/adolescente para acompanhamento psicossocial. A Rede de Saúde 
+do DF possui os seguintes serviços de acompanhamento psicológico e social: Programa 
+Violeta – HRAS, Programa Margarida – HRAN, Programa de Prevenção e Atendimento às 
+Vítimas de Violência (PAV) – HRT , Centro de Orientação Médico-Psicopedagógica – COMPP e 
+Adolescentro.
+ Encaminhar ao Centro de Referência Especializado de Assistência Social – CREAS.
+Notificação
+ Preencher e dar andamento às 3 (três) vias da Ficha Única de Notificação.
+ Anexar uma via ao prontuário.
+ Encaminhar duas vias da Ficha de Notificação ao Serviço Social ou ao Programa de Pre-
+venção e Atendimento às Vítimas de Violência – PAV para sua intervenção e posterior enca-
+minhamento ao Conselho Tutelar e ao Sistema de Informação da SES/DF .
+Em Caso de Tentativa Suicida de Adulto
+ Orientar a família.
+ Encaminhar para acompanhamento psiquiátrico ambulatorial nos Centros de Atenção 
+Psicossocial – CAPS com referência para transtorno mental ou Hospital São Vicente de 
+Paulo.
+ Em casos graves encaminhar para Emergência no Hospital de Base do DF ou Hospital São 
+Vicente de Paulo.
+ Encaminhar ao Centro de Referência Especializado de Assistência Social – CREAS.
+Notificação
+ Preencher e dar andamento às 2(duas) vias da Ficha Única de Notificação. 
+ Anexar uma via ao prontuário.
+ Encaminhar uma via da Ficha de Notificação ao Serviço Social ou ao Programa de Preven-
+ção e Atendimento às Vítimas de Violência – PAV para sua intervenção e posterior encami-
+nhamento ao Sistema de Informação da SES/DF .
+ Em caso de idoso, notificar ao CREAS via telefone (3342-1407).
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE DE SAúDE DO DF
+
+Toda emergência deve possuir o kit de profilaxia das 
+doenças resultantes da violência sexual, composto por: 
+anti-retroviral, contracepção de emergência, medica-
+ção para DST e SWAB (será usado para coletar material 
+somente nos casos em que a mulher não tiver condi-
+ções de saúde para ir ao IML).
+1. Atendimento nas Emergências
+  Acolhimento pela enfermeira e encaminhamento 
+para atendimento médico, para realização dos exa-
+mes e profilaxia das doenças resultantes da violên-
+cia sexual (se necessário).
+  Médico: 1) realizar a anamnese (tipo de violência, 
+hora da violência, qual a relação do agressor com a 
+vítima, agressor fez uso de preservativo, número de 
+agressores, última menstruação etc.); 2) prescrever 
+as medicações de acordo com o protocolo e orientar o seu uso, em conjunto com a enfermeira; e 
+3) solicitar TGO, TGP e o TIG (teste imunológico para gravidez), caso seja necessário o uso de anti-
+retrovirais, assim como esclarecer os seus efeitos colaterais, visando melhor adesão. Além disso, 
+o médico deve referendar o paciente para Centro de Saúde referência em DST/AIDS de sua locali-
+dade para continuidade da profilaxia das doenças.
+Ressalte-se que predominantemente as vítimas de violência sexual são do sexo feminino. No entan-
+to, pessoas do sexo masculino podem sofrer esse tipo de violência e devem receber o kit de profilaxia.
+2. Atendimento nos Centros de Saúde Referência em DST/AIDS
+  Paciente deverá ser atendido pelo ginecologista,clínico, pediatra ou infectologista, pela enfermei-
+ra do Programa de DST/AIDS, pela assistente social e psicóloga. As consultas de retorno deverão 
+ser agendadas para 30, 60, 90 e 180 dias.
+  O paciente deverá obter o restante dos anti-retrovirais para 
+completar os 28 dias da profilaxia (conforme receita da emer-
+gência) e preservativos.
+  O profissional deverá encaminhar o paciente ao grupo de adesão 
+se tiver dificuldade de tomar os ARV (anti-retrovirais).
+  Orientar todas as vítimas de violência sexual, até descartar 
+contaminação pelo HIV (6 meses), a realizar os seguintes cui-
+dados:
+– uso regular de preservativos;
+– não engravidar/não amamentar;
+– não fazer doação de sangue;
+– fazer uso das outras doses da vacina para Hepatite B (30 e
+ 180 dias);
+ATENDimENTo Às VÍTimAs 
+DE VioLÊNCiA sEXuAL
+38
+
+– retornar imediatamente se ocorrer atraso menstrual, que pode ser indício de gravidez;
+– manter a mulher bem informada e esclarecer dúvidas a cada consulta.
+3. Atendimento do Médico
+  O paciente deverá ser acompanhado pelo médico (pe-
+diatra, clínico  e/ou ginecologista).
+  Realizar anamnese detalhada do caso, exame físico 
+completo, com descrição detalhada das lesões, inclu-
+sive da genitália e ânus, e hipótese diagnóstica.
+  Solicitar os exames abaixo no primeiro dia da consul-
+ta e programar os seus controles: 
+– Sorologias: VDRL, controle com 45 e 90 dias.
+– Hepatite B e C, controle com 180 dias.
+– Anti-HIV, controle com 90 e 180 dias.
+– Cultura de secreção vaginal e endocervical.
+– Hemograma completo e transaminases após os 
+28 dias de uso dos ARV .
+  Solicitar exames complementares (caso necessário).
+  Prescrever medicações.
+  Ao  detectar  a situação de violência, preencher a Fi-
+cha Única de Notificação.
+  Encaminhar a vítima de violência para o PAV (onde 
+houver) ou Serviço Social.
+  Participar de reunião para estudo de caso.
+4. Atendimento da Enfermagem
+ Acolher o paciente e encaminhar ao consultório médico para 
+ atendimento imediato.
+ Explicar ao paciente todos os procedimentos que irá realizar 
+ com ela/ele, para que não sejam percebidos como agressão.
+ Autorizar a presença de um acompanhante durante o atendi-
+ mento se o paciente concordar.
+ Providenciar medicações profiláticas a serem ministradas 
+ e orientar o uso das doses subseqüentes em casa.
+ Ao detectar a situação de violência, preencher a Ficha Única
+ de Notificação.
+ Orientar para a importância do atendimento social e encami-
+ nhar para Sala da Mulher (onde houver) ou PAV .
+ Encaminhar para o atendimento psicológico.
+ Participar de reunião para estudo de caso.
+Após o atendimento médico e da enfermagem, a vítima de violência sexual deverá ser atendida 
+pelo assistente social e psicólogo.
+39
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE DE SAúDE DO DF
+
+De acordo com o Ministério da Saúde, desde 1948 o aborto não é considerado crime no Brasil 
+quando praticado em casos de estupro ou quando há risco para a vida materna.
+A normatização pelo Ministério da Saúde dos serviços de “Prevenção e Tratamento dos Agravos 
+Resultantes da Violência Sexual contra Mulheres e Adolescentes” através do SUS representa uma 
+iniciativa imprescindível no sentido de garantir os direitos adquiridos pelas mulheres. Essa normati-
+zação veio resgatar a dignidade  das mulheres em face de uma gravidez decorrente de estupro,  onde 
+que poderia deixá-las sujeitas  a  prática clandestina de abortos  malsucedidos ou a uma maternida-
+de que as  condena  à convivência com o fruto  da violência.
+No Distrito Federal, o sistema de Aborto Previsto em Lei foi implantado em 1996 no HRAS. Portan-
+to, caso se constate gravidez decorrente da violência sexual, a paciente será encaminhada ao Progra-
+ma de Assistência ao Aborto Previsto em Lei ou ao Serviço Social ou ao Programa Violeta do HRAS.
+Ressalte-se que a paciente deverá estar até a 20ª semana de gestação.
+A paciente será atendida e acompanhada por uma equipe multidisciplinar composta por: gineco-
+logista, assistente social, enfermeira  e psicóloga.
+ Obstetra: responsável pela primeira fase de análise do Programa de Assistência ao Aborto Le-
+gal, na qual será avaliada a compatibilidade dos dados fornecidos pela paciente (data da últi-
+ma menstruação – DUM, data do estupro) e a idade gestacional, que é avaliada pela ecografia.
+ Se os dados forem compatíveis, o médico desencadeia o processo de aborto legal, assinando o 
+termo de concordância e encaminhando a paciente para as posteriores avaliações.
+ Assistente social: orientar quanto aos trâmites legais exigidos pela instituição (declaração 
+de consentimento para interrupção da gravidez e responsabilidade pelas informações), caso 
+opte pelo aborto previsto em Lei; informar sobre seus direitos sociais e trabalhistas; discutir 
+a opção frente a realizar interrupção da gravidez ou deixar para adoção ou permanecer com 
+o bebê. Caso a mulher decida deixar para adoção a criança fruto da violência, o assistente 
+social deverá iniciar as providências legais junto ao setor de adoção da Vara da Infância e Ju-
+ventude – VIJ, assim que a criança nascer.
+ Enfermeira: acolher a mulher e providenciar os encaminhamentos necessários, conforme o 
+protocolo, auxiliando o médico nas orientações.
+ Psicóloga: identificar o desejo de interrupção ou não da gravidez, os valores morais e religiosos 
+e discutir outras alternativas como: pré-natal,  permanecer com o bebê ou doação do recém-
+nascido. Acompanhamento psicoterápico.
+ProGrAmA DE AssisTÊNCiA 
+Ao ABorTo PrEVisTo Em LEi ‒ HrAs
+40
+
+ATuAÇÃo iNTErDisCiPLiNAr
+Considerando que  a violência  possui causas  
+multifatoriais e necessita de uma intervenção 
+interdisciplinar para um atendimento resoluti-
+vo, o médico, o assistente social, o enfermeiro, 
+o psicólogo, o terapeuta ocupacional, o técnico 
+de enfermagem, o agente comunitário de saúde 
+e outros profissionais que possuem contato 
+direto com o paciente têm uma importância 
+crucial na identificação, notificação e interven-
+ção das situações de violência dentro de suas 
+especificidades.
+Atuação  Médica
+   Realizar anamnese detalhada do caso, exame físico completo, com descrição detalhada 
+das lesões, inclusive genitália e ânus, e hipótese diagnóstica.
+   Avaliação da necessidade de exames complementares: RX, Tomografia (nos casos de 
+comprometimento neurológico).
+   Exame de área específica por especialista.
+   Notificar os casos de suspeita de violência contra criança ou adolescente ou idoso e en-
+caminhá-los ao Plantão Policial do hospital que os conduzirá  à  Delegacia mais próxima 
+da área (notificação feita pelo profissional que detectou o caso). Nos casos de violência 
+contra mulher a partir de 18  anos, orientá-la a fazer a denúncia na Delegacia de Polícia. 
+   Somente após a realização da notificação à Delegacia de Polícia o paciente poderá reali-
+zar o exame de corpo de delito no IML. Recomenda-se que o paciente seja acompanhado 
+ao IML pelo Técnico de Enfermagem ou Auxiliar de Serviço Social ou outro profissional 
+disponível, com a utilização do  transporte da   instituição de saúde.
+   Encaminhar ao Serviço Social ou ao PAV de sua Unidade de Saúde a Ficha de Notificação 
+de suspeita de violência para realização de intervenção e posteriores encaminhamentos 
+legais.
+ 
+   A internação do paciente visa não só ao tratamento das lesões,como também à avaliação 
+psicológica e social do caso e posteriores encaminhamentos.
+   Participar de reuniões para estudo de caso.
+   Realizar prevenção primária e secundária nas reuniões educativas (caso seja PSF e Cen-
+tro  de Saúde).
+   Nos casos de internação de criança ou adolescente, a alta hospitalar fica condicionada à 
+liberação da Vara da Infância e Juventude.
+41
+
+
+Atuação da Equipe de  Enfermagem
+ Observar e anotar características comportamentais suspeitas de criança (medo,agre-
+ssividade,apatia,choro inexplicável e outros). Discutir com a equipe as  intercorrências. 
+Orientar o responsável pela criança.
+ Observar, durante os cuidados de enfermagem, a ocorrência de lesão (tipos,localização), ano-
+tar em prontuário e discutir com a equipe multidisciplinar que estiver acompanhando o caso.
+ Supervisionar com discrição as visitas e acompanhar, se necessário, para evitar hostili-
+dade ao paciente pelo visitante.
+ Orientar  o acompanhante para ser afetivo com o paciente.
+ Explicar ao paciente todos os procedimentos que irá realizar com ele, para que não se-
+jam percebidos como agressão.
+ Providenciar encaminhamento para assistência especializada conforme necessidade 
+(Serviço Social e/ou Saúde Mental).
+ Acompanhar o paciente ao IML, quando solicitado (Técnico de Enfermagem ou Agente 
+Comunitário de Saúde).
+ Em situações emergenciais (final de semana ou noite), notificar  as violações de direitos 
+de crianças /adolescentes e idosos  ao CREAS  via telefone (3342-1407).
+ Participar de  reuniões para estudo de caso.
+Atuação do Serviço Social
+O Serviço Social deverá realizar entrevista para levantamento 
+dos dados de rotina, a fim de possibilitar o conhecimento da 
+complexidade em que a vítima se encontra e promover o apoio 
+psicossocial. Nesse momento, é elaborado o perfil socioeconô-
+mico da vítima e documentação específica sobre o atendimento.
+A intervenção social não ocorre apenas com a vítima, sendo 
+extensiva aos familiares e/ou colaterais, quando necessária.
+Atendimento Social
+ Conhecer a história de violência  vivenciada pelo paciente.
+ Acolher a pessoa vítima de violência e sua família ou respon-
+sáveis em sua dinâmica e complexidade, como eixo central da atenção e como parceria 
+durante o processo de atendimento.
+ Identificar o apoio familiar e/ou da rede de relacionamento do paciente frente ao ocorrido.
+ Verificar a existência de abuso de substância química no espaço doméstico e/ou pessoas 
+que tenham acesso à residência.
+ Possibilitar reflexão crítica sobre a problemática vivenciada, fortalecendo a auto-estima 
+e buscando possibilidades de solução.
+ Identificar a demanda social trazida pelo paciente, decorrente ou não da situação de 
+violência, tais como: direitos trabalhistas, desemprego, relacionamento familiar e/ou 
+conjugal, direitos do usuário com observação do Estatuto da Criança e do Adolescente, 
+da Declaração dos Direitos Humanos e de Cidadania, entre outros.
+   Encaminhar para o atendimento psicológico individual.
+ Informar sobre os recursos de apoio da comunidade, tais como:  Centro de Referência 
+em Assistência  Social – CRAS,  Centro de Referência  Especializado de Assistência So-
+cial – CREAS, Conselho Tutelar, Conselho dos Direitos da Mulher, Fóruns, IML, DEAM  e 
+Delegacias de Polícia.
+ Ao detectar a situação de violência, preencher a Ficha Única de Notificação.
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+42
+
+
+ Reforçar a importância do atendimento médico e psicológico, enfatizando o acompa-
+nhamento integral.
+ Esclarecer ao  paciente/familiares  quanto aos recursos da instituição que contribuem 
+para a continuidade do tratamento: passes urbanos, transporte e medicação, quando 
+necessário.
+ Realizar visita domiciliar para compreender a dinâmica familiar em que a vítima está in-
+serida.
+ Utilizar preferencialmente a técnica genograma, para compreensão da dinâmica fami-
+liar, bem como empregar outras técnicas: o ecomapa, a linha do tempo e outras que per-
+mitam intervir no contexto da vítima.
+ Encaminhar relatório social e a Notificação realizada pelo profissional de saúde ao Con-
+selho Tutelar e à Vara da Infância e Juventude (caso seja menor de idade).
+ Encaminhar para avaliação psiquiátrica a vítima e/ou seus familiares, se necessário.
+ Auxiliar no processo de reorganização da vida após a violência vivenciada.
+ Mapear potenciais de riscos e avaliar junto  com a  família ou  a vítima formas de proteção.
+ Discutir os projetos de vida da família/vítima, buscar  encontrar alternativas para situação atual.
+ Monitorar, em conjunto com a Equipe, os desdobramentos acordados com o sistema de 
+proteção intra e extra familiares.
+ Participar de  reuniões para estudo de caso.
+ Articular a Rede de Proteção, Atenção e Responsabilização para prevenir e atender  às  víti-
+mas de violência, bem como  divulgar a   importância do atendimento médico imediato nas 
+ocorrências de violência sexual (homens ou mulheres)  para prevenir DST/AIDS e gravidez.
+ Capacitação de profissionais sobre a complexidade que envolve o fenômeno violência.
+ 
+Em Caso de Gravidez Decorrente de Estupro
+   Orientar quanto  aos trâmites legais exigidos pela instituição (declaração de consentimento 
+para  interrupção da gravidez e responsabilidade pelas informações),  caso opte pelo aborto 
+previsto em Lei.
+ Discutir a opção frente a realizar interrupção da gravidez ou  deixar para adoção ou perma-
+necer com o bebê.  Caso a mulher decida deixar para adoção a criança fruto da violência, o 
+assistente social  deverá iniciar  as  providências legais junto  ao setor de adoção da Vara da 
+Infância e Juventude – VIJ, assim que a criança nascer.
+Atuação da Psicologia
+ Atendimento Psicológico
+O atendimento psicológico às vítimas de violência deverá ocorrer em diferentes estágios: 
+avaliação psicológica, psicoterapia individual de curta duração e psicoterapia de grupo.
+Avaliação Psicológica
+ Conhecer a história de vida do paciente.
+ Identificar os sentimentos predominantes: medo, angústia, tristeza, culpa, revolta etc.
+ Aplicar testes ou utilizar técnicas psicológicas.
+ Avaliar o grau de desorganização da vida social: impacto da violência vivenciada no tra-
+balho, na escola, nas relações familiares e sociais.
+ Avaliar distúrbios do sono (insônia, pesadelos) e reações psicossomáticas.
+ Avaliar o estado emocional geral no momento.
+ Avaliar a estrutura familiar da criança.
+ Entrevistar os pais e/ou responsáveis.
+ Observar o comportamento da criança.
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+43
+
+ Ao detectar a situação de violência, preencher a Ficha Única de Notificação.
+ Encaminhar para avaliação psiquiátrica, caso necessário.
+ Fornecer atestado psicológico, caso sejam diagnosticados transtor-
+nos decorrentes da violência sexual.
+ Fornecer parecer psicológico.
+ Participar de reuniões de estudo de caso.
+Psicoterapia Individual de Curta Duração
+ Auxiliar no processo de reorganização da vida após a violência vivenciada.
+ Trabalhar a questão da sexualidade.
+ Trabalhar as formas de relacionamento.
+ Trabalhar sentimentos persecutórios ou medos decorrentes da situação de violência vivenciada.
+ Trabalhar conteúdo dos sonhos (em geral, pesadelos recorrentes).
+ Trabalhar repercussões no sentimento frente à figura masculina.
+ Facilitar a recuperação da auto-estima.
+ Encaminhar para avaliação psiquiátrica, caso necessário.
+ Reencaminhar para o Serviço Social se identificar questões objetivas de vida que possam interferir 
+para a melhora do quadro emocional da vítima.
+Psicoterapia de Grupo
+ Facilitar a identificação e expressão de sentimentos decorrentes da situação de violência.
+ Trabalhar a auto-estima das mulheres.
+ Examinar como algumas atitudes e afirmações podem ter cau-
+sado vários problemas e encorajar cuidado especial para preve-
+nir que ocorram novamente.
+ Examinar os vários papéis da mulher, sugerir maneiras para 
+melhorá-los e criar novos, se necessário.
+ Discutir o processo histórico da aceitação da violência e seu lu-
+gar na história de vida da mulher.
+ Trabalhar o conteúdo dos sonhos em grupo.
+ Facilitar o relato de experiências comuns (sexualidade, reper-
+cussões físicas e psicológicas da violência sexual).
+ Promover o sentimento de solidariedade entre mulheres vítimas 
+de violência.
+ Reencaminhar para o Serviço Social se identificar questões obje-
+tivas de vida que possam interferir para a melhora do quadro emocional da vítima.
+Em Caso de Gravidez Decorrente de Estupro
+ Trabalhar sentimentos relacionados à constatação da gravidez fruto da violência sexual (ambivalência, cul-
+pa, rejeição, aprovação).
+ Levantar os princípios morais e religiosos que possam interferir na decisão ou não pela interrupção da gravidez.
+ Identificar e trabalhar as fantasias e mitos quanto à gravidez e ao Aborto Previsto em Lei.
+ Acompanhamento psicológico tanto em casos de interrupção da gravidez quanto frente à opção pela gestação.
+Atuação da Terapia Ocupacional
+Acolher, tratar e recuperar vítimas de violência através de vivência e experimentação de sensa-
+ção e emoções durante o desenvolvimento da atividade, favorecendo o resgate das potencialida-
+des, organização das funções psíquicas e cognitivas; melhorar no desempenho dos papéis ocupa-
+cionais, nas atividades básicas da vida diária e de autocuidado. Ainda contribuir na identificação 
+de sinais de gravidade psicoemocional.
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+44
+
+Atuação  do Agente Comunitário de Saúde 
+ Realizar visita domiciliar  e identificar situações de risco social e pessoal (violência, pobreza, 
+promiscuidade, abandono e outros).
+ Ao detectar a situação de violência, preencher a Ficha Única de Notificação.
+ Reforçar a importância do atendimento médico e psicológico, enfatizando o acompanha-
+mento integral.
+ Encaminhar para Rede de apoio proteção da Comunidade.
+ Encaminhar  para Conselho Tutelar os casos de crianças e adolescentes vitimadas. 
+ Encaminhar  as violações de direito da pessoa idosa para o CREAS (3342-1407).
+ Em caso de violência contra mulher, informar sobre seus  direitos: Lei Maria da Penha, direi-
+tos trabalhistas, direitos de saúde, Aborto Previsto em Lei e outros.
+ Encaminhar para Conselho dos Direitos da Mulher os casos de violência contra mulher e 
+orientá-la a  realizar a denúncia na Delegacia de Polícia. 
+ Distribuir material  informativo/educativo nas visitas domiciliares.
+Intervenções Necessárias nos Casos de Violência
+Terapia para Agressor
+ Conhecer a história de vida do agressor.
+ Identificar sentimentos de culpa, revolta, raiva etc.
+ Avaliar sobre as formas de relacionamento e valores que o influenciam.
+ Avaliar o grau de desordem da vida social.
+ Avaliar desordens e/ou conflito psicossexual.
+ Avaliar sobre consumo/dependência de álcool e outras drogas.
+ Encaminhar para o psiquiatra, caso necessário.
+ Facilitar o relato de experiências de violência vivenciada na infância ou adolescência.
+ Analisar como algumas atitudes e afirmações podem causar problemas, brigas e agressões 
+verbais.
+ Encorajar cuidado especial para prevenir que ocorram novamente atos de agressão.
+ Proporcionar mudanças no comportamento agressivo.
+ Proporcionar mudanças na forma de relacionamento homem/mulher.
+Terapia Familiar
+ Identificar valores sociais e valores familiares com suas interfaces e influências na violência.
+ Promover resiliência familiar em contextos sociais de risco.
+ Identificar problemas e disfunções sexuais do casal.
+ Identificar os fatores geradores de violência intrafamiliar ou extrafamiliar.
+ Identificar as conseqüências psicossociais da violência em cada membro da família.
+ Promover a expressão de sentimentos de cada membro familiar diante da violência sofrida.
+ Gerar a proteção das crianças e adolescentes e o autocuidado.
+ Promover equilíbrio da estrutura familiar.
+Esses procedimentos podem ser realizados por qualquer profissional 
+graduado e  com especialização em abordagem sistêmica familiar.
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+45
+
+imPorTÂNCiA
+DA NoTiFiCAÇÃo  E AsPECTos LEGAis
+46
+Notificação é a comunicação obrigatória de determinadas doenças ou agravos às autoridades 
+competentes de saúde.
+O profissional que identificar algum caso de violência deverá preencher a Ficha de Notificação 
+e encaminhar ao Serviço Social ou ao Programa de Prevenção e Atendimento às Vítimas de Violên-
+cia – PAV da sua Unidade de Saúde, conforme determinam as legislações: Estatuto da Criança e do 
+Adolescente – Lei nº 8.069; Notificação da Violência contra Mulher – Lei nº 10.778; Estatuto do Idoso 
+– Lei Federal nº 10.741.
+A obrigatoriedade da Notificação está assegurada também pelo Conselho Federal de Medicina e 
+por alguns Conselhos Regionais.
+O Parecer nº 815/1997 do Conselho Federal de Medicina descreve: “O médico tem o dever de co-
+municar às autoridades competentes os casos de abuso sexual e maus-tratos, configurando-se como 
+justa causa a revelação do segredo profissional”.
+A Lei nº 12.251, de 9 de fevereiro de 2006, do Conselho Federal de Medicina, dispõe sobre a obri-
+gatoriedade do procedimento de Notificação Compulsória da Violência contra a Mulher, atendida em 
+serviços de urgência e emergência, e a criação da Comissão de Acompanhamento da Violência con-
+tra a Mulher, nas Secretarias de Saúde.
+O Parecer nº 76/1999 do Conselho Regional de Medicina do Rio de Janeiro assim dispõe: “O médi-
+co tem o dever legal de comunicar à autoridade competente casos de maus-tratos e de abuso sexual 
+contra crianças e adolescentes, ainda que haja apenas suspeitas. A comunicação à autoridade com-
+petente não acarreta infração ética por parte do médico, não se configurando, assim, violação do 
+segredo profissional”.
+Lembramos que é por meio da Notificação que se cria o elo entre a área da saúde e o sistema le-
+gal, iniciando-se a formação da rede multiprofissional e interinstitucional de atuação fundamental 
+nesses casos, além de permitir o dimensionamento epidemiológico da violência.
+Diante do exposto, a Rede de Saúde do DF elaborou e implantou a Ficha Única de Notificação de 
+Violências contra criança, adolescente, mulher e idoso.
+Ressalte-se que a Notificação é de suma importância para a proteção integral das vítimas e res-
+ponsabilização, reeducação e tratamento dos autores de agressões, além de proporcionar a visibili-
+dade do fenômeno, subsidiando implantação/implementação de políticas públicas para seu enfren-
+tamento.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+47
+Notiﬁ  cação da Violência contra Criança e Adolescente
+A notificação dos casos de suspeita ou confirmação de maus-tratos/violência sexual con-
+tra criança e adolescente é obrigatória desde 1990 com a aprovação da Lei nº 8.068 (Estatu-
+to da Criança e do Adolescente – ECA).
+O Ministério da Saúde instituiu a Portaria n° 1.968/GM, de 25 de outubro de 2001, esta-
+belecendo que os responsáveis técnicos de todas as entidades de saúde, integrantes ou par-
+ticipantes do SUS, notifiquem aos Conselhos Tutelares da localidade os casos de suspeita ou 
+confirmação de maus-tratos contra crianças e adolescentes atendidos nessas entidades.
+O art. 13 determina que: “Os casos de suspeita ou confirmação de maus-tratos contra 
+criança ou adolescente serão obrigatoriamente comunicados ao Conselho Tutelar da respec-
+tiva localidade, sem prejuízo de outras providências legais”.
+No art. 245, o ECA trata como infração administrativa, sujeita a multa de três a vinte salá-
+rios de referência (aplica-se o dobro em caso de reincidência), a não comunicação, por médi-
+co, professor ou responsável por estabelecimento de atenção à saúde e ensino fundamental, 
+pré-escola ou creche, às autoridades competentes dos casos de suspeita ou confirmação de 
+maus-tratos contra crianças e adolescentes.
+Todos os casos envolvendo criança ou adolescente devem ser notificados ao Conselho 
+Tutelar do local de moradia da vítima. Na falta deste, encaminhar para a Vara da Infância e 
+Juventude.
+Em situações de abuso sexual, violência física grave e negligência severa, notificar ao 
+plantão policial do hospital ou Delegacia de Polícia mais próxima da Unidade de Saúde ou 
+para a Delegacia Especial de Proteção à Criança e ao Adolescente – DPCA, que atualmente 
+funciona em horário comercial.
+Os Centros de Saúde, o Programa Saúde da Família e o Programa de Agente Comunitário de 
+Saúde, dentro das suas especificidades em atenção básica, também devem estar preparados 
+para notificar, atender e monitorar os casos encaminhados pelos demais serviços de saúde.
+Notiﬁ  cação da Violência contra Mulher
+Em 24 de novembro de 2003, por meio da Lei n° 10.778, o Governo Federal “estabelece 
+a notificação compulsória, no território nacional, do caso de violência contra a mulher que 
+for atendida em serviços de saúde públicos ou privados”.
+O § 1° assim dispõe: “Para os efeitos desta Lei, deve-se entender por violência contra a 
+mulher qualquer ação ou conduta, baseada no gênero, que cause morte, dano ou sofrimen-
+to físico, sexual ou psicológico à mulher”.
+Conforme a art 3°, “a notificação compulsória dos casos de violência de que trata esta 
+Lei tem caráter sigiloso, obrigando nesse sentido as autoridades sanitárias que a tenham 
+recebido”.
+“Parágrafo único. A identificação da vítima de violência referida nesta Lei, fora do âmbi-
+to dos serviços de saúde, somente poderá efetivar-se, em caráter excepcional, em caso de 
+risco à comunidade ou à vítima, a juízo da autoridade sanitária e com o conhecimento pré-
+vio da vítima ou do seu responsável”.
+Neste contexto, o profissional deverá preencher a Ficha de Notificação e encaminhar 
+uma via para o Sistema de Informações em Acidentes e Violência, inserido na Vigilância 
+Epidemiológica da SES/DF . A outra via deve ser anexada ao prontuário.
+Ressalte-se o direito de decisão da vítima em não denunciar. Compreendendo seu pro-
+cesso histórico de violência, compete ao profissional de saúde proporcionar espaço de 
+reflexão e viabilizar novos leques de possibilidades que permitam a vítima sair desta dinâ-
+mica abusiva.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+48
+Notiﬁ  cação da Violência contra o Idoso
+O Estatuto do Idoso, Lei Federal n° 10.741, criado em 1º de outubro de 2003, traz no 
+art. 19: “Os casos de suspeita ou confirmação de maus-tratos contra o idoso serão obrigato-
+riamente comunicados pelos profissionais de saúde a quaisquer dos seguintes órgãos:
+I – Autoridade Policial;
+II – Ministério Público;
+III – Conselho Municipal do Idoso;
+IV – Conselho Estadual do Idoso;
+V – Conselho Nacional do Idoso”.
+Considerando a realidade do Distrito Federal, é importante ressaltar a existência do Cen-
+tro de Referência Especializado de Assistência Social – CREAS (3342 1407), da Gerência de 
+Valorização do Idoso – GVI (3905 1348) e da Central Judicial do Idoso (3343 7621). Nesses 
+locais, a Notificação será via telefone. Essas instituições verificam a veracidade da denúncia 
+e realizam os encaminhamentos pertinentes.
+O profissional de saúde, ao se deparar com uma situação de violência contra o idoso, deve 
+encaminhar a Notificação para o órgão competente, de acordo com a gravidade do fato. Os 
+casos graves serão direcionados à Autoridade Policial. Em situação de violência institucional 
+e irregularidades com instituição de idosos, notificar ao Conselho do Idoso do DF . 
+Maus-tratos na família, dirigir à GVI, ao CREAS de sua região ou à Central Judicial do 
+Idoso, responsáveis pelos casos de violação dos direitos do idoso. A Defensoria Pública e o 
+Ministério Público/PRODIDE, são responsáveis para garantir  a viabilização de  direitos cole-
+tivos e individuais  e a defesa dos direitos assegurados ao idoso.
+ 
+ 
+O papel dos profissionais de Saúde e de Educação é prevenir, atender e 
+notificar. Não cabe a esses profissionais investigar a situação de violência!
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+49
+MODELO DA FICHA DE NOTIFICAÇÃO COMPULSÓRIA
+    |    |    |    |    |    |    |    |    |
+Dados da Residência
+CEP
+Bairro
+Complemento (apto., casa, ...)
+    |    |    |    |   -   |    |
+Ponto de Referência
+País (se residente fora do Brasil)
+23
+26
+20
+28 30Zona29
+22 Número
+1 - Urbana             2 - Rural
+3 - Periurbana       9 - Ignorado
+(DDD) Telefone
+27
+Município de Residência Distrito19
+Geo campo 124
+Geo campo 225
+Logradouro (rua, avenida,...)
+18
+21
+Notificação Individual
+Unidade de Saúde (ou outra fonte notificadora)
+Nome do Paciente
+Tipo de Notificação
+Data da Notificação
+Município de Notificação
+Agravo/doença
+1
+3
+5
+6
+2
+8
+2 - Individual
+Dados Gerais
+Nome da mãe16
+11 M - Masculino
+F - Feminino
+I - Ignorado
+Número do Cartão SUS15
+1- 1ºTrimestre     2- 2ºTrimestre      3- 3ºTrimestre
+10 (ou) Idade  Sexo
+4- Idade gestacional Ignorada    5- Não      6- Não se aplica
+9- Ignorado
+Raça/Cor13Gestante12
+14 Escolaridade
+1 - Hora
+2 - Dia
+3 - Mês
+4 - Ano
+0-Analfabeto     1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau)    2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª à 8ª série incompleta do EF (antigo ginásio ou 1º grau)    4-Ensino fundamental completo (antigo ginásio ou 1º grau)     5-Ensino médio incompleto (antigo colegial  ou 2º grau )
+6-Ensino médio completo (antigo colegial  ou 2º grau )   7-Educação superior incompleta     8-Educação superior completa     9-Ignorado   10- Não se aplica
+Código (CID10)
+   Y 09
+UF4
+Código
+Código (IBGE)
+1-Branca     2-Preta      3-Amarela
+4-Parda       5-Indígena    9- Ignorado
+Nº
+VENTVRIS VENTIS
+GOVERNO DO DISTRITO FEDERAL
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE VIGILÂNCIA À SAÚDE
+Data da ocorrência da violência7
+Data de Nascimento9
+UF17 Código (IBGE)
+Código
+Dados Complementares do Caso
+Dados da Pessoa Atendida
+31 Data da investigação 32
+35 Possui algum tipo de deficiência/
+Ocupação
+Definição de caso: Suspeita ou confirmação de violência. Considera-se violência como o uso intencional de força físicaou do poder, real ou em 
+ameaça, contra si próprio, contra outra pessoa, ou contra um grupo ou uma comunidade que resulte ou tenha possibilidade de resultar em lesão, morte, 
+dano psicológico, deficiência de desenvolvimento ou privação (OMS, 2002).
+Atenção: Em casos de suspeita e/ou confirmação de violência contra crianças e adolescentes, a notificação deve ser obrigatória e dirigida aos 
+Conselhos Tutelares e/ou autoridades competentes (Juizado da Infância e Juventude e/ou Ministério Público da localidade), de acordo com o art.13 da 
+Lei nº 8.069/1990 - Estatuto da Criança e do Adolescente. Também são considerados de notificação compulsória todos os casos de violência contra 
+a mulher (Decreto-Lei nº 5.099 de 03/06/2004, Lei nº 10.778/2003) e maus tratos contra a pessoa idosa (artigo 19 da Lei nº 10.741/2003).
+SINAN
+SISTEMA DE INFORMAÇÃO DE AGRAVOS DE NOTIFICAÇÃO
+ FICHA DE NOTIFICAÇÃO / INVESTIGAÇÃO INDIVIDUAL
+VIOLÊNCIA DOMÉSTICA, SEXUAL
+ E/OU OUTRAS VIOLÊNCIAS
+VIOLÊNCIA DOMÉSTICA, SEXUAL
+E/OU OUTRAS VIOLÊNCIAS
+Situação conjugal / Estado civil
+1 - Solteiro 3 -Viúvo
+4 - Separado
+33
+2 - Casado/união consensual
+8 - Não se aplica
+9 - Ignorado
+Relações sexuais
+1 - Só com homens 3 - Com homens e Mulheres
+8 - Não se aplica
+34
+2 - Só com mulheres 9 - Ignorado
+1 - Sim      2 - Não        3 - Ignorado
+36 Se sim, qual tipo de deficiência/transtorno?
+Física
+Mental
+Visual
+Auditiva
+Transtorno mental
+Transtorno de comportamento
+Outras deficiências/
+Bairro40
+Município de ocorrência Distrito39
+Logradouro (rua, avenida,...)
+38
+41
+UF37 Código (IBGE)
+Código
+Complemento (apto., casa, ...)4342 Número Geo campo 344 Geo campo 445
+49 Local de ocorrência
+01 - Residência
+Dados da Ocorrência
+Hora da ocorrência46 48Zona47 1 - Urbana            2 - Rural
+3 - Periurbana      9 - Ignorado
+Ponto de Referência
+(00:00 - 23:59)
+02 - Habitação coletiva
+03 - Escola
+04 - Local de prática esportiva
+05 - Bar ou similar
+06 - Via pública
+07 - Comércio/serviços
+08 - Indústria/construção
+09 - Outro 99 - Ignorado
+Ocorreu outras vezes?50
+1- Sim     2 - Não    9 - Ignorado
+A lesão foi autoprovocada?51
+1- Sim     2 - Não    9 - Ignorado
+Mod. 110.195                                     c.c. 11.000                                                       Formato: 210 x 297                 09/2003                NNP/SUPLAN               N. Prod. Gráfica / SES
+transtorno?
+Síndromes
+1- Sim  2- Não   3- Não se aplica    9- Ignorado
+1- Sim  2- Não   3- Não se aplica    9- Ignorado
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+50
+Violência Sexual
+Física
+Psicológica/Moral
+Tortura
+Sexual
+52 Tipo de violência
+54 Se ocorreu violência sexual, qual o tipo?
+Assedio sexual
+Estupro
+1 - Sim 2 - Não
+56 Procedimento indicado
+Data do encerramento71
+60
+67
+Classificação final do caso70Circunstância da lesão
+Violência Relacionada ao Trabalho?
+69
+68 Se sim, foi emitida a Comunicação de Acidente de Trabalho (CAT)
+8 - Não se aplica
+58 Natureza da lesão (considerar somente o diagnóstico principal)
+01 - Sem lesão
+1 - Sim                 2 - Não                   9 - Ignorado
+Investigador
+Município/Unidade de Saúde Código da Unid. de Saúde(CNES)
+Nome Função Assinatura
+Informações complementares e observações
+Resumo do caso
+Mod.110.195                   V erso
+Tráfico de seres humanos
+Financeira/Econômica
+Negligência/Abandono
+Trabalho infantil
+1- Sim         2- Não          9- ignorado
+Intervenção legal
+Outros
+Enforcamento
+Obj. contundente
+53 Meio de agressão 1- Sim         2- Não          9- ignorado
+Força corporal/
+espancamento
+Envenenamento
+Obj. pérfuro-
+cortante
+Substância/
+Obj. quente
+Outro
+Arma de fogo
+Ameaça
+Pornografia infantil
+Exploração sexual
+Outros
+9 - Ignorado 55 Se ocorreu penetração, qual o tipo?
+1 - Sim 2 - Não 8 - Não se aplica 9 - Ignorado
+Oral Anal Vaginal
+Tipologia da
+violência
+Profilaxia DST
+1 - Sim 2 - Não 8 - Não se aplica
+Profilaxia Hepatite B
+Coleta de sangue
+Coleta de sêmem
+Coleta de secreção vaginal
+9 - Ignorado
+Profilaxia HIV
+Contracepção de emergência
+Aborto previsto em lei
+57 Consequências da ocorrência detectadas no momento da notificação
+Aborto
+1 - Sim 2 - Não 8 - Não se aplica
+DST
+Tentativa de suicídio
+Transtorno mental
+Transtorno comportamental
+9 - Ignorado
+Gravidez
+Estresse pós-traumático
+Outros
+Em caso de 
+ViolênciaLesão
+02 - Contusão
+03 - Corte/perfuração/laceração
+04 - Entorse/ luxação
+05 - Fratura
+06 - Amputação
+07 - Traumatismo dentário
+08 - Traumatismo crânio-encefálico
+09 - Politraumatismo
+10 - Intoxicação
+11 - Queimadura
+12 - Outros 99 - Ignorado
+59 Parate do corpo atingida(considerar somente o diagnóstico principal)
+01 - Cabeça/face
+02 - Pescoço
+03 - Boca/dentes
+04 - Coluna/medula
+05 - Tórax/dorso
+06 - Abdome
+07 - Quadril/pelve
+08 - Membros superiores
+09 - Membros inferiores
+10 - Orgãos genitais/ânus
+11 - Múltiplos órgãos/regiões
+88 - Não se aplica 99 - Ignorado
+Números de
+envolvidos
+1 - Um
+2 - Dois ou mais
+9 - Ignorado
+Padastro
+Madrastra
+61 Vínculo / grau de parentesco com a pessoa atendida? 1- Sim   2- Não   9- ignorado
+Pai
+Mãe
+Cõnjuge
+Ex-Namorado(a)
+Amigos/conhecidos
+Ex-Cônjuge
+Namorado(a)
+Desconhecido
+Pessoa com relação institucional
+Policial/agente de lei
+Cuidador
+Patrão/chefe
+Outros
+63 Suspeita de
+uso de álcool
+1 - Sim
+2 - Não
+9 - Ignorado
+62 Sexo do provável
+autor da agressão
+1 - Masculino
+2 - Feminino
+9 - Ignorado
+9 - Ambos os sexos
+Dados do provável
+autor da agressão
+Evolução do Caso/Encaminhamento no setor saúde
+1 - Alta 3 - Internação hospitalar
+4 - Evasão/Fuga
+64 Se óbito, data65
+2 - Encaminhamento ambulatorial
+5 - Óbito por Violência
+6 - Óbito por outras causas 9 - Ignorado
+Conselho Tutelar(Criança/Adolescente)
+V ara da Infancia/Juventude
+Casa Abrigo
+Programa Sentinela
+66 Encaminhamento da pessoa atendida para outros setores 1- Sim         2- Não          9- ignorado
+Outros
+Delegacia de atendimento à Mulher/DEAM
+Delegacia de Prot. da Criança e do Adolescente
+Outras delegacias
+Ministério Público
+Centro de Referência da Mulher
+Centro de Ref. da Assistência Social/CREAS-CRAS
+Instituto Médico Legal (IML)
+1 - Sim          2 - Não             8 - Não se aplica              9 - Ignorado
+CID 10 - cap XX
+1 - Suspeito/provável
+2 - Confirmado
+3 - Descartado
+9 - Ignorado
+Evolução e encaminhamento
+(DDD) TelefoneFunção/grau de parentescoNome do acompanhante
+TELEFONES ÚTEISDisque-Saúde
+0800 61 1997
+Central de Atendimento à Mulher
+180
+Disque-Denúncia - 
+Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes
+100
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+51
+Procedimentos
+Após o acolhimento da vítima, o profissional 
+de saúde deve preencher a Ficha de Notificação e 
+relatório e encaminhar o caso para as autoridades 
+competentes. O paciente e familiares devem ser 
+engajados nos serviços especializados da rede de 
+atendimento.
+Todos os casos envolvendo criança ou adoles-
+cente devem ser notificados ao Conselho Tutelar 
+do local de moradia da vítima. Na falta deste, en-
+caminhar para a Vara da Infância e Juventude.
+Em situações de abuso sexual, violência física 
+grave e negligência severa, notificar à Delegacia 
+Especial  de Proteção à Criança e ao Adolescente 
+– DPCA, que atualmente funciona em horário co-
+mercial. Nos  demais horários, notificar à Delega-
+cia de Polícia mais próxima da Unidade de Saúde.
+Nos casos de violência contra o idoso, enca-
+minhar para a Delegacia de Polícia mais próxima 
+do Centro de Saúde e para o Centro de Referência 
+Especializado de Assistência Social – CREAS, por 
+meio da central de atendimento: 3342-1407.
+E quando a violência for contra a mulher, o profissional deverá orientá-la a realizar a Notifi-
+cação na Delegacia de Polícia ou DEAM.
+Ressaltamos que existe um diferencial nos casos em que há acompanhamento do pro-
+fissional da saúde – Técnico de Enfermagem, Agente de Serviço Social ou outro profissional 
+disponível –, pois humaniza as relações e amplia o leque de proteção.
+Os Centros de Saúde, o Programa Saúde da Família e o Programa de Agente Comunitário 
+de Saúde, dentro das suas especificidades em atenção básica, devem estar preparados para 
+atender e monitorar os casos encaminhados pelos demais serviços.
+Para possibilitar a Atenção Integral, é importante articular com a Rede de Atenção a fim 
+de viabilizar a inserção da família nos programas de proteção social.
+
+
+rEComENDAÇÕEs imPorTANTEs
+52
+Atuar em Rede
+A complexidade que envolve o fenômeno da violência exige ações da família, sociedade, 
+órgãos governamentais e não-governamentais. Dessa forma, temos que atuar em REDE.
+Rede é uma trama que une pontos (pessoas/instituições) permitindo sustentação. Tam-
+bém são estruturas abertas que podem se expandir, formar novos nós, abrir novas possibi-
+lidades de comunicação e articulação entre as pessoas e as instituições que delas fazem 
+parte, promovendo ações conjuntas que envolvem trocas de informação técnica sobre a 
+violência e formando vínculos e conhecimento das ações de cada serviço da comunidade. A 
+idéia de rede remete aos sentimentos de apoio, suporte e solidariedade necessários para não 
+só compreender, mas também atuar no enfrentamento da violência.
+Dessa forma, a intervenção nos casos de violência deve ser multidisciplinar e interseto-
+rial, com a atuação de várias instituições, como: Educação, Saúde, Assistência Social – CRAS 
+e CREAS, Segurança Pública – Delegacia de Atendimento à Mulher, Delegacia Especial de 
+Proteção à Criança e ao Adolescente e as demais delegacias, Conselho Tutelar, ONGs, Pro-
+motorias, Comissão de Direitos Humanos, Igrejas, sociedade civil – lideranças comunitárias, 
+entre outras.
+Cada instituição tem importância no enfrentamento da violência, seja como atendimento, 
+proteção, prevenção, responsabilização do agressor e discussão de alternativas e união de 
+esforços para enfrentar a violência. Portanto, faz-se necessário integrar as ações entre os 
+órgãos/instituições citados, pois quando surgir um caso você já possui o contato da pessoa/
+instituição para o atendimento específico, assim como, em contrapartida, a instituição tam-
+bém será acionada considerando a importância da atuação de todos nesta problemática.
+Sugestão ao profissional de saúde: Fazer um acervo das instituições existentes em sua comu-
+nidade com os respectivos telefones, horários de funcionamento e  profissionais já articulados.
+
+53
+Informes para Comunidade
+As unidades de saúde devem informar à comunidade, por meio de 
+mural, folder, cartaz ou palestra, que existe nas emergências  medicação 
+para prevenir doenças e gravidez para vítimas de violência sexual e orien-
+tação para “conflitos familiares”, uma vez que a maioria não admite que 
+existe violência em sua família, apenas “desentendimentos”.
+É importante ter um espaço/grupo para que a comunidade possa obter 
+informações sobre os serviços disponíveis na cidade para problemas se-
+melhantes aos seus, refletir sobre suas opções de vida passada e futura e 
+redirecionar caminhos. A Unidade de Saúde é um espaço propício para realizar tais informações.
+ 
+Sentimento do Proﬁ  ssional
+No enfrentamento da violência encontraremos nosso despreparo,  
+tabu,  medos,  desejo de revanche,  impotência na resolução dos ca-
+sos, direito a escolha,  sofrimento,  culpa, vivência da solidariedade, 
+a capacidade de sermos humanos e poder de mudança na vida de 
+quem sofre. Nessa experiência é importante compartilhar decisões,  
+dúvidas,  temores e sentimentos com a equipe multidisciplinar.
+                
+Reﬂ  exões sobre o Atendimento do Proﬁ  ssional de Saúde
+Humanista é o homem que define atitudes concretas diante da vida, fruto da sua reflexão 
+e como conseqüência de uma filosofia que norteia sua existência. Se este homem humanista 
+é médico, enfermeiro, psicólogo, assistente social, técnico de enfermagem, terapeuta ocu-
+pacional ou odontólogo, essas atitudes que envolvem a sua própria vida atingirão as outras 
+vidas, aquelas que ele tem que cuidar, e, portanto, implicarão uma postura concreta diante 
+da vida humana, da doença, da violência, do sofrimento e da dor. 
+A sofisticação  na produção de tecnologias na medicina tem melhorado as possibilidades 
+e perspectivas de diagnósticos. Contudo, cada vez mais, tem-se colocado a questão do fator 
+humano, no sentido de uma preocupação com o perigo da desumanização que pode advir 
+de uma evolução unilateral do conhecimento. Compreende-se  que a saúde se produz com 
+pessoas e entre pessoas, ou seja, é uma relação de sujeitos, com potencialidades, limites, 
+saberes, medos e angústias, e que deve ser humanizada.
+T odo profissional de saúde deve promover tanto a saúde quanto uma relação saudável entre as 
+pessoas, sejam elas crianças, adolescentes, adultos e idosos e a relação destes com meio ambiente.
+Mas o trabalho desses profissionais inclui lidar, cotidianamente, com a dor, medo, morte, frustra-
+ção, limitação e a recuperação, às vezes lenta e difícil. Diante disso, um enorme desgaste emocional, 
+estresse, cansaço e desânimos são gerados e  afetam este profissional no dia-a-dia.
+ Sabemos que não é fácil!
+ Existem limites, sejam eles pessoais ou institucionais impostos ao sistema de saúde públi-
+co e privado, limites impostos até mesmo pela própria violência, que é uma questão de Saúde 
+Pública freqüente e, infelizmente, crescente, já que muitos profissionais de saúde recuam, titu-
+beiam, evitam, negam ou não se disponibilizam para o envolvimento com esta temática.
+Isso torna muitos profissionais meros observadores de uma trajetória que pode trazer graves 
+conseqüências para a vida física, afetiva, psíquica e social deste sujeito.
+Portanto, é um desafio para os profissionais da  saúde proporcionar qualidade de atendimento, 
+promover a saúde e, acima de tudo, notificar os casos de violência por eles atendidos.
+Mas para isso é preciso começar a nos sensibilizar, respeitar e refletir sobre essas questões.
+Vamos nos colocar no lugar do paciente!
+
+
+54
+Meu Atendimento
+Eu posso estar ansioso, com medo, inseguro, 
+envergonhado. Seja solidário comigo, não ignore mi-
+nhas condições de vulnerabilidade. Respeite minhas 
+confidências e intimidade. Peço, ainda, que perceba 
+se estou compreendendo o que você está dizendo.  
+Use palavras simples, explique cada coisa com cui-
+dado, olhe nos meus olhos, me chame pelo nome, 
+ouça-me com atenção, fale comigo, mas eu também 
+preciso falar! Isso fará com que eu tenha mais con-
+fiança, tranqüilidade e segurança ao seguir suas 
+prescrições/instruções.
+Meu Acompanhante
+Algumas vezes meu acompanhante pode ajudar du-
+rante ou após o atendimento. Ele pode compreender 
+coisas que eu deixei passar pelas minhas condições de 
+extrema dor ou sofrimento.
+Não me trate ou a meu acompanhante com menos 
+atenção devido a minha raça, condição social, idade, 
+gênero, preferência sexual, condição social, cultural, 
+educacional ou devido ao motivo da minha consulta. 
+Dê o melhor de si!
+Informações
+Quando acabar meu atendimento, me informe quem deverei procurar ou onde ir, para não 
+ser revitimizado ou correr riscos desnecessários. Se possível, acompanhe-me, pois falar toda 
+a situação novamente me faz reviver o sofrimento. Também cada instituição tem uma lingua-
+gem própria que, muitas vezes, não estou familiarizado. Pode ser indispensável um apoio 
+maior para garantir minha integridade.
+Saiba o fluxo que deve ter a Ficha de Notificação, para me orientar sobre os locais corre-
+tos. E ainda, a importância de preenchê-la, pois essa é mais uma forma de evitar que a violên-
+cia se repita e que eu precise de novos atendimentos.
+Me oriente, me ajude! Seu papel é fundamental!!!
+A prioridade é garantir a vida e o resgate físico e emocional!
+
+
+55
+LOCAIS, NA REDE DE SAÚDE, QUE REALIZAM ACOMPANHAMENTO
+HRT – Hospital Regional 
+de Taguatinga 
+Tel.: (61) 3353-1004
+ADOLESCENTRO 
+(só para adolescentes) 
+End.: Av. L2 Sul Q. 605 
+Centro de Saúde nº 6  
+Tel.: 3242-1447/
+3443-1855
+HRAS – Hospital Regional 
+da Asa Sul 
+Tel.: (61) 3445-7669
+HRC – Hospital Regional
+da Ceilândia
+Tel.: (61) 3371-7550
+(realiza terapia
+ocupacional)
+HRAN – Hospital Regional 
+da Asa Norte –
+Programa Margarida 
+ Tel.: (61) 3325-4249 
+End.: SMHN Área Especial 
+Corredor laranja  Sala 27 – 
+atendimento na 
+quarta-feira  pela manhã.
+COMPP – Centro de 
+Orientação Médico-
+Psicopedagógica 
+End.: SMHN  501 
+Bloco B
+
+56
+TELEFONES ÚTEIS DO DISTRITO FEDERAL
+INSTITUIÇÃO ENDEREÇO TELEFONE HORÁRIO DE 
+FUNCIONAMENTO
+Instituto de Medicina Legal 
+– IML
+Sudoeste, Complexo da Polícia 
+Civil, Bloco E
+3362-5693 24 horas
+Delegacia Especial de 
+Proteção à Criança e ao 
+Adolescente – DPCA
+SAI – Sudoeste, Bloco D, Lote 29 – 
+Complexo da Polícia Civil – prédio 
+da CPE, Parque da Cidade
+3361-1049 
+3362-5941
+8h às 13h /  
+14h30min às 19h
+Conselho Tutelar de Brasília SEPN 515 Norte, Ed. Banco do Brasil, 
+Bloco A, Lote 1, 2º andar
+3905-1349
+3905-1354
+3905-1278
+Horário comercial
+Conselho Tutelar de 
+Brazlândia
+Quadra 24, Lotes 06/07 – Setor 
+Tradicional de Brazlândia
+0800-644 2031 
+3479-4361
+3479-4412
+Fax: 3479 4689
+Horário comercial
+Conselho Tutelar de 
+Ceilândia
+QNN 13, Área Especial, Módulo B, 
+Sala 01 – Centro Cultural
+0800-644 2028
+3905-1358 
+Horário comercial
+Conselho Tutelar do Gama Entrequadra 13/17, Área Especial – 
+Setor Oeste (ao lado da 20ª DP)
+0800-644 2033 
+3905-1361
+3905-1362
+Horário comercial
+Conselho Tutelar do 
+Paranoá
+Quadra 21, Área Especial (ao lado 
+do Centro de Saúde)
+0800-644 2034 
+3905-1363
+3905-1364
+Horário comercial
+Conselho Tutelar de 
+Planaltina
+Área Especial,  Módulo H, nº 06, 
+Sala 11 – CDS de Planaltina
+0800-644 2027 
+3389-6763
+3389-5663
+Fax: 3388-8235
+Horário comercial
+Conselho Tutelar de 
+Samambaia
+QR 301,  Conjunto 04, Lote 01 – 
+Samambaia Sul
+0800-644 2060
+3905-1368
+3905-1369
+Horário comercial
+Conselho Tutelar de Santa 
+Maria
+Área Especial, Lote B, EQ 209/309 – 
+Santa Maria
+0800-644 2032
+3392-1886
+3393-5727
+3393-0572
+Horário comercial
+Conselho Tutelar de 
+Sobradinho
+Quadra 06, Área Especial, n. 03 –
+ prédio do CDS
+0800-644 2026 
+3591-0660
+3487-5301
+Fax: 3387-1559
+Horário comercial
+Conselho Tutelar de 
+Taguatinga
+C 12, Área Especial – Taguatinga 
+Centro
+0800-644 2024 
+3351-7133
+3352-8443
+3562-8532
+Fax: 3352-2812
+Horário comercial
+Vara da Infância e da 
+Juventude
+SGAN 909, Bloco C, Lotes D/E 3348-6600 13h às 19h
+Conselho dos Direitos da
+ Mulher DF
+SRTVS, Q. 701, Bloco I, Ed. Palácio 
+da Imprensa, 5º andar
+3322-2266 9h às 12h / 14h às 
+18h
+Delegacia de Atendimento 
+à Mulher – DEAM
+EQS 204/205 – Asa Sul 3442-3400  
+3244-4583
+24 horas
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+57
+ Atendimento às Vítimas 
+de Violência (criança, 
+adolescente e idoso) – 
+CREAS
+Denúncia via telefone 3342-1407 24 horas
+Central Judicial do Idoso TJDFT,  Bloco B, 
+Entrealas A/B,    3°   andar
+3343-76 21
+ 3343 -7609
+13h às 17h
+Ministério Público 
+–  Promotoria de Justiça 
+de Defesa do Idoso e do 
+Portador de Defi  ciência  
+(Prodide)
+Ed. Sede do MPDFT, Praça 
+Municipal, 1º andar
+3343-9721
+3343-76 21
+ 
+8h às 19h
+Defensoria Pública do DF 
+– Núcleo de Assistência 
+Jurídica  de  Defesa do Idoso
+TJDFT, Bloco B, 1º andar – 
+Ceajur
+3343-7612
+3343-7470
+13h às 19h
+Gerência de Valorização do 
+Idoso – GVI
+SEPN 515, Bloco A, Ed. Banco 
+do Brasil
+3905-1348
+3905-1251
+8h às 17h
+     COSE’s   –  RELAÇÃO DOS CENTROS DE ORIENTAÇÃO SOCIOEDUCATIVA      
+COSE QUANT. NOME E ENDEREÇO TELEFONE COORDENADOR
+DO COSE
+Brasília 01
+COSE VILA PLANALTO
+Acampamento Pacheco 
+Fernandes, Rua dos Engenheiros, 
+Casa 0
+3306-1345 Eliane Gomes Rosa
+Brazlândia 02
+COSE CENTRAL
+Área Especial, n. 1, Lotes K/L –
+Setor Norte
+3479-6176
+Vera Lúcia Leza de 
+Menezes Bonifácio
+8137-0024
+COSE VILA SÃO JOSÉ
+Área Especial II, Quadra 36 3391-5223 Marta Pedro da Rocha
+8417-4537
+Ceilândia 04
+COSE GUARIROBA
+QNN 16, Módulo A – 
+Ceilândia Sul
+3378-2681
+José Isidoro Mascarenhas 
+da Silva
+9983-0426
+COSE P . SUL
+EQNP 12/16, Lotes A e B,
+Área  Especial, Setor P . Sul
+3376-7318 Josildo Soares Freire
+8477-5640
+COSE SUL
+QNM 15, Módulo A, Área 
+Especial – Ceilândia Sul
+3371-2536 Tomé Aguiar Oliveira
+8402-4352
+COSE OESTE
+QNN 15, Módulo A – Ceilândia 
+Norte
+3374-7756
+Lúcia Maria Figueiredo 
+Rocha 
+9162-2263
+Gama 02
+COSE SUL
+Área Especial, Entrequadra 5/11 
+– Setor Sul
+3556-0042 Ascionara Ramalho Alves
+9236-3308 
+COSE OESTE
+Área Especial, Entrequadra 13/17 
+– Setor Oeste
+3556-6712 Osni das Graças Evangelho
+9553-4998
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+58
+Guará 01 COSE GUARÁ I
+QE 01, Área Especial J 3568-2483 Eliane Cavalcanti Caetano 
+da Silva – 8116-9630
+Núcleo 
+Bandeirante 01
+COSE DIVINÉIA
+3ª Avenida, Bloco 1915, Área 
+Especial  
+3386-6467
+Lúcia Helena Maciel da 
+Silva
+8441-8602
+Paranoá 01 COSE CENTRAL
+Quadra 02, Área Especial, S/N 3408-1643 Josélia Soares Afonço
+9824-0920
+Planaltina 01
+COSE CENTRAL
+Área Especial H, Lote 06 3388-4100
+3388 -1167
+Raimundo Nonato de 
+Sousa
+8199-1660
+Recanto das 
+Emas 02
+COSE-GO
+Vargem da Benção – Estrada 
+Parque Taguatinga/Gama, km 03 
+Recanto das Emas
+3434-1031
+3334-1855
+Maria Aparecida Tiveron
+9972-4932
+Sobradinho 01
+COSE CENTRAL
+Quadra 06, Área Especial n. 03, 
+Lotes 06/07
+3591-2603 Carla Andréa Maria Alves
+9112-9949
+Taguatinga 02
+COSE BERNARDO SAYÃO
+QNM 36/38, Área Especial – 
+M. Norte
+3491-2454
+Marisleide Aparecida de 
+Cardoso de Amorim
+9965-6566
+COSE MOUZARD PARADA
+CNL 1, Projeção A, Área Especial 3336-8508
+Claudilene da Silva 
+Olimpio
+8188-0019
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+59
+CREAS
+RELAÇÃO DOS CENTROS DE REFERÊNCIA ESPECIALIZADOS DE ASSISTÊNCIA SOCIAL 
+ORD. CREAS/
+ABRANGÊNCIA
+ENDEREÇO/E-MAIL FONE/FAX COORDENADOR
+01 BRASÍLIA (Cruzeiro, Lago 
+Sul, Lago Norte, Sudoeste/
+Octogonal, Brasília, 
+Núcleo Bandeirante, 
+Candangolândia, Park 
+Way, Guará, Varjão, Jardim 
+Botânico e São Sebastião).
+AV. L2 Sul, QD. 614/615, 
+Lote 04 
+creasbsb@sedest.df.gov.br
+3346-9332 
+3346-1407 
+3245-8131
+3245-8129
+Fax: 3245-8131
+Lauro Regis 
+Nogueira de 
+Marco 
+8151-3033
+02 SODRADINHO (Sobradinho, 
+Sobradinho II, Paranoá, 
+Itapoá e Planaltina).
+QD. 06,  Área Especial 
+nº 03
+creassob@sedest.df.gov.br
+3387-8651 
+3387-2241
+Fax: 3387-1559 
+(Conselho 
+Tutelar)
+Marilise Costa 
+Freire de Oliveira
+9961-1498
+03 TAGUATINGA (SCIA/
+Estrutural, Taguatinga, Águas 
+Claras, Samambaia, Riacho 
+Fundo I e Riacho Fundo II).
+Setor D Sul, Área Especial 
+– Tag. Sul
+creastag@sedest.df.gov.br
+3563-3155 
+FAX: 3351-8129
+Izabel Cristina
+9158-8256
+04
+GAMA (Gama, Santa Maria e 
+Recanto das Emas)
+Área Especial n. 11/13, 
+Setor Central
+iraneidevieira@pop.com.br
+3556-3973
+3484-1257
+3384-4810
+Fax: 3484-1257
+Iraneide Pinho 
+Vieira
+9913-6057
+05
+ESTRUTURAL
+Qd. 03, Conj. B, Lote 06 
+Estrutural
+vaninhacris@superig.com.br
+Vânia Cristina 
+Barbosa Santana
+8491-7707
+06
+PLANAL TINA 
+Quadra 06, Área Especial 
+n. 03 
+crassob@sedest.df.gov.br
+3389-1664
+Ramal:  21
+3389-8996
+Silvia Antonia 
+Coleto de Assis
+8119-6470
+07 CEILÂNDIA (Ceilândia e 
+Brazlândia) QNM 16, Área Especial,  
+Módulo A – Ceilândia 
+Norte
+/f_l  aviowilson@gmail.com
+3581-2260
+Fax: 3373-9854 
+Flávio  Wilson 
+Campos de 
+Carvalho
+8165-3301
+
+BiBLioGrAFiA
+60
+AGUDELO, S. F ., La Violencia: un problema de salud pública que se agrava en la región. Boletin Epideniolo-
+gico e la OPS, 11: 01-07, 1990.
+BELDA JUNIOR, Walter. Doenças sexualmente transmissíveis. São Paulo. 2000.
+BRASIL. Ministério da Saúde. Impactos da violência na saúde. Unidade 1. Brasília, DF , 2007.
+BRASIL. Ministério da Saúde. Norma técnica de prevenção e tratamento dos agravos resultantes da violência 
+sexual contra mulheres e adolescentes. Brasília, DF , 2005.
+BRASIL. Ministério da Saúde. Prevenção do suicídio. Manual dirigido a profissionais das equipes de saúde 
+mental. UNICAMP , SP . Disponível em: <http://bvsms.saude.gov.br/bvs/publicacoes/manual_editoracao.
+pdf>. Acesso em: 05 set. 2008.
+BRASIL. Ministério da Saúde. Violência intrafamiliar. Brasília, DF , 2002.
+DESLANDES, S. F . Prevenir a violência: um desafio para profissionais de saúde. Rio de Janeiro: Fiocruz 
+1994.
+FONTES , M. Eneida; LIRA, Lima Fernandes M. Mércia. Violência física contra a criança e o adolescente. Cole-
+tânea de artigos enfrentando a violência na Rede Pública de Saúde do DF . Brasília, 2005.
+GUERRA, V .N. de A. Violência de pais contra filhos: a tragédia revisitada. 2. ed. São Paulo: Cortez, 2001.
+SANTOS, Benedito Rodrigues dos et al. Rita Ippolito (coordenação técnica). Guia Escolar: Métodos para 
+Identificação de Sinais de Abuso e Exploração Sexual de Crianças e Adolescentes. 2 ed. rev. e atual. Brasí-
+lia: Secretaria de Direitos Humanos e Ministério da Educação, 2004.
+Information Kit for your community action compaing. Virginia Coalition for Chil Abuse Prevention Mon-
+th,1996, USA.
+Lei nº 8.068/1990 – Estatuto da Criança e do Adolescente (ECA).
+Lei nº 10.778, de 24 de novembro de 2003 – Violência contra a mulher.
+Lei Federal nº 10.741 – Estatuto do Idoso, criado em 1º de outubro de 2003.
+LIMA, C. A. (Org). Curso impacto da violência na saúde. Unidade III. EAD/ENSP . Rio de Janeiro. 2007.
+MINAYO, S. Maria Cecília. Violência social sob a perspectiva da saúde pública. Artigo em meio eletrônico Cad. 
+Saúde Pública, Rio de Janeiro, v. 10, suppl. 1, p. 4, 1994. Disponível em: <http://www.scielosp.org/ scie-
+lo. php>. Acesso em: 29 ago. 2007.
+Orientação para profissionais de saúde no atendimento à criança e ao adolescente vítimas de maus-tratos. Brasí-
+lia : Secretaria de Estado de Saúde do Distrito Federal,1999.
+PADILHA, M. G. S; GOMIDE, P . I. C. Estudos de Psicologia. v. 9, Natal, Jan/Abr, 2004.
+PASSOS, M. R. L. Doenças sexualmente transmissíveis. Rio de Janeiro.
+PERRUSO, C. A.; OLIVEIRA, Fernanda Fernandes de; JUBILUT , Liliana Lyra; ZYLBERSZTAJN, J. Gênero e 
+Direitos Humanos. Centro de Direitos Humanos – CDH.2005.
+Portaria nº 1145/GM, de 7 de julho de 2005. Diário Oficial da União nº 130, de 8 de julho de 2005, Seção1, 
+página 31.
+Portaria do Ministério da Saúde nº 1.968/GM, de 25 de outubro de 2001.
+Schraiber, L. B. apud D`Oliveira A. F . P . L. Projeto Gênero, Violência e Direitos Humanos – Novas Questões para 
+o Campo da Saúde. Website: www.mulheres.org.br
+SOUZA, E. R. de (Org.). Curso impactos da violência na saúde. Unidade I. EAD/ENSP , Rio de Janeiro, 2007.
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+61
+Rotina de Atendimento da Equipe Multiproﬁ  ssional nos Casos de Violência contra a Criança e o Adolescente
+Rotina de Atendimento à Criança e ao 
+Adolescente Vítima de Violência.
+Atender com equipe interdisciplinar, se 
+necessário.
+Notifi  car aos Conselhos Tutelares da locali-
+dade todos os casos de suspeita ou confi  rma-
+ção de maus-tratos contra crianças e adoles-
+centes, conforme Portaria nº 1.968/GM, de 26 
+de outubro de 2001.
+Setores Envolvidos: Emergência, Clínica, Ambulatório, Serviço Social, Direção da Unidade, PSF, PACS, Pro-
+grama de Prevenção e  Atendimento às Vítimas de Violência – PAV, Polícia Civil e Militar, Odontologia e Saúde 
+Mental.
+TIPO DE VIOLÊNCIA QUEM ATENDE PROCEDIMENTOS 
+Negligência
+Falta de cuidados básicos com a criança e 
+o adolescente: vestuário, saúde, educação, 
+afeto e  acidentes previsíveis. Exemplos: 
+alimentação inadequada, ingestão de me-
+dicação, material de limpeza, soda cáustica 
+e outros.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Odontólogo
+Agente Comunitário 
+de Saúde
+Nutricionista
+-Atendimento.
+- Anotar no prontuário características e comportamentos da criança/adolescente.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social ou PAV.
+- Encaminhar a Ficha de Notifi  cação  e relatório social ao Conselho Tutelar  da cidade de moradia do paciente.
+- Atender a família para apoio e orientações.
+- Realizar visita domiciliar ou solicitar ao Conselho Tutelar.
+- Encaminhar a família ao Grupo de Orientação aos Pais.
+- Engajar a família nos recursos da comunidade (CRAS, entidades religiosas etc.).
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+Violência Estrutural
+Difi  culdades econômicas dos responsáveis 
+em suprir as necessidades básicas da crian-
+ça ou adolescente. Exemplo: desemprego, 
+fome e miséria.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário 
+de Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos da criança/adolescente.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social ou PAV.
+- Atender a família para apoio e orientações, buscando alternativas para melhoria das condições de vida.
+- Encaminhar para recursos da comunidade  (CRAS, Programas de Governo, cursos profi  ssionalizantes, agên-
+cias de emprego, entre outros).
+- Encaminhar à Nutrição.
+Violência Física
+Espancamento, asfi  xia, ferimentos provoca-
+dos e queimaduras.
+Médico
+Assistente Social
+Psicólogo
+Agente Comunitário 
+de Saúde
+Enfermeiro
+Aux de Enfermagem
+- Atendimento.
+- Anotar no prontuário características e comportamentos da criança/adolescente.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social ou PAV.
+- Registrar ocorrência no plantão policial do hospital, que fará o registro na DPCA ou Delegacia da área.
+- Encaminhar o paciente  ao PAV ou Serviço Social.
+- Encaminhar a criança/adolescente para equipe de saúde mental (Programa Violeta – HRAS, Margarida  – 
+HRAN, PAV – HRT, COMPP , Adolescentro).
+- Atender a família para apoio e orientações.
+- Realizar visita domiciliar ou solicitar ao Conselho Tutelar.
+- Encaminhar a família à equipe de Saúde Mental da Regional, quando necessário.
+- Encaminhar a família ao Grupo de Orientação aos Pais.
+- Encaminhar a família para os recursos da comunidade – Rede de Proteção Social (CRAS).
+- Encaminhar os pais para: Programa Violeta – HRAS, Margarida – HRAN, PAV – HRT, CAPS – AD Guará ou Sobra-
+dinho II e AA.
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Promover prevenção primária ou secundária em reuniões educativas.
+
+62
+Violência Psicológica
+Depreciação, discriminação, rejeição e 
+outros.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Enfermeiro
+Aux. de Enfermagem
+Odontólogo
+Agente Comunitário 
+de Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos da criança/adolescente.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social ou PAV.
+- Encaminhar ao PAV ou Serviço Social.
+- Encaminhar a criança/adolescente para equipe de saúde mental (Programa Violeta – HRAS, Margarida  – 
+HRAN, PAV – HRT, COMPP , Adolescentro) .
+- Encaminhar a família à equipe de Saúde Mental da Regional, quando necessário.
+- Encaminhar a família ao Grupo de Orientação aos Pais. 
+-Encaminhar a fi  cha da notifi  cação ao Conselho Tutelar.
+- Promover prevenção primária ou secundária em reuniões educativas.
+Violência Sexual
+Manipulação da genitália, mamas, ânus, ato 
+sexual com ou sem penetração, com ou sem 
+violência, atos libidinosos.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário 
+de Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos da criança.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social ou PAV.
+- Registrar ocorrência no plantão policial do hospital, que fará o registro na DPCA ou Delegacia da área.
+- Encaminhar o paciente, quando necessário, para receber kit de profi  laxia, disponível nos PS (profi  laxia das DST/
+AIDS, Hepatite B e  gravidez).
+- Encaminhar ao PAV ou Serviço Social.
+- Encaminhar a criança/adolescente para equipe de saúde mental (Programa Violeta – HRAS, Margarida  – 
+HRAN, PAV – HRT, COMPP ,  Adolescentro).
+- Atender a família para apoio e orientações, com ênfase nas estratégias de Proteção à Vítima.
+- Realizar visita domiciliar ou solicitar ao Conselho Tutelar.
+- Encaminhar a família ao Grupo de Orientação aos Pais.
+- Encaminhar a vítima e a  família à equipe de Saúde Mental da Regional.
+- Locais que realizam atendimento psicossocial : Programa Violeta – HRAS, Margarida – HRAN, PAV – HRT.
+ - Locais que realizam  atendimento a álcool e droga  – CAPS – AD Guará II  ou Sobradinho II e  Hospital Univer-
+sitário – HUB.
+-  Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+ 
+
+63
+Rotina de Atendimento da Equipe Multiproﬁ  ssional nos Casos de Violência contra a Mulher         
+Rotina de Atendimento à Mulher 
+Vítima de Violência.
+Atender com equipe 
+interdisciplinar, se necessário.
+Orientar para buscar apoio: Delegacias Especializa-
+das (DEAM), Promotoras Legais populares, Vara do 
+Juizado de Violência Doméstica e Familiar contra 
+Mulher, Conselho dos Direitos da Mulher, Assistência 
+Jurídica gratuita, locais que realizam acompanha-
+mento às vítimas de agressão na rede de saúde, 
+entre  outros.
+Setores Envolvidos: Emergência, Clínica, Ambulatório, Serviço Social, Direção da Unidade, PSF, PACS, 
+Programa de Prevenção e  Atendimento às Vítimas de Violência – PAV, Polícia Civil e Militar, Odontologia 
+e Saúde Mental.
+TIPO DE VIOLÊNCIA QUEM ATENDE PROCEDIMENTOS 
+Violência Estrutural
+Difi  culdades econômicas para suprir 
+suas  necessidades básicas. Exem-
+plo: desemprego, fome e miséria.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de 
+Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos da mulher.
+- Preencher Ficha de Notifi  cação e encaminhar a paciente e a Ficha  para o   Serviço Social ou PAV.
+-Atender a mulher para apoio e orientações, buscando alternativas para melhoria das condições de vida.
+- Encaminhar para recursos da comunidade (CRAS, cursos profi  ssionalizantes, agências de emprego, 
+cestas básicas, entre outro.
+- Encaminhar à Nutrição.
+Violência Física
+Espancamento, pontapés, tapas, 
+murros, mutilações dos  dedos das 
+mãos, orelhas,  deformação do 
+corpo e rosto  por  queimaduras,  
+cegueira e  homicídio por arma de  
+fogo ou  faca.
+Médico
+Assistente Social
+Psicólogo
+Agente Comunitário de 
+Saúde 
+Enfermeiro
+Aux. de Enfermagem
+- Atendimento.
+- Anotar no prontuário características e comportamentos da mulher.
+- Preencher Ficha de Notifi  cação e encaminhar a paciente e a Ficha  para o   Serviço Social ou PAV.
+- Encaminhar a mulher para equipe de saúde mental (Programa Violeta – HRAS, Margarida – HRAN e 
+CAPS – AD).
+- Atender a mulher para apoio e orientações.
+-Orientar para denunciar na DEAM ou DP de sua área.
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Promover prevenção primária ou secundária em reuniões educativas.
+- Em caso de tentativa de homicídio, notifi  car  ao plantão policial do hospital.
+Violência Psicológica
+Ameaças, humilhação, desvaloriza-
+ção, indiferença, ridicularização e 
+outros.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de 
+Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos da mulher.
+- Preencher Ficha de Notifi  cação e encaminhar a paciente e a Ficha  para o Serviço Social ou PAV.
+- Encaminhar a mulher para equipe de saúde mental (Programa Violeta – HRAS, Margarida – HRAN e 
+CAPS – AD).
+- Atender a mulher para apoio e orientações.
+- Promover prevenção primária ou secundária em reuniões educativas.
+
+64
+Violência Sexual
+Estupro, exploração sexual, sexo 
+forçado no casamento.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de 
+Saúde
+- Atendimento.
+- Atender a mulher para apoio e orientações.
+- Anotar no prontuário características e comportamentos da mulher.
+- Preencher Ficha de Notifi  cação e encaminhar a paciente e a Ficha  para o   Serviço Social ou PAV.
+- Encaminhar a paciente para receber kit de profi  laxia, disponível nos PS (profi  laxia das DST/AIDS, Hepatite 
+B e gravidez).
+- Encaminhar a paciente para o Programa do Aborto Previsto em Lei – HRAS (quando necessário).
+- Encaminhar a mulher para equipe de saúde mental (Programa Violeta – HRAS, Margarida – HRAN e 
+CAPS – AD).
+- Orientar a paciente no sentido de comparecer à Delegacia de Polícia para registrar ocorrência e a partir 
+daí ser encaminhada ao exame pericial do IML, pois a comprovação do espermatozóide é feita até 12 
+horas após o coito anal e até 48 horas após o coito vaginal.
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+
+65
+Rotina de Atendimento da Equipe Multiproﬁ  ssional nos Casos de Violência contra o Idoso
+Rotina de Atendimento ao 
+Idoso Vítima de Violência.
+Atender com equipe inter-
+disciplinar, se necessário.
+Encaminhar o idoso e notifi  car ao CREAS via tel.: 3342-1407 / 3245-8921, Pro-
+motoria de Justiça de Defesa do Idoso e do Portador de Defi  ciência – PRO-
+DIDE (tel.: 3343-9721) e Delegacia de Polícia. O idoso também pode buscar 
+apoio na Gerência de Valorização do Idoso – GVI (tel.: 08006441401).
+Conforme o artigo 19 do Estatuto do Idoso, Lei Federal nº10.741, a notifi  ca-
+ção deve ser obrigatória à autoridade policial e ao Ministério Público.
+Setores Envolvidos: Emergência, Clínica, Ambulatório, Serviço Social, Direção da Uni-
+dade, PSF, PACS, Programa de Atendimento às Vítimas de Violência, Polícia Civil e Militar, 
+Odontologia e Saúde Mental.
+TIPO DE VIOLÊNCIA QUEM ATENDE PROCEDIMENTOS 
+Negligência
+Falta de cuidados bá-
+sicos com o idoso:  
+alimentação,vestuário, saúde,  
+afeto e  acidentes previsíveis. 
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de Saúde 
+- Atendimento.
+- Anotar no prontuário características e comportamentos do  idoso.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o  Serviço Social 
+ou PAV.
+- Notifi  car  ao  Centro de Referência Especializado de Assistência Social – CREAS através 
+do tel.: 3342-1407.
+- Atender a família para apoio e orientações.
+- Realizar visita domiciliar.
+- Engajar a família nos recursos da comunidade (CRAS, entidades religiosas etc).
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+Violência Estrutural
+Difi  culdades econômicas para 
+suprir suas  necessidades bá-
+sicas. Exemplo: desemprego, 
+subemprego,  fome e miséria.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos do idoso.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social 
+ou PAV.
+-Atender o idoso para apoio e orientações, buscando alternativas para melhoria das con-
+dições de vida.
+- Encaminhar para recursos da comunidade (CRAS, CREAS, programas de governo, cestas 
+básicas, instituições religiosas, entre outros).
+- Encaminhar à Nutrição.
+Violência Física
+Espancamento, pontapés, 
+tapas, murros, ferimentos, 
+queimaduras e outros.
+Médico
+Assistente Social
+Psicólogo
+Agente Comunitário de Saúde 
+Enfermeiro
+Aux. de Enfermagem
+- Atendimento.
+- Atender o idoso para apoio e orientações.
+- Anotar no prontuário características e comportamentos do idoso.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o  Serviço Social 
+ou PAV.
+- Em casos graves, encaminhar para Delegacia de Polícia  mais próxima da Unidade de 
+Saúde.
+- Notifi  car  ao  Centro de Referência Especializada em Assistência Social – CREAS por meio 
+do tel.: 3342-1407.
+- Encaminhar o idoso para equipe de saúde mental (Programa Violeta – HRAS e  Marga-
+rida – HRAN).
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Promover prevenção primária ou secundária em reuniões educativas.
+
+66
+Violência Psicológica
+Ameaças, humilhação, desva-
+lorização, indiferença
+ridicularização e outros.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de Saúde
+- Atendimento.
+- Atender o idoso para apoio e orientações.
+- Anotar no prontuário características e comportamentos do idoso.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o  Serviço Social 
+ou PAV.
+- Encaminhar o idoso  para equipe de saúde mental (Programa Violeta – HRAS e Marga-
+rida – HRAN).
+- Notifi  car  ao  Centro de Referência Especializado de Assistência Social – CREAS através 
+do tel.: 3342-1407.
+- Promover prevenção primária ou secundária em reuniões educativas.
+Violência Sexual
+Estupro.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de Saúde
+- Atendimento.
+- Atender o paciente  para apoio e orientações.
+- Anotar no prontuário características e comportamentos do idoso.
+- Preencher Ficha de Notifi  cação e encaminhar a paciente e a Ficha  para o   Serviço Social 
+ou PAV.
+- Encaminhar a paciente para receber kit de profi  laxia, disponível nos PS (profi  laxia das 
+DST/AIDS e Hepatite B).
+- Encaminhar a paciente à Delegacia de Polícia ou DEAM para registrar ocorrência e a 
+partir daí ser encaminhada ao exame pericial do IML.
+- Encaminhar para equipe de saúde mental (Programa Violeta – HRAS e Margarida  – 
+HRAN).
+ - Notifi  car  ao  Centro de Referência Especializado de Assistência Social – CREAS através 
+do tel.: 3342-1407.
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+Abuso Financeiro 
+Se apropriar do dinheiro/ 
+aposentadoria do idoso.
+Médico
+Assistente Social
+Psicólogo
+Enfermeiro
+Aux. de Enfermagem
+Agente Comunitário de  Saúde
+- Atendimento.
+- Anotar no prontuário características e comportamentos do  idoso.
+- Preencher Ficha de Notifi  cação e encaminhar o paciente e a Ficha  para o   Serviço Social 
+ou PAV.
+- Notifi  car  ao  Centro de Referência Especializado de Assistência Social – CREAS através 
+do tel.: 3342-1407 ou à Central Judicial do Idoso.
+- Encaminhar para a Promotoria – PRODIDE.
+- Atender a família para apoio e orientações.
+- Realizar visita domiciliar.
+- Engajar a família nos recursos da comunidade (CRAS, entidades religiosas etc).
+- Participar de reuniões interdisciplinares para estudo de caso.
+- Fazer prevenção primária ou secundária em reuniões educativas.
+
+67
+“Nunca duvide que um pequeno grupo de 
+pessoas conscientes e engajadas possa mudar 
+o mundo; de fato, sempre foi somente assim 
+que o mundo mudou.” 
+Fritjof Capra
+Projeto Gráfi  co e Diagramação
+Eduardo Gregório
+Ilustrador
+Ednaldo Magalhães
+Revisão ortográfi  ca
+Márcia de Oliveira e Adriene Costa
+
+MANUAL PARA ATENDIMENTO ÀS VÍTIMAS DE VIOLÊNCIA NA REDE PúbLICA  DE SAúDE DO DF
+Secretaria de  Estado de Saúde  
+do Distrito Federal
+Realização Apoio
+Convênio 3122/05

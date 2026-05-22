@@ -261,9 +261,8 @@ def load_dataframe(input_path: Path) -> pd.DataFrame:
     raise ValueError(f"Formato de entrada nao suportado: {input_path.suffix}")
 
 
-def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple[pd.DataFrame, pd.DataFrame, Dict[str, int]]:
+def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple[pd.DataFrame, Dict[str, int]]:
     victim_rows: List[PreparedRow] = []
-    context_rows: List[PreparedRow] = []
 
     stats = {
         "rows_input": int(len(df)),
@@ -276,14 +275,14 @@ def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple
         "segments_other": 0,
         "segments_unknown": 0,
         "rows_victim_output": 0,
-        "rows_context_output": 0,
     }
 
     for idx, row in df.iterrows():
-        history_raw = str(row.get(history_col, "") or "")
+        history_raw = normalize_text(row.get(history_col, ""))
         nature = normalize_text(row.get(nature_col, ""))
 
-        if not normalize_text(history_raw):
+        # Remove registros em que o campo historico esteja vazio ou so com espacos.
+        if not history_raw:
             continue
 
         stats["rows_with_history"] += 1
@@ -299,8 +298,6 @@ def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple
         stats["segments_total"] += len(segments)
 
         victim_segments: List[str] = []
-        context_segments: List[str] = []
-
         for seg in segments:
             label = classify_segment(seg)
             stats[f"segments_{label}"] += 1
@@ -314,9 +311,6 @@ def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple
 
             if label == "victim":
                 victim_segments.append(anonymized)
-                context_segments.append(anonymized)
-            elif label in {"other", "unknown"}:
-                context_segments.append(anonymized)
 
         if victim_segments:
             victim_text = cleanup_output_text(" ".join(victim_segments))
@@ -330,25 +324,10 @@ def build_datasets(df: pd.DataFrame, history_col: str, nature_col: str) -> Tuple
                     )
                 )
 
-        if context_segments:
-            context_text = cleanup_output_text(" ".join(context_segments))
-            if context_text:
-                context_rows.append(
-                    PreparedRow(
-                        row_id=int(idx),
-                        natureza=nature,
-                        text_anonymized=context_text,
-                        segment_count=len(context_segments),
-                    )
-                )
-
     stats["rows_victim_output"] = len(victim_rows)
-    stats["rows_context_output"] = len(context_rows)
 
     victim_df = pd.DataFrame([row.__dict__ for row in victim_rows])
-    context_df = pd.DataFrame([row.__dict__ for row in context_rows])
-
-    return victim_df, context_df, stats
+    return victim_df, stats
 
 
 def parse_args() -> argparse.Namespace:
@@ -357,7 +336,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--input",
-        default="data/Dados_Treinamento/DEAM_2026_preprocessadoII.xlsx",
+        default="data/Dados_Treinamento/DEAM_2026_preprocessado.xlsx",
         help="Arquivo de entrada (.xlsx, .csv ou .parquet)",
     )
     parser.add_argument(
@@ -384,8 +363,8 @@ def main() -> None:
     output_dir = Path(args.output_dir)
 
     if not input_path.exists():
-        fallback_path = Path("data/Dados_Treinamento/DEAM2026_preprocessadoII.xlsx")
-        if input_path.name == "DEAM_2026_preprocessadoII.xlsx" and fallback_path.exists():
+        fallback_path = Path("data/Dados_Treinamento/DEAM2026_preprocessado.xlsx")
+        if input_path.name == "DEAM_2026_preprocessado.xlsx" and fallback_path.exists():
             input_path = fallback_path
             print(f"[AVISO] Entrada padrao nao encontrada. Usando arquivo existente: {input_path}")
         else:
@@ -397,34 +376,17 @@ def main() -> None:
     history_col = choose_column(df, [args.history_col, "historico", "HISTORICO"])
     nature_col = choose_column(df, [args.nature_col, "Natureza", "Natureza Padronizada"])
 
-    victim_df, context_df, stats = build_datasets(df, history_col, nature_col)
+    victim_df, stats = build_datasets(df, history_col, nature_col)
 
     victim_csv_path = output_dir / "dataset_vitima_only.csv"
-    context_csv_path = output_dir / "dataset_vitima_contexto.csv"
-    victim_parquet_path = output_dir / "dataset_vitima_only.parquet"
-    context_parquet_path = output_dir / "dataset_vitima_contexto.parquet"
     report_path = output_dir / "preparation_report.json"
 
     victim_df.to_csv(victim_csv_path, index=False)
-    context_df.to_csv(context_csv_path, index=False)
-
-    parquet_saved = True
-    try:
-        victim_df.to_parquet(victim_parquet_path, index=False)
-        context_df.to_parquet(context_parquet_path, index=False)
-    except Exception:
-        parquet_saved = False
 
     with report_path.open("w", encoding="utf-8") as fp:
         json.dump(stats, fp, ensure_ascii=False, indent=2)
 
     print(f"[OK] dataset vitima-only (csv): {victim_csv_path}")
-    print(f"[OK] dataset vitima+contexto (csv): {context_csv_path}")
-    if parquet_saved:
-        print(f"[OK] dataset vitima-only (parquet): {victim_parquet_path}")
-        print(f"[OK] dataset vitima+contexto (parquet): {context_parquet_path}")
-    else:
-        print("[AVISO] Parquet nao salvo (engine ausente). Arquivos CSV foram gerados.")
     print(f"[OK] relatorio: {report_path}")
 
 

@@ -112,7 +112,7 @@ PLACEHOLDER_STRIP_RE = re.compile(r"\[(?:NOME|ENDERECO|DATA)\]")
 EMPTY_PUNCT_RE = re.compile(r"^[\W_]+$")
 
 OITIVA_START_RE = re.compile(
-    r"(?im)^\s*(?:oitiva(?:\(s\))?|oitivas?)\b\s*[:\-]?"
+    r"(?is)\b(?:oitiva(?:\(s\))?|oitivas?)\b\s*[:\-]?"
 )
 
 # The end marker closes the current Oitiva block and excludes administrative content.
@@ -155,18 +155,17 @@ def split_segments(text: str) -> List[str]:
 def classify_segment(segment: str) -> str:
     lowered = segment.lower()
 
-    if any(keyword in lowered for keyword in ADMIN_KEYWORDS):
-        return "admin"
-
     if any(keyword in lowered for keyword in VICTIM_HINTS):
         return "victim"
 
     if any(keyword in lowered for keyword in OTHER_PARTIES_HINTS):
         return "other"
 
-    # Many oitiva lines are short first-person statements without role markers.
     if " declarou" in lowered or " relatou" in lowered or " informou" in lowered:
         return "victim"
+
+    if any(keyword in lowered for keyword in ADMIN_KEYWORDS):
+        return "admin"
 
     return "unknown"
 
@@ -185,13 +184,14 @@ def extract_oitiva_block(history: str) -> str:
         return ""
 
     chunks: List[str] = []
-    for start in starts:
+    for i, start in enumerate(starts):
         tail = raw[start.end():]
         end = OITIVA_END_RE.search(tail)
         if end:
             block = tail[:end.start()]
         else:
-            block = tail
+            next_start = starts[i + 1].start() if i + 1 < len(starts) else len(raw)
+            block = raw[start.end():next_start]
 
         block = block.strip(" :-\n\r\t")
         if block:

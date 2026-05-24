@@ -1,0 +1,46 @@
+Para aplicar os parâmetros de aceleração do DataLoader, você deve inseri-los diretamente dentro do objeto 
+TrainingArguments no seu script (onde você define as configurações do Hugging Face Trainer).
+O Hugging Face encapsula nativamente os argumentos do PyTorch DataLoader dentro dessa classe.
+Modifique o trecho de criação do training_args na função main para incluir os dois comandos abaixo:
+python    training_args = TrainingArguments(
+        output_dir=str(out_dir),
+        per_device_train_batch_size=args.batch_size,
+        per_device_eval_batch_size=args.batch_size,
+        gradient_accumulation_steps=args.grad_accum,
+        learning_rate=args.learning_rate,
+        num_train_epochs=args.epochs,
+        logging_steps=20,
+        eval_steps=200,
+        save_steps=200,
+        eval_strategy="steps",
+        save_strategy="steps",
+        save_total_limit=2,
+        gradient_checkpointing=True,
+        bf16=torch.cuda.is_available(),
+        fp16=False,
+        report_to="none",
+        seed=args.seed,
+        
+        # --- ADICIONE ESTAS DUAS LINHAS ABAIXO ---
+        dataloader_num_workers=4,       # Usa 4 núcleos do Ryzen 9 para preparar dados
+        dataloader_pin_memory=True,     # Cria canal direto de memória RAM -> RTX 5080
+    )
+Use o código com cuidado.O que essa alteração vai fazer?dataloader_num_workers=4: O padrão do Hugging Face é 0,
+ o que significa que o processo principal executa a busca de dados de forma síncrona, travando a GPU a cada lote (batch).
+ Definir como 4 delega essa tarefa para subprocessos em paralelo na CPU.
+ dataloader_pin_memory=True: Aloca os dados tokenizados em uma região da memória RAM do sistema que não sofre paginação,
+  permitindo que a RTX 5080 puxe os dados via barramento PCIe muito mais rápido.
+  Observação importante sobre o seu código:Notou-se que no seu bloco build_model,
+   a tabulação corrompida acabou gerando um erro de sintaxe oculto dentro do dicionário da 
+   configuração do LoRA:
+   python    lora_cfg = LoraConfig(
+        r=16,
+        lora_alpha=32,
+        lora_dropout=0.05,
+        bia        model_kwargs["dtype"] = torch.bfloat16
+s="none",
+...
+Use o código com cuidado.Quando for reiniciar o treinamento com as melhorias do DataLoader, 
+lembre-se de limpar essa linha quebrada para corrigir a propriedade bias="none".
+Gostaria de ajuda para adicionar esses novos argumentos via linha de comando (argparse) 
+ou quer verificar alguma outra métrica de otimização de tempo para o script?

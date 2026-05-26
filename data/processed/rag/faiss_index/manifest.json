@@ -1,0 +1,9 @@
+{
+  "input_file": "data\\processed\\rag\\base_rag_limpa.txt",
+  "embedding_backend": "openai",
+  "embedding_model": "text-embedding-3-small",
+  "chunk_size": 1200,
+  "chunk_overlap": 150,
+  "chunks": 56,
+  "index_dir": "data\\processed\\rag\\faiss_index"
+}

@@ -93,12 +93,13 @@ def main() -> None:
     base_model = AutoModelForCausalLM.from_pretrained(
         base_model_source,
         trust_remote_code=True,
-        device_map="auto" if torch.cuda.is_available() else None,
         dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
         cache_dir=args.cache_dir,
         local_files_only=not args.allow_remote,
     )
     model = PeftModel.from_pretrained(base_model, args.adapter_dir)
+    if torch.cuda.is_available():
+        model = model.to("cuda")
     model.eval()
 
     prompt = build_prompt(args.text, categories)
@@ -114,7 +115,8 @@ def main() -> None:
             eos_token_id=tokenizer.eos_token_id,
         )
 
-    generated = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+    prompt_len = inputs["input_ids"].shape[-1]
+    generated = tokenizer.decode(output_ids[0][prompt_len:], skip_special_tokens=True)
     answer = parse_json_answer(generated, categories)
     print(json.dumps(answer, ensure_ascii=False))
 

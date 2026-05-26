@@ -1,0 +1,15 @@
+{
+  "train_jsonl": "data/processed/finetune/llm_local/train.jsonl",
+  "val_jsonl": "data/processed/finetune/llm_local/val.jsonl",
+  "base_model": "Qwen/Qwen2.5-7B-Instruct",
+  "output_dir": "models/qwen2.5-7b-vitima-only-lora",
+  "max_length": 1024,
+  "batch_size": 1,
+  "grad_accum": 16,
+  "learning_rate": 0.0002,
+  "epochs": 2.0,
+  "seed": 42,
+  "cache_dir": null,
+  "allow_remote": false,
+  "use_4bit": false
+}

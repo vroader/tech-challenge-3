@@ -18,6 +18,13 @@ __pycache__/
 # Modelos treinados (muito grandes para o GitHub)
 models/*.pkl
 
+# Pesos do adapter LoRA treinado em dados sensiveis
+# Nao publicar para evitar extracao de informacoes pessoais de vitimas
+models/**/*.safetensors
+models/**/*.bin
+models/**/checkpoint-*/
+models/**/offload/
+
 #Environment variables
 .env
 

@@ -1,109 +1,230 @@
-# Tech Challenge 3 — Otimização do modelo preditor de recorrência em casos de violência contra a mulher
+# Tech Challenge 3 — Assistente Virtual de Apoio à Mulher em Situação de Violência
 
-Desenvolver um assistente virtual de atendimento especializado em segurança da mulher, utilizando fine-tuning de LLMs com dados
-específicos da área e implementando fluxos automatizados de decisão através do LangChain, orientações sobre serviços sociais e medidas 
-jurídicas e protetivas  sempre respeitando protocolos de segurança, privacidade e sensibilidade cultural específicos do atendimento feminino.
+Assistente virtual especializado em segurança da mulher, com fine-tuning local de LLM, fluxos de decisão via LangGraph e orientações sobre serviços sociais e medidas jurídicas/protetivas, respeitando a privacidade e a sensibilidade do domínio.
+
+---
+
+## Arquitetura
+
+```
+Usuária digita mensagem
+        │
+        ▼
+┌───────────────────┐
+│  Classificador    │  Qwen2.5-7B + LoRA (GPU local)
+│  fine-tuned       │  OU gpt-4o-mini via API (modo API-only)
+│  30 categorias    │
+└────────┬──────────┘
+         │  categoria + confiança
+         ▼
+┌───────────────────────────────┐
+│  LangGraph StateGraph         │
+│                               │
+│  SEM_VIOLÊNCIA ──► friend     │  gpt-4o-mini — conversa de apoio
+│  Violência/Crime ──► rag      │  gpt-4o-mini + RAG — orientação jurídica
+│                               │       (base: legislação + serviços de apoio)
+│  ── log ──► MongoDB ──► END   │
+└───────────────────────────────┘
+        │
+        ▼
+  Interface Streamlit
+  (sidebar com diagnóstico em tempo real)
+```
+
+---
+
+## Dois modos de execução
+
+### Modo completo (recomendado para avaliação do protótipo)
+
+Exige GPU com pelo menos 16 GB de VRAM e o adapter LoRA treinado.
+O classificador local roda no hardware do usuário, sem enviar o texto para nenhuma API.
+
+```
+USE_LOCAL_CLASSIFIER=true   # padrão
+```
+
+### Modo API-only (recomendado para rodar sem GPU)
+
+Nenhum modelo local é carregado. A classificação é delegada ao `gpt-4o-mini` (zero-shot),
+mantendo todo o fluxo funcional. Exige apenas uma chave OpenAI válida.
+
+```
+USE_LOCAL_CLASSIFIER=false
+```
+
+---
+
+## Aviso importante — privacidade dos dados de treinamento
+
+O adapter LoRA (`models/`) foi treinado em boletins de ocorrência reais que contêm
+dados pessoais de vítimas de violência (nomes, endereços, contextos). Embora os pesos
+do adapter não armazenem o texto em formato legível, pesquisas de privacidade em LLMs
+demonstram que modelos fine-tunados podem memorizar fragmentos do treinamento e
+reproduzi-los via prompts adversariais.
+
+Por esses motivos:
+
+- **Os arquivos `*.safetensors`, `*.bin` e checkpoints da pasta `models/` não são
+  versionados neste repositório** (`.gitignore` os exclui).
+- Os dados brutos de treinamento (`data/Dados_Treinamento/` e `data/processed/`) também
+  são excluídos do versionamento.
+- Para reproduzir o treinamento, é necessário obter os dados diretamente junto à equipe
+  ou seguir o fluxo de preparação descrito abaixo.
+- O projeto pode ser executado **sem o adapter** usando `USE_LOCAL_CLASSIFIER=false`,
+  o que não apresenta nenhum risco de vazamento.
+
+---
 
 ## Setup rápido
 
-Requisitos: **Python 3.11+** (recomendado).
+**Requisitos:** Python 3.11+, ambiente virtual ativo, Docker Desktop (para MongoDB).
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+.venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
 
-Variáveis de ambiente (opcional):  no arquivo `.env` na raiz do projeto (o cliente usa `python-dotenv`).
+Copie o arquivo de exemplo e preencha as variáveis:
 
-**Dados:** Os dados para treinamento do fine tunning são sensíveis e não estão disponíveis no repositório seu tratamento 
-está descrito em PreprocessamentoFineTune.md
+```bash
+cp .env.example .env
+# Edite .env com sua OPENAI_API_KEY
+```
 
-## Estrutura do repositório
+Suba o MongoDB:
 
-| Caminho                         | Descrição                                                                                  |
-| ------------------------------- | ------------------------------------------------------------------------------------------ |
-| `app/streamlit_app.py`          | Interface Streamlit para carregar o frontend                                               |
-| `data/Dados_Treinamento`        | Dados brutos para treinamento do finetune (gitignore)                                      |
-| `data/processed`                | Dados processados para finetunning (gitignore)                                             |
-| `docs/Referencial_rag`          | Documentos públicos coletados para configuração do rag                                     |
-| `models/`                       | Modelos treinados                                                                          |
-| `source/`                       | Códigos                                                                                    |
+```bash
+docker-compose up -d mongo
+```
 
-## Uso
-
-### Aplicação Streamlit
+Inicie a aplicação:
 
 ```bash
 streamlit run app/streamlit_app.py
 ```
 
-O app permite escolher entre variantes de modelo em `models/` (conforme arquivos `.pkl` gerados pela execução do `src/optimize_ga.py`).
+Para rodar sem GPU (modo API-only), adicione ao `.env`:
 
-### Preparacao local para fine-tuning com dados sigilosos
+```
+USE_LOCAL_CLASSIFIER=false
+```
 
-Foi adicionada uma etapa inicial de preparo de corpus para uso 100% local:
+---
 
-1. Anonimizacao e separacao de narrativas relevantes (remove segmentos administrativos):
+## Estrutura principal
+
+| Caminho | Descrição |
+| --- | --- |
+| `app/streamlit_app.py` | Interface Streamlit (chat + sidebar de diagnóstico) |
+| `src/chat/graph.py` | LangGraph StateGraph (classify → route → friend\|rag → log) |
+| `src/chat/classifier_node.py` | Classificador local (LoRA) com fallback API-only |
+| `src/chat/friend_node.py` | Resposta empática via gpt-4o-mini (modo WhatsApp) |
+| `src/chat/rag_node.py` | Orientação jurídica via gpt-4o-mini + FAISS RAG |
+| `src/chat/mongo_logger.py` | Log assíncrono de conversas no MongoDB |
+| `src/data_prep/` | Scripts de preparação e geração do dataset de treino |
+| `src/llm_local/` | Pipeline de treino (LoRA), inferência e avaliação local |
+| `docs/Referencial_rag/` | Base documental para RAG (legislação, portarias, guias) |
+| `data/processed/rag/` | Índice FAISS gerado a partir dos documentos de referência |
+| `models/` | Saída do adapter LoRA treinado (não versionado — ver aviso acima) |
+
+---
+
+## Pipeline de fine-tuning local
+
+### 1) Preparação do corpus
 
 ```bash
 python src/data_prep/prepare_finetune_corpus.py \
-	--input data/Dados_Treinamento/DEAM_2026_preprocessadoII.xlsx \
-	--output-dir data/processed/finetune
+    --input data/Dados_Treinamento/DEAM_2026_preprocessadoII.xlsx \
+    --output-dir data/processed/finetune
 ```
 
-O script extrai exclusivamente o conteudo do bloco `Oitiva(s)` e elimina secoes administrativas como `Das Providencias`, `Despacho` e `Aditamento`.
-Caso o arquivo com underscore nao exista, o script usa automaticamente `data/Dados_Treinamento/DEAM2026_preprocessadoII.xlsx`.
-
-Saidas principais em `data/processed/finetune`:
-- `dataset_vitima_only.csv` (apenas segmentos classificados como fala da vitima)
-- `dataset_vitima_contexto.csv` (vitima + contexto nao administrativo)
-- `preparation_report.json` (metricas de extração)
-
-2. Geracao de dataset de instrucoes com rotulo inicial de risco (heuristico):
-
-- 
+### 2) Geração do dataset de treino
 
 ```bash
-python src/data_prep/build_instruction_dataset.py \
-	--input data/processed/finetune/dataset_vitima_contexto.csv \
-	--output-dir data/processed/finetune
+python src/llm_local/prepare_category_jsonl.py \
+    --input data/processed/finetune/dataset_vitima_only_merged.csv \
+    --output-dir data/processed/finetune/llm_local
 ```
 
-Saidas principais:
-- `risk_train.jsonl`
-- `risk_val.jsonl`
-- `risk_label_stats.json`
+Saídas: `train.jsonl`, `val.jsonl`, `test.jsonl`, `categories.json`
 
-Observacao: os rotulos de risco gerados sao baseline por regras e devem ser validados por especialistas antes de qualquer uso operacional.
+### 3) Fine-tuning (LoRA)
 
-### Modelo textual local para narrativas
-
-
+Modelo base: `Qwen/Qwen2.5-7B-Instruct` | Adapter: LoRA r=16, alpha=32
+Dataset: ~2346 exemplos de treino / 30 categorias / 2 épocas
 
 ```bash
-python src/text_classifier.py train
-python src/text_classifier.py predict --text "texto da narrativa aqui"
+python src/llm_local/train_local_lora.py
 ```
 
-Saidas do treino:
-- `models/text_risk_classifier.pkl`
-- `models/text_risk_classifier_metrics.json`
+Opções: `--cache-dir .hf_cache` | `--allow-remote` | `--use-4bit`
 
-Se quiser testar de forma interativa, rode apenas:
+Saída: `models/qwen2.5-7b-vitima-only-lora/`
+
+Tempo estimado na RTX 5080 (16 GB): **~50–80 minutos**
+
+### 4) Inferência com o adapter treinado
 
 ```bash
-python src/text_classifier.py predict
+python src/llm_local/predict_local.py \
+    --text "Narrativa para classificar"
 ```
 
-O modelo de texto usa os arquivos `risk_train.jsonl` e `risk_val.jsonl` gerados na etapa de preparacao.
+### 5) Avaliação
+
+```bash
+python src/llm_local/evaluate_local.py --limit 100
+```
+
+---
+
+## Construção do índice RAG
+
+```bash
+python src/rag/build_index.py \
+    --docs-dir docs/Referencial_rag \
+    --output-dir data/processed/rag
+```
+
+O índice FAISS gerado (documentos públicos) está versionado no repositório.
+
+---
+
+## Variáveis de ambiente (`.env`)
+
+| Variável | Obrigatória | Descrição |
+| --- | --- | --- |
+| `OPENAI_API_KEY` | Sim | Chave da API OpenAI |
+| `MONGO_URI` | Não | URI do MongoDB (padrão: `mongodb://localhost:27017`) |
+| `USE_LOCAL_CLASSIFIER` | Não | `true` = usa modelo local (padrão) / `false` = modo API-only |
+
+---
+
+## Aplicação Streamlit — funcionalidades
+
+- **Chat de apoio** com histórico de conversa
+- **Sidebar de diagnóstico** em tempo real: categoria detectada, confiança do classificador e caminho tomado no grafo (exibido apenas para avaliação do protótipo)
+- **"Nova conversa"** reinicia sessão e limpa diagnóstico
+- **Expander "Sobre os modelos"** explica a arquitetura ao avaliador
+
+---
+
+## Aviso operacional
+
+Se o fine-tuning local estiver em execução, não interromper o processo.
+Não fechar o terminal de treino, não reiniciar a máquina e não matar processos Python/torch durante a execução.
+
+---
 
 ## Integrantes
 
-| Nome                           |
-| ------------------------------ |
-| Marcelo Arruda de Siqueira     |
-| Leonardo Barbosa Nogueira      |
-| Jose Flavio Neto               |
-| Pedro Matias dos Santos        |
-| Wellington Vieira de Oliveira  |
+| Nome |
+| --- |
+| Marcelo Arruda de Siqueira |
+| Leonardo Barbosa Nogueira |
+| Jose Flavio Neto |
+| Pedro Matias dos Santos |
+| Wellington Vieira de Oliveira |
